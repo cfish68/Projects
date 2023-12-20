@@ -1,0 +1,70 @@
+bool binary_search(int* database, int size, const int input, int& index) {
+	int lower = 0, upper = size - 1;
+	while (lower <= upper) {
+		int middle = (lower + upper) / 2;
+		index = middle;
+		// item is middle element
+		if (search == *database+middle)
+		{
+			return true;
+		}
+		// search upper half
+		if (search > *database+middle)
+			lower = middle + 1;
+
+		// search lower half
+		if (search < *database+middle)
+			upper = middle - 1;
+
+	}
+	return false;
+}
+
+int* newClass(int*& database, int& size)
+{
+	int input;
+	cout << "Enter the code of the classroom to add:\n";
+	cin >> input;
+	//bool inputed = binarySearch(input, database);
+	if(!inputed)
+	{
+		int* oldDatabase = database;
+		database = new int[size+1];
+		for(int i = 0; i < size; i++)//copy oldDatabase
+		{
+			*database+i=*oldDatabase+i;
+		}
+		delete []oldDatabase;//after done copying delete the old data base.
+	//insert new hybrid classroom into new array
+		void insert(database, size);
+	
+	}
+}
+
+
+void insert(int* database, int size, int input)
+{
+	int i;
+	for(i = 0; i < size; i++)//find where input belongs in sorted array.
+	{
+		if (*(database + i) > value)
+		{
+			for (int j = size; j >= i; j--)//once you've found where input blongs make space for it.
+			{
+				*(database + j) = *(database + j - 1);
+			}
+			break;leave the outer for loop so i does not get incremented after we've made space for it.
+		}
+	}	
+	*database+i=input;//save input into space made for it.
+}
+
+
+void delClass(int*& database, int& size)
+{
+	int input, index;
+	if(binary_search(database, size, input, index))
+	{
+		
+	}
+}
