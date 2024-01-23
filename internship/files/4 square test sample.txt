@@ -1,0 +1,1001 @@
+url,status,domain,name4,address4,city4,postal_code4,country4,phone4,description4,social4,source42
+http://www.1000it.biz,,1000it.biz,ตู้เติมเงินไทยแสนดี ไทยโตชิบาไลท์ติ้ง,ซอย สวนอุตสาหกรรม บางกะดี,AMPHOE MUEANG PATHUM THANI,12000,THAILAND,+66 61 919 5585,Factory,,4 SQUARE
+http://www.1chigo-yaizu.gorp.jp,,1chigo-yaizu.gorp.jp,1CHIGO,栄町6-3-19,YAIZU,425-0027,JAPAN,+81 50-5487-3428,"Sake Bar,¥¥,¥¥",,4 SQUARE
+http://www.2013ving.tumblr.com,,2013ving.tumblr.com,V+ING,中正路516-42號,XINZHUANG DISTRICT,242,TAIWAN,+886 2 2902 0915,Café,,4 SQUARE
+http://www.260berry.com,,260berry.com,BERRY,260 BERRY ST,BROOKLYN,11249,(1ST FL),(347) 721-3650,Hair Salon,https://facebook.com/821531721248788,4 SQUARE
+http://www.26930fraserhighway.midasvancouver.com,,26930fraserhighway.midasvancouver.com,MIDAS,26930 FRASER HIGHWAY,ALDERGROVE,V4W 3L6,CANADA,(604) 856-7041,"Midas is one of the world's largest providers of auto repair services, including brakes, oil change, tires, maintenance, steering, and exhaust services. Visit your local Midas for additional services.",https://facebook.com/midasoftropicana,4 SQUARE
+http://www.4-gott.se,,4-gott.se,4-GOTT,ÖSTRA HAMNGATAN 5,GOTHENBURG,411 10,SWEDEN,+46 31 13 19 26,"Candy Store,Souvenir Store",,4 SQUARE
+http://www.5-wits.com,,5-wits.com,5 WITS,400 MILLCREEK MALL,ERIE,16565,UNITED STATES,(814) 618-6071,Escape Room,https://facebook.com/5WitsEriePA,4 SQUARE
+http://www.5m.cz,,5m.cz,5M,NA ZÁHONECH 1177,KUNOVICE,686 04,CZECH REPUBLIC,+420 572 433 711,Construction Supplies Store,,4 SQUARE
+http://www.755700.ru,,755700.ru,220V,"УЛ. КИМ Ю ЧЕНА, 12",KHABAROVSK,6800,RUSSIA,+7 421 275-57-00,Electronics Store,,4 SQUARE
+http://www.7eleven.co.kr,,7eleven.co.kr,7-ELEVEN,일산동구 강촌로 191,GOYANG-SI,10417,(일산백마미들점),+82 70-4405-5481,Convenience Store,https://facebook.com/7elevenkorea,4 SQUARE
+http://www.7nn.tv,,7nn.tv,7NN TV,CALLE CARPINTEROS 7,BOADILLA DEL MONTE,28660,SPAIN,,TV Station,https://instagram.com/7nn_tv,4 SQUARE
+http://www.a-wines.com,,a-wines.com,A-WINES,1300 CAMBRIDGE ST,CAMBRIDGE,02139,UNITED STATES,(617) 864-9463,Wine Bar,,4 SQUARE
+http://www.a2pt.co.uk,,a2pt.co.uk,A2PT,58A CHAPEL VIEW,SOUTH CROYDON,CR2 7LF,UNITED KINGDOM,+44 7944 069557,Sports and Recreation,,4 SQUARE
+http://www.aas.se,,aas.se,AAS,,JÖNKÖPING,561 25,SWEDEN,+46 36 71 94 70,Retail,,4 SQUARE
+http://www.abenaab.se,,abenaab.se,ABENA,LJUNGADALSG. 19,VAXJO,352 46,SWEDEN,+46 470 446 00,Retail,,4 SQUARE
+http://www.abidis-depannage.com,,abidis-depannage.com,ABIDIS,40 RUE D'ALÉSIA,PARIS,75014,FRANCE,+33 1 43 35 12 09,Construction Supplies Store,,4 SQUARE
+http://www.abrigo.com,,abrigo.com,ABRIGO,12331-B RIATA TRACE PKWY,AUSTIN,78727,UNITED STATES,(888) 201-2231,Make Big Things Happen,https://facebook.com/WeAreAbrigo,4 SQUARE
+http://www.absd.fr,,absd.fr,A.B.S.D,4518 ROUTE DE NEUFCHÂTEL,BOIS-GUILLAUME,76230,FRANCE,+33 2 35 61 10 00,Construction Supplies Store,,4 SQUARE
+http://www.acscourier.net,,acscourier.net,ACS HQ,,,,GREECE,,"Shipping, Freight, and Material Transportation Service",https://facebook.com/ACSCOURIER,4 SQUARE
+http://www.adalid.fr,,adalid.fr,ADALID,244 AVENUE DE LA RÉPUBLIQUE,LA MADELEINE,59110,FRANCE,,Cabinet de recrutement en informatique,,4 SQUARE
+http://www.adcb.com,,adcb.com,ADCB,,DAMIETTA,,EGYPT,,Bank,https://facebook.com/ADCBOfficial,4 SQUARE
+http://www.addamowinecellar.com,,addamowinecellar.com,CELLAR,MAIN ST,PORTERVILLE,93257,UNITED STATES,(559) 784-4235,American Restaurant,,4 SQUARE
+http://www.adecco.no,,adecco.no,ADECCO,SJØGATA 6,HAMMERFEST,9600,NORWAY,+47 400 01 548,Employment Agency,,4 SQUARE
+http://www.adjuno.com,,adjuno.com,ADJUNO,6 LANGLEY QUAY,SLOUGH,,UNITED KINGDOM,+44 1753 260400,Tech Startup,,4 SQUARE
+http://www.adventresults.com,,adventresults.com,ADVENT,2316 CRUZEN ST,NASHVILLE,37211,UNITED STATES,(615) 742-3355,We partner with universities and corporations to visually express their brand.,https://facebook.com/AdventResults,4 SQUARE
+http://www.aegisgroep.nl,,aegisgroep.nl,AEGIS,ONDERNEMINGSWG 222,UITHOORN,1422 DZ,NETHERLANDS,+31 297 519 150,Business Service,,4 SQUARE
+http://www.aeralo.com,,aeralo.com,AERALO,"CALLE PARTIDORES, 21",ALMERÍA,04120,SPAIN,+34 950 29 14 20,Business and Professional Services,,4 SQUARE
+http://www.agencesramos.fr,,agencesramos.fr,STI,11 PLACE DU MARCHÉ,SAINT-SAUVEUR-EN-PUISAYE,89520,FRANCE,+33 3 86 45 58 08,Real Estate Agency,,4 SQUARE
+http://www.agiusadministracion.com,,agiusadministracion.com,AGIUS,CALLE REAL 2,LOS MOLINOS,28460,SPAIN,+34 918 55 11 14,Real Estate Agency,,4 SQUARE
+http://www.agmarbhp.pl,,agmarbhp.pl,AGMAR,WOŹNIKI 31,WOŹNIKI,97-505,POLAND,+48 728 271 733,Construction Supplies Store,,4 SQUARE
+http://www.ahb.jpn.com,,ahb.jpn.com,PET PLUS,徳丸2-6-1,ITABASHI,175-0083,(イオン板橋SC 3F),+81 3-5922-3420,Pet Supplies Store,,4 SQUARE
+http://www.ahoch2-suppenbar.de,,ahoch2-suppenbar.de,AHOCH2,ROBERT-BOSCH-STR. 24,DARMSTADT,64293,GERMANY,+49 163 6363600,"Soup Spot,€,€€€",https://facebook.com/ahoch2suppenbar,4 SQUARE
+http://www.ahorn.berlin,,ahorn.berlin,A.HORN,CARL-HERZ-UFER 9,BERLIN,10961,(BAERWALDSTR.),+49 30 60059888,"Café,Breakfast Spot,€€,€€",https://facebook.com/ahorn.berlin,4 SQUARE
+http://www.ail.cz,,ail.cz,AIL,KOVÁŘSKÁ 488/16,PRAGUE,190 00,CZECH REPUBLIC,+420 284 680 069,Business Service,,4 SQUARE
+http://www.ainsi qu'aux établissements recevant du public.,,ainsi qu'aux établissements recevant du public.,ACEM,1 IMPASSE DU BOURNEUF,SAINT-GELAIS,79410,FRANCE,ACEM est spécialiste en équipements d'accessibilité pour personnes à mobilité réduite. Ces équipements s'adressent aux particuliers,"""Créé en 1996",,4 SQUARE
+http://www.aldi.hu,,aldi.hu,ALDI,HOLLAND FASOR 1.,SZÉKESFEHÉRVÁR,8000,HUNGARY,,Grocery Store,https://facebook.com/ALDI.Magyarorszag,4 SQUARE
+http://www.alifrestaurante.com.br,,alifrestaurante.com.br,ALIF,"ESTR. UNIÃO E INDÚSTRIA, 12694",PETRÓPOLIS,25730-775,BRAZIL,+55 24 2222-0115,"Falafel Restaurant,Middle Eastern Restaurant",,4 SQUARE
+http://www.almc.com.au,,almc.com.au,ALMC,431 DOUGLAS PDE.,SPOTSWOOD,3015,(BURLEIGH ST.),+61 3 9392 5617,Factory,,4 SQUARE
+http://www.alsei.com,,alsei.com,ALSEI,1 RUE DES QUATRE CHAPEAUX,LYON,69002,FRANCE,+33 4 72 56 01 04,Real Estate Agency,,4 SQUARE
+http://www.alsouk.co.uk,,alsouk.co.uk,ALSOUK,36 WOODFORD AVE,ILFORD,IG2 6XQ,UNITED KINGDOM,+44 20 3643 5173,Lebanese Restaurant,,4 SQUARE
+http://www.altom.cz,,altom.cz,ALTOM,SLÉVAČSKÁ 744/1,PRAGUE,198 00,CZECH REPUBLIC,+420 281 860 330,Hotel,,4 SQUARE
+http://www.am1.cz,,am1.cz,AM1,KOLLÁROVA 2288,TÁBOR,390 02,CZECH REPUBLIC,+420 603 333 651,Automotive Repair Shop,,4 SQUARE
+http://www.amaris.com,,amaris.com,AMARIS,"CAMPO GRANDE, 56",LISBON,1700-093,PORTUGAL,,Office,,4 SQUARE
+http://www.ambach-idstein.de,,ambach-idstein.de,AMBACH,AM HEXENTURM 9,IDSTEIN,65510,GERMANY,+49 6126 7002927,"German Restaurant,Bar,€€,€€",,4 SQUARE
+http://www.amnesia.hu,,amnesia.hu,AMNESIA,TÁBORHELY U. 4,NAGYKANIZSA,8800,HUNGARY,,Clothing Store,,4 SQUARE
+http://www.amorigallery.com,,amorigallery.com,AMORI,JL. SUNSET ROAD NO. 100,BADUNG,80361,INDONESIA,+62 361 8475947,Furniture and Home Store,,4 SQUARE
+http://www.amosite.co.uk,,amosite.co.uk,AMOSITE,BROOKSIDE INDUSTRIAL ESTATE,SAWTRY,PE28 5SB,UNITED KINGDOM,+44 1733 345944,Construction Supplies Store,,4 SQUARE
+http://www.amtex.com.co,,amtex.com.co,SGS,IGNACIO VALDIVIESO 2409 SAN JOAQUÍN,SANTIAGO,,CHILE,+56 2 2898 9500,Research Laboratory,,4 SQUARE
+http://www.anacipiacenza.com,,anacipiacenza.com,ANACI,VIA GOVONI 7,PIACENZA,29122,ITALY,+39 0523 331566,Business and Professional Services,,4 SQUARE
+http://www.anacondastores.com,,anacondastores.com,ANACONDA,2-3 / 330 COOPER STREET,EPPING,3076,AUSTRALIA,,Outdoor Supply Store,https://facebook.com/AnacondaStores,4 SQUARE
+http://www.anandashop.com.ar,,anandashop.com.ar,ANANDA,3070 PEÑA,BUENOS AIRES,1425,ARGENTINA,+54 9 11 3060-2529,"Ananda es una marca creada por 3 amigas que las une su pasión por la moda. Ofrecemos diseños únicos, exclusivos y de calidad con el fin de que las clientas tengan una linda experiencia y nos vuelvan a elegir. ¡Conocemos!",,4 SQUARE
+http://www.anbeko.be,,anbeko.be,ANBEKO,SAFFIERSTRAAT 195,ANTWERP,2600,BELGIUM,+32 3 230 71 28,Construction Supplies Store,,4 SQUARE
+http://www.andazdining.com,,andazdining.com,MIYAKO,32 LIVERPOOL ST,LONDON,EC2 M 3,UNITED KINGDOM,+44 20 7618 7100,"An exciting Japanese restaurant. The food is uncomplicated and authentic, and, being in the City, the restaurant gets packed at lunchtimes. We'd suggest going in the evening to soak up the whole 'Japanese-ness' of the place, tuck into their delicious delicacies like Chicken teriyaki.",,4 SQUARE
+http://www.andefo.se,,andefo.se,ANDEFO,LILJEKUNGSV. 192,HÄSSELBY,165 75,SWEDEN,+46 8 560 56 00,Business and Professional Services,,4 SQUARE
+http://www.andes.fr,,andes.fr,ANDES,18 AVENUE CHARLES DE GAULLE,BALMA,31130,FRANCE,+33 5 34 43 66 53,Sports and Recreation,,4 SQUARE
+http://www.ansol.pl,,ansol.pl,ANSOL,UL. SOSNKOWSKIEGO 4B/7,OPOLE,45-284,POLAND,+48 77 416 80 39,Construction Supplies Store,,4 SQUARE
+http://www.apcis.fr,,apcis.fr,APCIS,6 VILLA DES BRUYÈRES,VILLEJUIF,94800,FRANCE,+33 1 46 77 69 92,"Nous formulons, produisons et distribuons des encres et vernis à haute performance pour des applications graphiques et techniques",,4 SQUARE
+http://www.apersa.es,,apersa.es,APERSA,"CARRETERA MADRID, KM 231",SAN CIBRAO DAS VIÑAS,32911,SPAIN,+34 988 36 30 30,Concesionario Audi  Volkswagen Ourense,https://facebook.com/ApersaOurense,4 SQUARE
+http://www.apollo.de,,apollo.de,APOLLO,UNTER DEN LINDEN 32-34,BERLIN,10117,GERMANY,+49 30 20454543,"Mit mehr als 800 Filialen ist Apollo Deutschlands filialstärkster Optiker. Unser Ziel ist es mit herausragendem Service, professioneller Beratung in Optik-und Stilfragen sowie Produkten von bester Qualität unsere Kunden zu begeistern.",https://facebook.com/Apollo.Berlin.UnterdenLinden.3234,4 SQUARE
+http://www.approelec.sonepar.fr,,approelec.sonepar.fr,APPRO,1076 BOULEVARD BERNARD LONG,BRIGNOLES,83170,FRANCE,+33 4 98 05 25 90,"Fournisseur de matériel et solutions électriques pour les professionnels pour le résidentiel, l'industrie ou le tertiaire",,4 SQUARE
+http://www.aprio.se,,aprio.se,APRIO,TELLUSBORGSV. 67 A,STOCKHOLM,122 45,SWEDEN,+46 8 522 192 00,Construction Supplies Store,,4 SQUARE
+http://www.aqm.no,,aqm.no,AQM,SLETTESTRANDVEIEN 13,STAVANGER,4032,NORWAY,+47 480 06 280,Business and Professional Services,,4 SQUARE
+http://www.archief2015.dare.nl,,archief2015.dare.nl,DARE,IMKERSDREEF 705,APELDOORN,7328 DL,NETHERLANDS,+31 348 431 807,Electronics Store,,4 SQUARE
+http://www.arclivinglic.com,,arclivinglic.com,ARC,30-02 39TH AVE,LONG ISLAND CITY,11101,(30TH STREET),(718) 272-3002,Apartment or Condo,,4 SQUARE
+http://www.arco.com,,arco.com,ARCO,7600 S WESTERN AVE,LOS ANGELES,90047,(AT W 76TH ST),(323) 541-0789,Fuel up on quality TOP TIER™ gas at ARCO of Los Angeles.,https://facebook.com/248561385265356,4 SQUARE
+http://www.arenco.com,,arenco.com,ARENCO,FORNANDERG. 1,KALMAR,392 33,SWEDEN,+46 480 945 00,Retail,,4 SQUARE
+http://www.argol.fr,,argol.fr,ARGOL,,ARGOL,29560,FRANCE,,Village,,4 SQUARE
+http://www.ariatt.fr,,ariatt.fr,ARIATT,21 RUE ALAIN SAVARY ENTREE A,BESANÇON,25000,FRANCE,+33 9 63 25 81 98,Grocery Store,,4 SQUARE
+http://www.armida-srl.it,,armida-srl.it,ARMIDA,"VIA TRAMAZZO, 27",FIESSO D'ARTICO,30032,ITALY,+39 041 516 1936,Armida opera nel settore commercio e riparazione macchine per calzaturifici e calzolai. I nostri prodotti vanno da macchinari nuovi e revisionati di tutte le marche alle attrezzature per la produzione e la lavorazione della calzatura e una vasta gamma di accessori e ricambi per calzaturifici...,,4 SQUARE
+http://www.ars-bxl.be,,ars-bxl.be,ARS BXL,AVENUE EVERARDLAAN,BRUSSELS,1190,BELGIUM,+32 477 70 73 90,Office,,4 SQUARE
+http://www.artcom.de,,artcom.de,ART+COM,KLEISTSTR. 23-26,BERLIN,10787,GERMANY,+49 30 210010,Studio for spatial communication with new media,https://facebook.com/artcom.berlin,4 SQUARE
+http://www.artecpanama.com,,artecpanama.com,ARTEC,VÍA RICARDO J. ALFARO,SAN MIGUELITO,,PANAMA,+507 230-6869,¡Donde tus ideas se convierten en arte!,https://facebook.com/artecpanama,4 SQUARE
+http://www.artkom.fr,,artkom.fr,ARTKOM,16 RUE CONDORCET,MARSEILLE,13016,FRANCE,+33 4 91 22 58 37,Advertising Agency,,4 SQUARE
+http://www.arttech.no,,arttech.no,ARTTECH,SULUFJELLVEGEN 300,STAVSJØ,2353,NORWAY,+47 934 98 016,Construction Supplies Store,,4 SQUARE
+http://www.asko.no,,asko.no,H MAT,THORMØHLENS GATE 37,BERGEN,5004,NORWAY,,Retail,,4 SQUARE
+http://www.asperg.de,,asperg.de,ASPERG,,ASPERG,71679,GERMANY,,Town,,4 SQUARE
+http://www.associazioneframe.it,,associazioneframe.it,FRAME,VIA SAN LORENZO 22,BOLOGNA,40122,ITALY,+39 02 0080 24132,Non-Profit Organization,,4 SQUARE
+http://www.astrid-waterlooplein.nl,,astrid-waterlooplein.nl,ASTRID,WATERLOOPLEIN (BOX 2),AMSTERDAM,,NETHERLANDS,+31 6 29497092,Boutique,,4 SQUARE
+http://www.ataudes.net,,ataudes.net,XAIMA,"CALLE LA VALLDIGNA, 7, POLÍGONO INDUSTRIAL LA VILA",NOVELE (NOVELE,46819,SPAIN,+34 962 28 33 43,Especializados en fabricación de féretros de calidad a precios competitivos. Fabricación española. Realizamos féretros a medida.,https://facebook.com/1373767036025463,4 SQUARE
+http://www.atherm.cz,,atherm.cz,ATHERM,JIRÁSKOVA 222/18,BRNO,602 00,CZECH REPUBLIC,+420 541 212 571,Construction Supplies Store,,4 SQUARE
+http://www.atyc.business.site,,atyc.business.site,@YC,347 E TAYLOR ST,SAN JOSE,95112,(7TH STREET),(408) 509-0691,"Sandwich Spot,Coffee Shop",,4 SQUARE
+http://www.aubert.com,,aubert.com,AUBERT,BOULEVARD LÉON BLUM,PLAISIR,78370,FRANCE,+33 1 34 81 15 50,Baby Store,,4 SQUARE
+http://www.aubrees.com,,aubrees.com,AUBREE'S,8031 MAIN ST,DEXTER,48130,UNITED STATES,(734) 424-1400,"Pizzeria,American Restaurant,Bar",,4 SQUARE
+http://www.aucinq.com,,aucinq.com,AU CINQ,5 RUE DU CASTILLET,PERPIGNAN,66000,FRANCE,+33 4 68 35 59 14,Women's Store,,4 SQUARE
+http://www.augen.cz,,augen.cz,AUGEN,ŠVEHLOVA 1900/3,PRAGUE,106 00,CZECH REPUBLIC,+420 720 331 034,Automotive Repair Shop,,4 SQUARE
+http://www.aurakc.com,,aurakc.com,AURA,3832 MAIN ST,KANSAS CITY,64111,(BTWN W 38TH & 39TH ST),(816) 960-4930,"Located in Kansas City's Midtown, Aura is a liquor-fueled playhouse designed for the discerning club goer. We are KC's place where lighting, sound and music create a one of a kind experience of sights and sounds.",https://instagram.com/aurakansascity,4 SQUARE
+http://www.aurum-bioladen.de,,aurum-bioladen.de,AURUM,RODENBERG STR. 66,DORTMUND,44287,(RODENBERG-CENTER),+49 231 459111,Organic Grocery,,4 SQUARE
+http://www.auto-arnold.de,,auto-arnold.de,FORD,SCHILLERSTRAßE 55,FILDERSTADT,70794,GERMANY,+49 711 779110,Car Dealership,,4 SQUARE
+http://www.auto-domicil-sigmaringen.de,,auto-domicil-sigmaringen.de,FORD,FRIEDRICH-LIST-STRAßE 8,SIGMARINGEN,72488,GERMANY,+49 7571 742530,Car Dealership,,4 SQUARE
+http://www.autobandenvanhasselt.be,,autobandenvanhasselt.be,F.W,"LANGENBERG, 15",HOOGSTRATEN,2323,BELGIUM,+32 3 314 42 51,Automotive Repair Shop,,4 SQUARE
+http://www.automon.cz,,automon.cz,AUTOMON,KAŠTANOVÁ 613/6,OLOMOUC,779 00,CZECH REPUBLIC,+420 604 976 685,Automotive Repair Shop,,4 SQUARE
+http://www.avern.fr,,avern.fr,L'AVERN,41 RUE HENRI DUPONT,VERNOUILLET,28500,FRANCE,+33 2 37 46 71 97,Business and Professional Services,,4 SQUARE
+http://www.avia.be,,avia.be,AVIA,VELLE 110,TEMSE,9140,BELGIUM,,Fuel Station,,4 SQUARE
+http://www.avvn.nl,,avvn.nl,AVVN,VOGELVLINDERWEG 50,UTRECHT,,NETHERLANDS,+31 30 670 1331,Non-Profit Organization,,4 SQUARE
+http://www.axes-44.com,,axes-44.com,AXES,7 RUE JULES VERNE,ORVAULT,44700,FRANCE,+33 2 40 80 81 81,Repair Service,,4 SQUARE
+http://www.axtor.cz,,axtor.cz,AXTOR,VOBORSKÉHO 1356/19,PRAGUE,143 00,CZECH REPUBLIC,+420 720 221 120,Food and Beverage Retail,,4 SQUARE
+http://www.aylien.com,,aylien.com,AYLIEN,"HARMONY COURT, 2 HARMONY ROW, DUBLIN 2",DUBLIN,,IRELAND,+353 1 598 3168,Tech Startup,,4 SQUARE
+http://www.b-ice.it,,b-ice.it,B.ICE,BORGO OGNISSANTI 150,FLORENCE,50123,ITALY,+39 055 280073,"Ice Cream Parlor,Dessert Shop,€,€€€",,4 SQUARE
+http://www.babyfotografie of huwelijksreportage. Met een eigen fotolabo weet men bij Posi-Tief je foto's op de mooiste manier,,babyfotografie of huwelijksreportage. Met een eigen fotolabo weet men bij Posi-Tief je foto's op de mooiste manier te presente,POSI-TIEF,HOEKSTRAAT 12,KEMZEKE,9190,BELGIUM,groepsfoto,"""Dé ideale plek voor een mooi portret",,4 SQUARE
+http://www.bacon.cl,,bacon.cl,BACON,AVENIDA RUDECINDO ORTEGA 01461,TEMUCO,,CHILE,+56 45 232 2516,Automotive Repair Shop,,4 SQUARE
+http://www.baeckerei-knaack.de,,baeckerei-knaack.de,KNAACK,BARGTEHEIDER STR. 83,HAMBURG,22587,GERMANY,+49 40 51312355,"Bakery,€,€€€",,4 SQUARE
+http://www.bafta.org,,bafta.org,BAFTA,195 PICCADILLY,LONDON,W1J 9LN,UNITED KINGDOM,+44 20 7734 0022,Event Space,https://facebook.com/bafta,4 SQUARE
+http://www.baja.hu,,baja.hu,BAJA,,,6500,HUNGARY,,City,,4 SQUARE
+http://www.bambiscarpe.it,,bambiscarpe.it,BAMBI,"VIA GRAMSCI,15",TURIN,,(VIA LAGRANGE),+39 011 562 0166,Children's Clothing Store,,4 SQUARE
+http://www.bannagracia.es,,bannagracia.es,BANNA,"PL. REVOLUCIÓ DE SETEMBRE DE 1868, 15",BARCELONA,08012,SPAIN,+34 932 13 30 44,"Thai Restaurant,€€,€€",https://facebook.com/bannagracia,4 SQUARE
+http://www.barfort.jp,,barfort.jp,BAR FORT,吉祥寺本町1-31-3,MUSASHINO,180-0004,(2F),+81 422-27-6126,"Cocktail Bar,¥¥¥,¥",https://facebook.com/barfort2015,4 SQUARE
+http://www.bariosonline.com,,bariosonline.com,BARIO'S,446 NOME AVE,STATEN ISLAND,10314,(RICHMOND AVE),(718) 370-0100,"Pizzeria,Italian Restaurant",,4 SQUARE
+http://www.barkintaro.blogspot.com.br,,barkintaro.blogspot.com.br,KINTARO,"R. THOMAZ GONZAGA, 57",SÃO PAULO,01506-020,BRAZIL,+55 11 3277-9124,"Sake Bar,Japanese Restaurant",,4 SQUARE
+http://www.bassanobar.de,,bassanobar.de,BASSANO,JOHANNISPLATZ 4,SCHWÄBISCH GMÜND,73525,GERMANY,+49 4971 71877155,"Bar,Café,€,€€€",,4 SQUARE
+http://www.bauhaus.at,,bauhaus.at,BAUHAUS,OBERLAAER STR. 294,VIENNA,1230,AUSTRIA,+43 1 6163211,Hardware Store,,4 SQUARE
+http://www.bbcafe.ru,,bbcafe.ru,BBCAFE,"СКАТЕРТНЫЙ ПЕР., 13",MOSCOW,,RUSSIA,+7 495 697-12-41,"Italian Restaurant,₽₽,₽₽",https://facebook.com/Bora.BBCafe,4 SQUARE
+http://www.bbtaxicab.com,,bbtaxicab.com,B&B TAXI,,POUGHKEEPSIE,12601,UNITED STATES,(845) 704-7000,"A professional driver since 2002, B & B Taxi owner, Bob Brower, is dedicated to serving his community with fast, friendly, and reliable transportation, fair prices, and unparalleled customer service. This company is based on the belief that customer needs are of the utmost importance, and our ent...",https://facebook.com/BBTAXI,4 SQUARE
+http://www.bc-ukv.org.ua,,bc-ukv.org.ua,УПРАВЛЕНИЕ КОММУНАЛЬНОЙ СОБСТВЕННОСТИ,"УЛ, ЯРМАРОЧНАЯ, 1/23",BILA TSERKVA,,UKRAINE,,Corporate Amenity,,4 SQUARE
+http://www.bci.cl,,bci.cl,BCI,"A. VESPUCIO NORTE, 2982",CONCHALÍ,,CHILE,+56 2 2692 9780,Bank,,4 SQUARE
+http://www.bcr.ro,,bcr.ro,BCR,"BD. REGINA ELISABETA, NR. 53, PARTER",BUCHAREST,,ROMANIA,+40 372 731 642,Bank,,4 SQUARE
+http://www.be-acct.be,,be-acct.be,BE-ACCT,HERTSBERGSESTRAAT 17,OOSTKAMP,8020,BELGIUM,+32 494 99 21 17,Begeleiding van ondernemers I BE-ACCT uit Oostkamp,,4 SQUARE
+http://www.beautesushi.fr,,beautesushi.fr,TOYAMI,12 RUE ALBERT 1ER,BEAUMONT-SUR-OISE,95260,FRANCE,+33 1 34 70 68 34,Restaurant,,4 SQUARE
+http://www.becking-kaffee.de,,becking-kaffee.de,BECKING,LEVERKUSENSTRAßE 54,HAMBURG,22761,GERMANY,+49 40 85192830,Grocery Store,,4 SQUARE
+http://www.befitkilleen.com,,befitkilleen.com,B.E.F.I.T.,900 S WS YOUNG,KILLEEN,76544,UNITED STATES,(254) 223-3488,"Bodybuilding, open gym, WOD on Sundays, small fitness groups (different types of circuit training)",https://facebook.com/befitcentraltexas,4 SQUARE
+http://www.bekinsa.es,,bekinsa.es,BEKINSA,"CALLE TABLADILLA, 2",SEVILLE,41013,SPAIN,+34 954 62 82 02,Real Estate Agency,,4 SQUARE
+http://www.benea.cz,,benea.cz,BENEA,V HORKÁCH 1384/1,PRAGUE,140 00,CZECH REPUBLIC,+420 241 412 154,Bakery,,4 SQUARE
+http://www.betija.lv,,betija.lv,BETIJA,LĀČPLĒŠA IELA 14A,AIZKRAUKLE,,LATVIA,+371 26 317 562,Diner,,4 SQUARE
+http://www.bhmd.pl,,bhmd.pl,BHMD,UL WSCHODNIA 38,TORUŃ,87-100,POLAND,+48 56 658 78 58,Retail,,4 SQUARE
+http://www.bhrc.org.uk,,bhrc.org.uk,BHR C,BURLINGTON CRESENT,GOOLE,DN14 5EG,UNITED KINGDOM,+44 1405 766877,Business and Professional Services,,4 SQUARE
+http://www.bidlane.com,,bidlane.com,BIDLANE,555 ANTON BLVD,COSTA MESA,92626,UNITED STATES,(800) 604-4978,Automotive Repair Shop,,4 SQUARE
+http://www.bijou.com.pl,,bijou.com.pl,BIJOU,UL KOMISJI EDUKACJI NARODOWEJ 11,STALOWA WOLA,37-450,POLAND,+48 785 215 533,Jewelry Store,,4 SQUARE
+http://www.bil-jac.com,,bil-jac.com,BIL-JAC,3337 MEDINA RD,MEDINA,44256,UNITED STATES,(800) 321-1002,See How Healthy Your Dog Can Be®,https://facebook.com/BilJacDogFood,4 SQUARE
+http://www.bioart.com.pl,,bioart.com.pl,BIOART,JARACZA 36B/10,ŁÓDŹ,90-252,POLAND,+48 42 633 76 90,Garden,,4 SQUARE
+http://www.biocan.ch,,biocan.ch,BIOCAN,STOCKWIESENSTRASSE 17,THAYNGEN,8240,SWITZERLAND,+41 52 301 21 67,Cosmetics Store,,4 SQUARE
+http://www.birdco.pl,,birdco.pl,BIRD&CO,MONIUSZKI 31,KRAKOW,31-523,POLAND,,Tech Startup,,4 SQUARE
+http://www.bk-knoop.de,,bk-knoop.de,B&K,HAUPTSTRAßE 21,NUSSE,23896,GERMANY,+49 4543 8880040,"Die Firma B&K Nusse ist Spezialist für Türen, Fenster und Wintergärten. Seit mehr als zehn Jahren ist das Unternehmen in Nusse ein zuverlässiger Partner, wenn es um Vertrieb & Montage moderner und hochwertiger Fenster und Haustüren geht.",,4 SQUARE
+http://www.bkr.com.ar,,bkr.com.ar,BANKAR,RECONQUISTA 656,BUENOS AIRES,C1003ABN,(E/ VIAMONTE Y TUCUMÁN),+54 810-345-5220,Bank,,4 SQUARE
+http://www.blogs.sch.gr,,blogs.sch.gr,21Ο ΔΗΜΟΤΙΚΌ ΣΧΟΛΕΊΟ ΑΘΗΝΏΝ ΛΈΛΑ ΚΑΡΑΓΙΆΝΝΗ,ΚΎΠΡΟΥ 43,ATHENS,112 53,GREECE,+30 21 0865 2643,Elementary School,,4 SQUARE
+http://www.bmw.de,,bmw.de,BMW,GEHRINGSTRAßE 20,BERLIN,13088,GERMANY,+49 30 200990,Car Dealership,,4 SQUARE
+http://www.boggi.com,,boggi.com,BOGGI,CORSO GIUSEPPE ZANARDELLI 17,BRESCIA,25121,ITALY,+39 030 40664,Men's Store,,4 SQUARE
+http://www.bogmode.com,,bogmode.com,BOGMODE,5 ALLÉE JOACHIM DU BELLAY,CLICHY-SOUS-BOIS,93390,FRANCE,+33 7 53 40 60 91,Warehouse or Wholesale Store,,4 SQUARE
+http://www.bokbob.se,,bokbob.se,BOKBOB,STENHAGSG. 8 A,KARLSTAD,653 44,SWEDEN,+46 54 203 13 90,Bookstore,,4 SQUARE
+http://www.bonda.nl,,bonda.nl,BONDA,DE AMERT 606,VEGHEL,5462 GH,NETHERLANDS,+31 413 382 860,Factory,,4 SQUARE
+http://www.bonia.com,,bonia.com,BONIA,MID VALLEY MEGAMALL,KUALA LUMPUR,59200,"(G-031, GROUND FLOOR)",+60 3-2284 1749,Fashion Accessories Store,,4 SQUARE
+http://www.boraca.co.uk,,boraca.co.uk,BORACA,"ANGLERS COURT, 34 SPITTAL ST.",MARLOW,SL7 3HJ,UNITED KINGDOM,+44 1628 488811,Furniture and Home Store,https://facebook.com/boracafurnishings,4 SQUARE
+http://www.borger-odoorn.nl,,borger-odoorn.nl,DE KOEL,MOLENSTRAAT 5,BORGER,9531 CH,NETHERLANDS,+31 599 234 629,Sports and Recreation,,4 SQUARE
+http://www.boudoir.wickedweb.biz,,boudoir.wickedweb.biz,BOUDOIR,1 TEMPLE LANE,DUNDEE,DD1 4HA,UNITED KINGDOM,+44 1382 225968,"Cocktail Bar,Deli,£££,£",,4 SQUARE
+http://www.bplast.fr,,bplast.fr,B'PLAST,RUE NATIONALE,AVRANCHES,50300,FRANCE,+33 2 33 79 49 79,"Spécialiste de la menuiserie en PVC et en Aluminium, nous vous proposons bien plus que des références en fenêtres, portes, volets, vérandas… En effet, chez B'Plast, nous sommes avant tout créateurs.",,4 SQUARE
+http://www.brandstoffenwim.be,,brandstoffenwim.be,CWMS,WELVAARTSTRAAT 107,BERLAAR,2590,BELGIUM,+32 3 385 82 88,Travel and Transportation,,4 SQUARE
+http://www.brasilepil.ru,,brasilepil.ru,BRASIL,"РОЖДЕСТВЕНСКИЙ БУЛ., 9",MOSCOW,107031,RUSSIA,+7 926 535-37-75,Hair Salon,,4 SQUARE
+http://www.breha.net,,breha.net,BREHA,清水台1-6-18,KŌRIYAMA,963-8005,JAPAN,+81 24-934-4601,"Bar,¥¥,¥¥",,4 SQUARE
+http://www.bretas.com.br,,bretas.com.br,BRETAS,"AV. T-2, 3450, QD. CH, LT. 1-5",GOIÂNIA,74410-200,(ST. SOL NASCENTE),+55 62 3545-0314,"Com presença marcante em 26 cidades, a Rede Bretas possui lojas nos estados de Minas Gerais, Goiás e Bahia. São 69 lojas oferecendo aos clientes muita qualidade, variedade e preço baixo. Servir com carinho, dedicação e honestidade é a nossa missão.",,4 SQUARE
+http://www.brookshirebrothers.com,,brookshirebrothers.com,DAVID'S,803 S BOSQUE ST,WHITNEY,76692,UNITED STATES,(254) 694-2277,"Brookshire Brothers is an employee-owned, community-driven grocer based in Lufkin, Texas. Founded in 1921, this regional grocery chain operates more than 120 locations that stretch over 40,000 square miles in Texas and Louisiana, including many rural areas. Its assets include traditional grocery ...",,4 SQUARE
+http://www.brownsofyork.co.uk,,brownsofyork.co.uk,RHODES,21 DAVYGATE,YORK,YO1 8QT,UNITED KINGDOM,+44 1904 611166,Restaurant,,4 SQUARE
+http://www.bsbfashion.com,,bsbfashion.com,BSB,,AGÍA PARASKEVÍ,,GREECE,,Women's Store,https://facebook.com/BSBfashion,4 SQUARE
+http://www.btcbahamas.com,,btcbahamas.com,BTC,,,,BAHAMAS,,Welcome to BTC's FourSquare community! Make sure you follow our page for the latest updates at ALL our locations nationwide.,https://facebook.com/mybtc,4 SQUARE
+http://www.btcsierre.ch,,btcsierre.ch,BTC,ROUTE DE SION 63,SIERRE,3960,SWITZERLAND,+41 27 455 51 52,Business and Professional Services,,4 SQUARE
+http://www.buderus.com.ua,,buderus.com.ua,РЕГІОНАЛЬНЕ ПРЕДСТАВНИЦТВО / НАВЧАЛЬНИЙ ЦЕНТР BUDERUS/BOSCH,"СТАРТОВА, 20",DNIPRO,,UKRAINE,,"Office,Auditorium",,4 SQUARE
+http://www.bukkalo.metro.police.go.th,,bukkalo.metro.police.go.th,BUK KALO METROPOLITAN POLICE STATION,258 CHAROEN NAKHON RD,THON BURI,10600,THAILAND,+66 2 468 1638,Police Station,,4 SQUARE
+http://www.burano.gr,,burano.gr,BURANO,ΔΗΜΗΤΡΊΟΥ ΓΟΛΈΜΗ 20,LEFKADA,311 00,(ΜΎΤΙΚΑ),+30 2645 026025,"Greek Restaurant,€€,€€",https://facebook.com/201465249864691,4 SQUARE
+http://www.burbus.se,,burbus.se,BURBUS,HANTVERKSG. 15,OSKARSHAMN,570 91,SWEDEN,,Advertising Agency,,4 SQUARE
+http://www.buryinc.com,,buryinc.com,BURY,5310 HARVEST HILL RD STE 100,DALLAS,75230,UNITED STATES,(972) 991-0011,Office,,4 SQUARE
+http://www.butter-pancake.com,,butter-pancake.com,BUTTER,中央区東川崎町1-6-1,KOBE,650-0044,(UMIEモザイク 2F),+81 78-382-7131,"Dessert Shop,¥,¥¥¥",,4 SQUARE
+http://www.buylo.ie,,buylo.ie,BUY LO,BOLAND'S RETAIL PK.,WATERFORD,,(CORK RD.),+353 51 392 967,Grocery Store,,4 SQUARE
+http://www.bxtone.com.hk,,bxtone.com.hk,BXTONE,"SHOP 068, LEVEL 1, UPTOWN PLAZA, 9 NAM WAN RD",TAI PO,,HONG KONG,+852 2686 1889,Repair Service,,4 SQUARE
+http://www.bydy.com.br,,bydy.com.br,BYDY,CITTÀ OFFICE MALL,RIO DE JANEIRO,22640-100,"(2º PISO, SETOR AZUL, LOJA 204-L)",+55 21 2132-7312,Women's Store,https://facebook.com/bydyfitness,4 SQUARE
+http://www.c-maxi.com,,c-maxi.com,C-MAXI,GALLIFORTLEI 4 BUS 191,ANTWERP PROVINCE,2100,BELGIUM,+32 3 636 31 11,Construction Supplies Store,,4 SQUARE
+http://www.ca.linkedin.com,,ca.linkedin.com,DOUKA,3285 BOUL LANGELIER #02,MONTREAL,H1N 3A7,CANADA,(438) 930-7708,"SEO expert in Montreal. Also specialized in web design , brand development ,social media management and broadcasting.Expert en Referencement Google a Montreal.",,4 SQUARE
+http://www.cafe-bernini.de,,cafe-bernini.de,BERNINI,GEORGSTR. 48,HANOVER,30159,GERMANY,+49 511 3530505,"Italian Restaurant,€€,€€",,4 SQUARE
+http://www.campinovarberg.se,,campinovarberg.se,CAMPINO,BÄCKGATAN 10,VARBERG,432 44,SWEDEN,+46 340 102 25,Pizzeria,,4 SQUARE
+http://www.campus-fashion.be,,campus-fashion.be,CAMPUS,WERCHTERSESTEENWEG 10,HAACHT,3150,BELGIUM,+32 16 60 85 38,Clothing Store,,4 SQUARE
+http://www.canopyeverett.com,,canopyeverett.com,CANOPY,923 112TH ST SW,EVERETT,98204,UNITED STATES,(425) 903-3850,Canopy Apartment Homes is the perfect blend of outdoor bliss and residential convenience.,,4 SQUARE
+http://www.cap.cl,,cap.cl,CAP S.A.,GERTRUDIZ ECHEÑIQUE 220,SANTIAGO,,CHILE,+56 2 2818 6000,"Financial Service,Legal Service",,4 SQUARE
+http://www.capobelmont.com,,capobelmont.com,CAPO,2040 RALSTON AVE,BELMONT,94002,(ALAMEDA DE LAS PULGAS),(650) 508-1000,Mediterranean Restaurant,,4 SQUARE
+http://www.cargest.com,,cargest.com,CARGEST,,MÁLAGA,29004,SPAIN,+34 952 17 35 20,Rental Car Location,,4 SQUARE
+http://www.caritel-fwi.com,,caritel-fwi.com,CARITEL,RUE DE GÉNIPA,DUCOS,97224,MARTINIQUE,+33 5 96 63 93 21,CARITEL propose des solutions d'écrans d'affichage dynamique en Martinique et en Guadeloupe. Nous vous accompagnons de A à Z sur votre stratégie de communication digitale,,4 SQUARE
+http://www.carnut.com,,carnut.com,CARNUT,ODENG. 25,SÄVSJÖ,576 31,SWEDEN,+46 382 101 10,Automotive Repair Shop,,4 SQUARE
+http://www.carrosserie-mecanique-mestre-clermontfd.fr,,carrosserie-mecanique-mestre-clermontfd.fr,MOTRIO,3 RUE DE CHANTURGUE,CLERMONT-FERRAND,63000,FRANCE,+33 4 73 91 77 00,Automotive Repair Shop,,4 SQUARE
+http://www.carson.org,,carson.org,BRIC,108 E PROCTOR ST,CARSON CITY,89701,UNITED STATES,(775) 283-7123,Government Building,,4 SQUARE
+http://www.carstarexpress.ca,,carstarexpress.ca,CARSTAR,5215 - 99 ST NW,EDMONTON,T6E 5B7,CANADA,(780) 490-0040,"Carstar of [City] [State] offers high-quality auto body repair throughout Canada and US. Come in today and our trained staff will help identify any problems your vehicle may be experiencing and get your car fixed, running, and back on the road safely...",,4 SQUARE
+http://www.cartgrise.org,,cartgrise.org,POL-PRO,ROND POINT DE BONNEUIL,GONESSE,95500,FRANCE,+33 1 30 11 03 03,Post Office,,4 SQUARE
+http://www.cartier.com.br,,cartier.com.br,CARTIER,SHOPPING IGUATEMI,SÃO PAULO,01489-900,(PISO SUPERIOR),,Jewelry Store,https://facebook.com/Cartier,4 SQUARE
+http://www.casadebaccopizzaria.com.br,,casadebaccopizzaria.com.br,BACCO,"AV. FERNANDO FERRARI, 1173",SANTA MARIA,97050-801,BRAZIL,+55 55 3347-4714,Pizzeria,,4 SQUARE
+http://www.cascalmv.com,,cascalmv.com,CASCAL,400 CASTRO ST,MOUNTAIN VIEW,94041,(AT CALIFORNIA ST),(650) 940-9500,"Tapas Restaurant,Bar",https://facebook.com/314124218488,4 SQUARE
+http://www.casio.co.uk,,casio.co.uk,CASIO,HARP VIEW 12 PRIESTLEY WAY,LONDON,NW2 7JD,UNITED KINGDOM,+44 20 8450 9131,Office,,4 SQUARE
+http://www.caviro.it,,caviro.it,CAVIRO,"VIA ZAMPESCHI, 117",FORLÌ,47122,ITALY,+39 0543 775511,"Caviro ha la sede commerciale ed operativa a Forlì in via Zampeschi 117, è una cooperativa agricola che si occupa della valorizzazione dei prodotti conferiti in cooperativa dai viticoltori. Si occupa principalmente di seguire la produzione delle diverse varietà di uva che ognuna delle nostre regi...",https://facebook.com/119767614779234,4 SQUARE
+http://www.cbt.rs,,cbt.rs,CBT,KOČE POPOVIĆA 4,BELGRADE,11000,(BTW KARAĐORĐEVA AND GAVRILA PRINCIPA),+381 11 2620212,Electronics Store,,4 SQUARE
+http://www.ccbeu.com,,ccbeu.com,CCBEU,"R. 14, QD.C-22, LT.18",GOIÂNIA,74810-350,(UNID. PQ. FLAMBOYANT),+55 62 3541-0705,Education,,4 SQUARE
+http://www.ccol.prizma.be,,ccol.prizma.be,B203,BURGEMEESTER VANDENBOGAERDELAAN 53,IZEGEM,8870,BELGIUM,,College Classroom,https://facebook.com/SintJozefscollegeIzegem,4 SQUARE
+http://www.cekim.cl,,cekim.cl,CEKIM,AMAPOLAS 1290,PROVIDENCIA,7550000,(ELIODORO YAÑEZ),,Hospital,,4 SQUARE
+http://www.cellys.co.uk,,cellys.co.uk,CELLY'S,403 WIMBORNE RD,BOURNEMOUTH,BH9 2AJ,UNITED KINGDOM,+44 1202 520844,Hair Salon,,4 SQUARE
+http://www.celprom.be,,celprom.be,CELPROM,,,1190,BELGIUM,+32 2 538 78 56,Business Service,,4 SQUARE
+http://www.cerim-immobilier.com,,cerim-immobilier.com,CERIM,26 AVENUE MARCELLIN BERTHELOT,GRENOBLE,38000,FRANCE,+33 4 76 28 43 70,Real Estate Agency,,4 SQUARE
+http://www.cerm.net,,cerm.net,CERM,SIEMENSLAAN 17,OOSTKAMP,8020,BELGIUM,+32 50 83 38 83,Office,,4 SQUARE
+http://www.cesce.com,,cesce.com,CESCE,"GRAN VÍA, 81 (EDIFICIO ALFA I)",BILBAO,48011,SPAIN,+34 911 93 19 99,El valor del crédito,https://facebook.com/cesce.es,4 SQUARE
+http://www.cesen.eu,,cesen.eu,CESEN,CORSO GALILEO FERRARIS 71,TURIN,10121,ITALY,+39 011 509 9001,Business and Professional Services,,4 SQUARE
+http://www.cesexeter.co.uk,,cesexeter.co.uk,C E S,48 WHIPTON VILLAGE RD,EXETER,EX4 8AW,UNITED KINGDOM,+44 1392 467889,Business and Professional Services,,4 SQUARE
+http://www.cetconnect.org,,cetconnect.org,WCET-TV,1223 CENTRAL PKWY,CINCINNATI,45214,UNITED STATES,(513) 381-4033,TV Station,https://facebook.com/CETconnect,4 SQUARE
+http://www.chengsfl.com,,chengsfl.com,CHENG'S,4050 WEDGEWOOD LN,THE VILLAGES,32162,UNITED STATES,(352) 391-9678,Chinese Restaurant,,4 SQUARE
+http://www.chopp.org.uk,,chopp.org.uk,CHOPP,"60A, NORTH ST",CHICHESTER,PO19 1NB,UNITED KINGDOM,+44 1243 528460,Business and Professional Services,,4 SQUARE
+http://www.chuckit.co.uk,,chuckit.co.uk,CHUCKIT,172 SEWARDSTONE ROAD,LONDON,E4 7QA,UNITED KINGDOM,+44 800 612 9430,Rubbish Removal and House Clearance in London,,4 SQUARE
+http://www.chucks.fr,,chucks.fr,CHUCK'S,CENTRE COMMERCIAL AUCHAN,NOYELLES-GODAULT,62950,FRANCE,+33 3 21 75 68 58,Chocolate Store,,4 SQUARE
+http://www.cibc.com,,cibc.com,CIBC,2959 ST CHARLES,KIRKLAND,,CANADA,,Bank,,4 SQUARE
+http://www.cinery.com,,cinery.com,CINERY,VALPARAÍSO 2367,GUADALAJARA,44630,(AMÉRICAS),,¡El nuevo cine de Guadalajara! 🎥✨,https://facebook.com/100118939665757,4 SQUARE
+http://www.cinnabon.com,,cinnabon.com,CINNABON,8501 W BOWLES AVE,LITTLETON,80123,(AT SOUTHWEST PLAZA),(303) 979-8813,"Home of the world’s most famous cinnamon rolls! Cinnabon serves hot and fresh cinnamon rolls, as well as a variety of baked goods and specialty beverages.",,4 SQUARE
+http://www.clearis.es,,clearis.es,CLEARIS,ANTONIO MACHADO 8,BAZA,18800,SPAIN,+34 958 10 22 56,Tech Startup,,4 SQUARE
+http://www.climatisation-froid-electricite.com,,climatisation-froid-electricite.com,CFE,36 RUE DU PORT GUYET,SAINT-NICOLAS-DE-BOURGUEIL,37140,FRANCE,+33 2 47 97 63 38,"Nous intervenons pour les professionnels et les particuliers dans les domaines suivants : climatisation, froid et électricité.",,4 SQUARE
+http://www.cnfa.org,,cnfa.org,CNFA,1828 L ST NW,WASHINGTON,20036,UNITED STATES,(202) 296-3920,Non-Profit Organization,,4 SQUARE
+http://www.coaz.jp,,coaz.jp,COAZ,青木5-12-1,KAWAGUCHI,332-0031,JAPAN,+81 48-287-3824,Car Wash and Detail,https://instagram.com/__coaz__,4 SQUARE
+http://www.cobi.pl,,cobi.pl,COBI S.A.,PATRIOTÓW 193 LOK. 195,WARSAW,04-858,POLAND,+48 22 615 33 08,Toy Store,,4 SQUARE
+http://www.cofersaseguridad.com,,cofersaseguridad.com,COFERSA,"AVENIDA GONZALO NAVARRO POLÍGONO INDUSTRIAL RÍO DO POZO, S/N",NARÓN,15578,SPAIN,+34 981 26 30 07,Retail,,4 SQUARE
+http://www.cohep.ch,,cohep.ch,COHEP,THUNSTRASSE 43A,BERN,3005,SWITZERLAND,+41 31 350 50 20,Education,,4 SQUARE
+http://www.comma.se,,comma.se,COMMA,LUNTMAKARG. 96,STOCKHOLM,113 51,SWEDEN,+46 8 612 83 01,Business Service,,4 SQUARE
+http://www.comunedifurci.com,,comunedifurci.com,FURCI,,PROVINCIA DI CHIETI,66050,ITALY,,City,,4 SQUARE
+http://www.contestuttgart.de,,contestuttgart.de,CONTE,KRONPRINZENSTR 24,STUTTGART,70173,GERMANY,+49 711 99789847,"Bar,Italian Restaurant,€,€€€",,4 SQUARE
+http://www.copaco.nl,,copaco.nl,COPACO,HOEVENWEG 21,EINDHOVEN,5652 AW,NETHERLANDS,+31 40 230 6306,"Copaco N.V. is als distributeur actief in de Benelux en Frankrijk op het gebied van Informatie en Communicatie Technologie (ICT). De onderneming levert met circa 350 medewerkers computers, printers, netwerken, data-storage, mobiele telefonie, software, industriële en consumenten elektronica.",,4 SQUARE
+http://www.copra.fr,,copra.fr,COPRA,21 AVENUE DU VALLESPIR,AMÉLIE-LES-BAINS-PALALDA,66110,FRANCE,+33 4 68 39 89 26,Retail,,4 SQUARE
+http://www.corpus-sport.fr,,corpus-sport.fr,CORPUS,167 RUE DE LA GUINGUETTE,CAHORS,46000,FRANCE,+33 7 69 04 66 82,Gym and Studio,,4 SQUARE
+http://www.cosana.com,,cosana.com,COSANA,LINZER STRAßE 13,MUNICH,81241,GERMANY,+49 89 4917661652724,Retail,,4 SQUARE
+http://www.cosi.rs,,cosi.rs,COSI,PARISKE KOMUNE 20,BELGRADE,11070,(STUDENTSKA),+381 11 2690935,Restoran američke kuhinje,https://facebook.com/Cosibelgradebar,4 SQUARE
+http://www.cosmiccart.com,,cosmiccart.com,COSMIC,,DURHAM,,UNITED STATES,,Tech Startup,,4 SQUARE
+http://www.cospuden.de,,cospuden.de,PIER 1,HAFENSTR. 23,MARKKLEEBERG,04416,GERMANY,+49 341 3565111,Stadtnah. Aktiv. Familienfreundlich,,4 SQUARE
+http://www.country.zepter.com,,country.zepter.com,ZEPTER,В БИЗНЕС ПАРК РУСЕ,RUSE,7000,"(ТЯЛО А, ЕТ. 1)",+359 82 834 165,"Zepter International произвежда, продава и разпространява по цял свят изключително висококачествени потребителски стоки, предимно по метода на директните продажби, посредством",,4 SQUARE
+http://www.cqcd.org,,cqcd.org,CQCD,630 SHERBROOKE OUEST,MONTREAL,H3A 1E4,(BUREAU 910),(438) 794-8789,Retail counsel of Quebec is a non profit association. Our members are retailers. Contact us today at 514-842-6681 for more information.,,4 SQUARE
+http://www.crackdkitchen.com,,crackdkitchen.com,CRACK’D,327 S BROADWAY,SALEM,03079,UNITED STATES,,Breakfast Spot,https://facebook.com/crackdkitchen,4 SQUARE
+http://www.csart.it,,csart.it,CSART,"VIA SAN PIETRO MARTIRE, 16/A",REGGIO NELL'EMILIA,42121,(CORSO GARIBALDI),+39 0522 197 0864,"CSArt is a communications office dedicated to the art world. Services: press office, public relations, websites, event planning, critical texts and catalogs.",,4 SQUARE
+http://www.cummins.com.au,,cummins.com.au,CUMMINS,5 CAMERON ST,ALICE SPRINGS,0870,AUSTRALIA,+61 407 340 779,"Cummins Inc., a global technology leader, is a corporation of complementary business segments that designs, manufactures, distributes and services a broad portfolio of power solutions. The company’s products range from diesel and natural gas engines to hybrid and electric platforms, as well as re...",,4 SQUARE
+http://www.cumufa.be,,cumufa.be,CUMU’FA,RUE CHARLES DUPRET 9,CHARLEROI,,BELGIUM,,"Italian Restaurant,Pizzeria,€€,€€",,4 SQUARE
+http://www.d3o.com,,d3o.com,D 3 O,7-8 COMMERCE WAY,CROYDON,CR0 4XA,UNITED KINGDOM,+44 1273 418600,Advertising Agency,,4 SQUARE
+http://www.daf.es,,daf.es,DAF,"AVENIDA DE CASTILLA, 2",TORREJÓN DE ARDOZ,28830,SPAIN,+34 916 60 02 55,Car Dealership,,4 SQUARE
+http://www.dapperbar.com,,dapperbar.com,DAPPER,JACOB VAN LENNEPKADE 58-60,AMSTERDAM,1053ML,(BILDERDIJKSTRAAT),+31 20 618 0757,"Wij zijn Dapper! Een plek voor dappere dodo’s, ontdekkingsreizigers en avonturiers. Je komt bij ons niet alleen om te eten en te drinken. We zijn een scheppend verhaal. Je belandt in een avontuur van Kuifje.",https://facebook.com/dapperamsterdam,4 SQUARE
+http://www.dapur.co.uk,,dapur.co.uk,DAPUR,35-37 INVERNESS TERRACE,LONDON,W2 3JS,UNITED KINGDOM,,Sample Menu,https://facebook.com/DapurExperience,4 SQUARE
+http://www.datamix.com.ua,,datamix.com.ua,DIAWEST,АКАДЕМИКА ГЛУШКОВА 13Б,,03187,UKRAINE,+380 44 228 6852,Electronics Store,,4 SQUARE
+http://www.datek.net,,datek.net,DATEK,POJKSINGEL 14,TUMBA,147 22,SWEDEN,+46 8 534 101 50,Arts and Entertainment,,4 SQUARE
+http://www.datfix.ca,,datfix.ca,DATFIX,1417 E8,VANCOUVER,V5N 1T3,(WOODLAND),(778) 874-4494,IT Service,,4 SQUARE
+http://www.daz-bau.com,,daz-bau.com,DAZ-BAU,IM OTHFELDE 85A,HANOVER,30165,GERMANY,+49 1523 7193268,"DAZ-Bau: Wir bauen, um zu begeistern!Wir setzen Ihre Wünsche gekonnt um! DAZ-BAU steht für langjährige Erfahrung und eine professionelle Arbeitsweise, wenn es um rund um das Bauen und Wohnen geht.",,4 SQUARE
+http://www.dcda.ru,,dcda.ru,СТОМАТОЛОГИЧЕСКАЯ КЛИНИКА ДОКТОРА АИТОВА,"БУЛ. ХАДИИ ДАВЛЕТШИНОЙ, 18/1",UFA,450097,RUSSIA,+7 347 229-31-29,Dentist,https://instagram.com/stomat_aitov,4 SQUARE
+http://www.dcdformacion.com,,dcdformacion.com,DCD,"ORFEBRERÍA, 2",MÓSTOLES,28933,SPAIN,+34 916 18 54 20,Trade School,,4 SQUARE
+http://www.dcor.be,,dcor.be,D'COR,AVENUE GEVAERT 35,RIXENSART,1332,BELGIUM,+32 2 653 84 57,Furniture and Home Store,,4 SQUARE
+http://www.deals-stores.com,,deals-stores.com,DEAL$,6133 MID RIVERS MALL DR.,SAINT PETERS,63304,UNITED STATES,(636) 447-0207,Stocked with incredible values!,,4 SQUARE
+http://www.deliastamales.com,,deliastamales.com,DELIA'S,602 W GRIFFIN PKWY,MISSION,78574,UNITED STATES,,Mexican Restaurant,,4 SQUARE
+http://www.delru.be,,delru.be,DEL RU,19 MARKT,LEDE,,BELGIUM,+32 53 42 50 24,Shoe Store,,4 SQUARE
+http://www.dentons.com,,dentons.com,DENTONS,"ПРОСП. АБЫЛАЙ ХАНА, 135",ALMATY,050000,KAZAKHSTAN,+7 7272 58 23 80,Office,,4 SQUARE
+http://www.der-baufi-spezialist.de,,der-baufi-spezialist.de,NULL,PASTOR-NIEMÖLLER-WEG 8,DACHAU,85221,GERMANY,+49 8131 334228,"Financial Service,Legal Service",,4 SQUARE
+http://www.deraramen.be,,deraramen.be,DERA,WEG NAAR ZWARTBERG 427,OPGLABBEEK,3660,BELGIUM,+32 89 85 84 59,Construction Supplies Store,,4 SQUARE
+http://www.dh17.nl,,dh17.nl,DH17,DE VLASHOECK 24-30,BERGSCHENHOEK,2661 LM,NETHERLANDS,+31 10 521 2252,Liquor Store,,4 SQUARE
+http://www.diarco.com.ar,,diarco.com.ar,DIARCO,BRIG. GENERAL JUAN MANUEL DE ROSAS 8440,ISIDRO CASANOVA,B1765ACC,(ESQ. ELÍAS BEDOYA),+54 11 4694-2888,Big Box Store,,4 SQUARE
+http://www.digeal.se,,digeal.se,DIGEAL,EKSÄTRAV. 392,STOCKHOLM,127 37,SWEDEN,+46 70 606 09 06,Repair Service,,4 SQUARE
+http://www.dipro.at,,dipro.at,DIPRO,EISGRUBENGASSE 2- 6,VÖSENDORF,2334,AUSTRIA,+43 2254 720720,Business and Professional Services,,4 SQUARE
+http://www.dishbreakfastlunchanddinner.com,,dishbreakfastlunchanddinner.com,DISH,734 FOOTHILL BLVD,LA CAÑADA,91011,UNITED STATES,(818) 790-5355,American Restaurant,,4 SQUARE
+http://www.divinastamford.com,,divinastamford.com,DIVINA,275 SUMMER ST.,STAMFORD,06901,(BROAD ST.),(203) 388-8742,Italian Restaurant,,4 SQUARE
+http://www.dmitaly.it,,dmitaly.it,D.M. SRL,"VIA DEI TIGLI, 16",GORNATE OLONA,21040,ITALY,+39 0331 858334,La DM si occupa di progettazione e costruzione di stampi per lo stampaggio di materie plastiche. Stampaggio di articoli termoplastici con presse da tonn 45 a 260. Successive lavorazioni di assemblaggio e finitura...,,4 SQUARE
+http://www.dofree.se,,dofree.se,DOFREE,PLÖJARGR. 61,JONSTORP,263 92,SWEDEN,+46 42 34 94 00,Repair Service,,4 SQUARE
+http://www.dossage.com,,dossage.com,DOSSAGE,1933 S BROADWAY #969,LOS ANGELES,90007,UNITED STATES,(213) 437-0503,"Our company's client profile are yhe passionate traveler honeymooners spa guests meeting us at a RITZ Carlton /Reserve,A Rosewood Hotel Langham Hotels,  Four Seasons ,The finest Spa resorts,Health and wellness centers and luxury,The finest ski resorts east and west coasts includin the rocky mount...",,4 SQUARE
+http://www.dr-driving.com,,dr-driving.com,NA TA,"DUY TAN, 14 DUY TAN",LONDON,,UNITED KINGDOM,+44 1634 490923,Business and Professional Services,,4 SQUARE
+http://www.dreams.co.uk,,dreams.co.uk,DREAMS,"UNIT 4 NORTH QUAY RETAIL PARK, PETO WAY",LOWESTOFT,NR32 2ED,UNITED KINGDOM,+44 1502 567803,"Furniture and Home Store,Mattress Store",https://facebook.com/DreamsLowestoft,4 SQUARE
+http://www.drk-sok.de,,drk-sok.de,DRK,BÄRENLEITE 33,PÖßNECK,07381,GERMANY,+49 3647 413806,Medical Center,,4 SQUARE
+http://www.drsulaimanalhabib.com,,drsulaimanalhabib.com,BLOOD BANK مركز الدكتور سليمان الحبيب الطبي / بنك الدم,مبنى مستشفى الولادة / طابق ب1,RIYADH,,(MATERNITY HOSPITAL / B1 FLOOR),+966 11 462 2224,Blood Bank,,4 SQUARE
+http://www.druis-amsterdam.com,,druis-amsterdam.com,DRUIS,BILDERDIJKPARK 1A,AMSTERDAM,1052 RZ,NETHERLANDS,,"French Restaurant,€€€,€",,4 SQUARE
+http://www.dstpe.fr,,dstpe.fr,DSTPE,68 CHEMIN DU MAYNE DE JOUAN,SAINT-AUBIN-DE-MÉDOC,33160,FRANCE,+33 5 56 05 15 45,Construction Supplies Store,,4 SQUARE
+http://www.dtocz.cz,,dtocz.cz,DTO CZ,MARIÁNSKÉ NÁMĚSTÍ 480/5,OSTRAVA,709 00,CZECH REPUBLIC,+420 595 620 111,Education,,4 SQUARE
+http://www.duet-szafy.pl,,duet-szafy.pl,M & M,ŁOBZOWSKA 19,KRAKOW,31-139,POLAND,+48 12 633 96 99,Furniture and Home Store,,4 SQUARE
+http://www.dylish.com,,dylish.com,DYLISH,11271 VENTURA BLVD,STUDIO CITY,91604,UNITED STATES,(323) 400-4035,"We are an online ordering platform that provides an all-inclusive package for your restaurant. When you partner with us, we provide a custom branded website, an iOS and Android app to receive orders, free social media ad placements and marketing materials, an iPad, a bluetooth printer, an active ...",https://facebook.com/getdylish,4 SQUARE
+http://www.dynamo.ch,,dynamo.ch,DYMAMO,WASSERWERKSTRASSE 21,ZURICH,8001,SWITZERLAND,+41 44 415 76 80,Arts and Crafts Store,https://facebook.com/DynamoZurich,4 SQUARE
+http://www.dyson.co.uk,,dyson.co.uk,DYSON,LOWER GUILD HALL,KENT,DA9 9SN,UNITED KINGDOM,,Retail,,4 SQUARE
+http://www.each-a-cup.com.my,,each-a-cup.com.my,EACH-A-CUP,"861, TAMAN BANDAR BARU KAMPAR",KAMPAR,31900,(JALAN HALA TIMAH 3),,"Café,Tea Room,Ice Cream Parlor",,4 SQUARE
+http://www.eamus.se,,eamus.se,EAMUS,SJÖDALSV. 17,DALSJÖFORS,516 30,SWEDEN,+46 33 12 81 31,Medical Center,,4 SQUARE
+http://www.eatdrinkcrave.com,,eatdrinkcrave.com,CRAVE,57 E MARKET ST,AKRON,44308,(AT N HIGH ST),(330) 253-1234,"American Restaurant,Gastropub",,4 SQUARE
+http://www.eatnatuur.com,,eatnatuur.com,NATUUR,1525 RALEIGH ST STE 110,DENVER,80204,(RALEIGH),,Smoothie Shop,,4 SQUARE
+http://www.eautec.fr,,eautec.fr,EAUTEC,421 ROUTE JEAN NATALE,CARROS,06510,FRANCE,+33 6 98 18 68 50,Construction Supplies Store,,4 SQUARE
+http://www.eb-nett.no,,eb-nett.no,EB NETT,,KONGSBERG,3611,NORWAY,+47 815 68 210,Business and Professional Services,,4 SQUARE
+http://www.edenskincare.co.uk,,edenskincare.co.uk,EDEN,28 MAYFIELD GROVE,HARROGATE,HG1 5HB,UNITED KINGDOM,+44 1423 858200,Cosmetics Store,,4 SQUARE
+http://www.edifim.fr,,edifim.fr,EDIFIM,RÉSIDENCE LE GINKGO - 21 RUE WINSTON CHURCHILL,GRENOBLE,38000,FRANCE,+33 4 76 17 13 55,Edifim implante sa filiale grenobloise en 2005. Il s'agit de la deuxième agence après celle d'Annecy. L’agence Edifim Grenoble est à l'origine des programmes immobiliers en Isère.,,4 SQUARE
+http://www.editelsrl.it,,editelsrl.it,EDITEL,"VIA DELL' INDUSTRIA, 11",BELLIZZI,84092,ITALY,+39 0828 51735,"La Editel s.r.l. è un’azienda leader nella commercializzazione sia all’ingrosso che al dettaglio di materiali da costruzione, termoidraulica, profilati, materiali ferrosi in genere, coperture e quant’altro occorre per la realizzazione di opere edili...",https://facebook.com/307713606025831,4 SQUARE
+http://www.edriss.se,,edriss.se,EDRISS,SKÅNEG. 8,KÄVLINGE,244 32,SWEDEN,+46 70 873 43 33,Aquarium,,4 SQUARE
+http://www.edsbyfrakt.se,,edsbyfrakt.se,LOPPU,STENKULLEN 177,EDSBYN,828 92,SWEDEN,+46 271 300 25,Retail,,4 SQUARE
+http://www.educacion.jalisco.gob.mx,,educacion.jalisco.gob.mx,SEJ,AV. CENTRAL 615,ZAPOPAN,45136,MEXICO,,Coworking Space,,4 SQUARE
+http://www.efficacité et bonne humeur pour produire un graphisme pertinent.,,efficacité et bonne humeur pour produire un graphisme pertinent.,PRUNCH,28 AVENUE COLONEL TEYSSIER,ALBI,81000,FRANCE,notre agence mêle créativité,"""Créée en 2009",,4 SQUARE
+http://www.eightandahalfrva.com,,eightandahalfrva.com,8 1/2,401 STRAWBERRY ST,RICHMOND,23220,UNITED STATES,(804) 358-8505,"Pizzeria,Italian Restaurant,Sandwich Spot",https://facebook.com/8.5rva,4 SQUARE
+http://www.ekko-media.com,,ekko-media.com,EKKO,106 RUE NATIONALE,PARIS,75013,FRANCE,+33 1 45 86 13 35,Advertising Agency,,4 SQUARE
+http://www.el-plin.hr,,el-plin.hr,EL-PLIN,POSTOJNSKA 2,ZAGREB,10000,CROATIA,+385 1 3079 487,Business and Professional Services,,4 SQUARE
+http://www.elanvital.hu,,elanvital.hu,ELAN,SÍP U. 6,BUDAPEST,1075,HUNGARY,+36 1 788 2577,"Alternative Medicine Clinic,Drugstore",,4 SQUARE
+http://www.elcc.se,,elcc.se,ELCC,BERGSMANSV. 5,GULDSMEDSHYTTAN,711 78,SWEDEN,+46 70 535 91 54,Construction Supplies Store,,4 SQUARE
+http://www.eldubmusic.com,,eldubmusic.com,EL DUB,362 MIRAMAR BEACH DR,MIRAMAR BEACH,32550,UNITED STATES,(605) 728-1980,"One Man Reggae Funk Musician!  El Dub performs all over the nation and is available for entertainment at bars, private parties, music festivals, and weddings.",,4 SQUARE
+http://www.elefcare.gr,,elefcare.gr,ΕΛΕΥΘΕΡΩΤΡΙΑ - ΜΟΝΆΔΑ ΦΡΟΝΤΊΔΑΣ ΗΛΙΚΙΩΜΈΝΩΝ,ΑΡΧΙΠΕΛΆΓΟΥΣ 32,GLYFADA,,GREECE,+30 21 0962 4122,Medical Center,,4 SQUARE
+http://www.elemis.com,,elemis.com,ELEMIS,"WITHIN HARVEY NICHOLS, 30-34 ST",EDINBURGH,EH2 2AD,UNITED KINGDOM,+44 131 524 8331,Cosmetics Store,,4 SQUARE
+http://www.elerte.co.uk,,elerte.co.uk,ELERTE,OLD STATION CLOSE,COALVILLE,LE67 3FH,UNITED KINGDOM,+44 1530 815546,Retail,,4 SQUARE
+http://www.elsg.co.uk,,elsg.co.uk,ELS G,200 LOWER HIGH ST,WATFORD,WD17 2EH,UNITED KINGDOM,+44 20 3627 0223,"Financial Service,Legal Service",,4 SQUARE
+http://www.emf-formation.fr,,emf-formation.fr,EMF,RUE HAUTE DE RECULÉE,ANGERS,49100,FRANCE,+33 6 03 83 34 31,"Vous souhaitez devenir porteur, maître de cérémonie, conseiller funéraire ou encore gestionnaire de pompes funèbres ? Rejoignez...",,4 SQUARE
+http://www.enate.net,,enate.net,ENATE,FESTIVAL HOUSE,CHELTENHAM,GL50 3SH,UNITED KINGDOM,+44 1242 453045,Tech Startup,,4 SQUARE
+http://www.enhunt.se,,enhunt.se,ENHUNT,SVEAV. 9,STOCKHOLM,111 57,SWEDEN,+46 8 420 554 26,Business Service,,4 SQUARE
+http://www.enohsa.gov.ar,,enohsa.gov.ar,ENOHSA,AV. CORRIENTES 1750,CAPITAL FEDERAL,1024,(AV. CALLAO),,Structure,,4 SQUARE
+http://www.enriched by your personal vitality. Every BODY is different,,enriched by your personal vitality. Every BODY is different,TRUFIT,26 W 4TH AVE,SAN MATEO,94402,UNITED STATES,inspires and physically prepares you for an active life,"""TruFit® educates",you should train that way too!,4 SQUARE
+http://www.enzime-sl.com,,enzime-sl.com,ENZIME,"PLAZA VAPOR, 5B",BADALONA,08915,SPAIN,+34 933 14 80 12,Nutritionist,,4 SQUARE
+http://www.enzospizzeriawestwood.com,,enzospizzeriawestwood.com,ENZO'S,10940 WEYBURN AVE,LOS ANGELES,90024,UNITED STATES,(310) 208-3696,"Pizzeria,Italian Restaurant",,4 SQUARE
+http://www.eoleszyce.pl,,eoleszyce.pl,PGNET,UL ZAMKOWA 13,OLESZYCE,37-630,POLAND,+48 17 785 22 33,Retail,,4 SQUARE
+http://www.epb.cz,,epb.cz,EPB,"PŘÍBRAM, BYTÍZ 112",PŘÍBRAM,261 01,CZECH REPUBLIC,+420 318 623 715,Construction Supplies Store,,4 SQUARE
+http://www.epofietsteam.be,,epofietsteam.be,SONIA,KLEIPUTTENLAAN 6,ESSEN,2910,BELGIUM,+32 3 677 24 28,Lingerie Store,,4 SQUARE
+http://www.equals.co.uk,,equals.co.uk,EQUALS,BERTRAM CRESCENT,NEWCASTLE UPON TYNE,NE15 6PY,UNITED KINGDOM,+44 191 272 1222,Business and Professional Services,,4 SQUARE
+http://www.eramcz.eu,,eramcz.eu,ERAM,ŠKOLNÍ 562,ŠTĚTÍ,411 08,CZECH REPUBLIC,+420 602 252 688,Clothing Store,,4 SQUARE
+http://www.erimed.se,,erimed.se,ERIMED,ELLIPSV. 11,KUNGENS KURVA,141 75,SWEDEN,+46 8 449 56 50,Retail,,4 SQUARE
+http://www.ernol.se,,ernol.se,ERNOL,FLODALAV. 9,HESTRA,330 27,SWEDEN,+46 370 33 47 90,Furniture and Home Store,,4 SQUARE
+http://www.erotica.co.jp,,erotica.co.jp,TLIP,,TOKYO,158-0094,JAPAN,,Eyecare Store,https://instagram.com/tlip_futakotamagawa,4 SQUARE
+http://www.ers-lvm.ch,,ers-lvm.ch,ERS-LVM,VIA F RUSCA 1,LOCARNO,6600,SWITZERLAND,+41 91 751 26 27,Retail,,4 SQUARE
+http://www.esauce.co.uk,,esauce.co.uk,ESAUCE,"1 HEATH BUILDINGS, HIGH ST",OXSHOTT,KT22 0JP,UNITED KINGDOM,+44 1372 849789,Smoke Shop,,4 SQUARE
+http://www.eskejp.com,,eskejp.com,ESKEJP,UPALNA 68/1,BIAŁYSTOK,15-668,POLAND,+48 698 676 793,Electronics Store,,4 SQUARE
+http://www.eson.cz,,eson.cz,ESON CZ,TŘEBOTOV 240,TŘEBOTOV,252 26,CZECH REPUBLIC,+420 257 830 039,Business and Professional Services,,4 SQUARE
+http://www.espace-automobile-charentais-angouleme.concessions-toyota.fr,,espace-automobile-charentais-angouleme.concessions-toyota.fr,TOYOTA,101 RUE DE LA CLÉ DE VOÛTE,CHAMPNIERS,16430,FRANCE,+33 5 45 90 08 08,"Automotive Repair Shop,Car Dealership",,4 SQUARE
+http://www.espritsushi.com,,espritsushi.com,UMAI,RUE CAMBACÉRÈS 2,MOUSSY-LE-NEUF,77230,FRANCE,+33 1 60 35 17 16,"Restaurant,€,€€€",,4 SQUARE
+http://www.essbar-scharbeutz.de,,essbar-scharbeutz.de,ESSBAR,SEESTR. 47,SCHARBEUTZ,23683,GERMANY,+49 4503 898545,"Italian Restaurant,Diner,€€,€€",,4 SQUARE
+http://www.evalon.fr,,evalon.fr,MOELA,10 RUE D'ABOUKIR,PARIS,75002,FRANCE,+33 1 40 26 12 74,"Men's Store,Women's Store",,4 SQUARE
+http://www.evonik.cn,,evonik.cn,EVONIK,"NO.702, UNITA, INTERNATIONAL BUSINESS INCUBATOR",GUANGZHOU,510663,CHINA,+86 20 8215 6209,Creative specialty chemicals: We make good things even better,,4 SQUARE
+http://www.exat.co.th,,exat.co.th,EXPRESSWAY AUTHORITY OF THAILAND (EXAT),2380 PHAHON YOTHIN RD,CHATUCHAK,10900,THAILAND,+66 2 579 5380,"Government Building,Capitol Building",,4 SQUARE
+http://www.exbis.pl,,exbis.pl,EXBIS,UL SŁONIMSKIEGO 2/1,KATOWICE,40-133,POLAND,+48 605 850 080,Advertising Agency,,4 SQUARE
+http://www.expertalexci.be,,expertalexci.be,ALEXCI,AVENUE NESTOR-MARTIN 69,SAINT-HUBERT,6870,BELGIUM,+32 61 61 54 45,Real Estate Agency,,4 SQUARE
+http://www.extra-genas.fr,,extra-genas.fr,G.D.V,17 RUE JEAN JAUR\U00E8S,GENAS,69740,FRANCE,+33 4 78 90 44 00,Furniture and Home Store,,4 SQUARE
+http://www.eyoba.com,,eyoba.com,EYOBA,MARKETING 35,,6921 RE,NETHERLANDS,+31 26 260 0036,Furniture and Home Store,,4 SQUARE
+http://www.fabbro-bologna.it,,fabbro-bologna.it,EMMETI,"VIA DI CORTICELLA, 216/7",BOLOGNA,40128,ITALY,+39 320 578 5639,"La Emmeti è una ditta giovane, in costante crescita, specializzata nell'attività di Pronto intervento fabbro e Apriporta a Bologna. L'azienda è al passo coi tempi aggiornandosi quotidianamente sulle novità che il mercato della sicurezza offre...",https://facebook.com/422966017856247,4 SQUARE
+http://www.fabian-ltd.com,,fabian-ltd.com,JKB,"MOSSHALL, JKB UK LTD CULTER HOUSE RD",ABERDEENSHIRE,AB13 0EN,UNITED KINGDOM,+44 1224 733010,Retail,,4 SQUARE
+http://www.faceit.uk.com,,faceit.uk.com,FACE IT,56 OAKLEIGH AVENUE,LONDON,N20 9JJ,UNITED KINGDOM,+44 20 8340 1770,Spa,,4 SQUARE
+http://www.fashionhand.cz,,fashionhand.cz,SCOT,PRAŽSKÁ 147,PÍSEK,397 01,CZECH REPUBLIC,+420 382 271 415,"Clothing Store,Men's Store",,4 SQUARE
+http://www.favro.com,,favro.com,FAVRO,GEDIMINO PR. 27,VILNIUS,01105,LITHUANIA,,Office,,4 SQUARE
+http://www.fazolis.com,,fazolis.com,FAZOLI'S,5855 LEWIS AVE,TOLEDO,43612,UNITED STATES,(419) 476-1050,Italian Restaurant,,4 SQUARE
+http://www.fca-selectauto-rambouillet.fr,,fca-selectauto-rambouillet.fr,FORD,35 RUE GUSTAVE EIFFEL,RAMBOUILLET,78120,FRANCE,+33 1 34 85 58 47,Car Dealership,,4 SQUARE
+http://www.feastdining.ca,,feastdining.ca,FEAST,2423 MARINE DR,WEST VANCOUVER,V7V 1L3,CANADA,(604) 922-1155,American Restaurant,,4 SQUARE
+http://www.febo.nl,,febo.nl,FEBO,KOELMALAAN 314,ALKMAAR,1812 PS,NETHERLANDS,+31 72 582 6959,"Iedere ochtend start FEBO heel vroeg met het maken van een ambachtelijke bouillon, gemaakt van verse groenten om vervolgens een ragout te maken van het beste kwaliteitsvlees van 100% Nederlands rund",https://instagram.com/febo_vers,4 SQUARE
+http://www.felies.be,,felies.be,FELIES,BRITSIERSLAAN 5,BRUSSELS (SCHAERBEEK),1030,BELGIUM,+32 2 246 51 80,Daycare,,4 SQUARE
+http://www.fensterbau-palm.de,,fensterbau-palm.de,H. PALM,HEßBACHSTRAßE 19-21,SAARWELLINGEN,66793,GERMANY,+49 6838 98190,Construction Supplies Store,,4 SQUARE
+http://www.fido.ca,,fido.ca,FIDO,3050 BOUL DE PORTLAND,SHERBROOKE,J1L 1K1,CANADA,(819) 347-2989,"Looking for the latest iPhone, Samsung or Pixel? Go get it at Fido’s Sherbrooke store! Shop great deals on cell phones, smartwatches, tablets and accessories. Then choose from an awesome selection of perfect-for-you plans, like Data, Talk & Text, postpaid, Fido Payment Program, unlimited plans, a...",https://facebook.com/FidoCarrefourDeLEstrie,4 SQUARE
+http://www.findig.nl,,findig.nl,FINDIG,JAAP BIJZERWEG 19,WOERDEN,3446 CR,NETHERLANDS,+31 348 760 640,Business Service,,4 SQUARE
+http://www.firmaluks.pl,,firmaluks.pl,LUKS,WYSPIAŃSKIEGO 8,GRODKÓW,49-200,POLAND,+48 77 415 45 35,Construction Supplies Store,,4 SQUARE
+http://www.fisaimmigration.com.au,,fisaimmigration.com.au,FISA,LEVEL 13/200 QUEEN STREET,MELBOURNE,3000,AUSTRALIA,+61 1300 796 206,Call today,,4 SQUARE
+http://www.fitvia.de,,fitvia.de,FITVIA,EHRENSTR. 18-26,COLOGNE,50672,GERMANY,,"Tea Room,€,€€€",https://facebook.com/fitvia.de,4 SQUARE
+http://www.fkbonline.co.uk,,fkbonline.co.uk,F K B,2-4 GREEN LANE,BAILDON,BD17 5JS,UNITED KINGDOM,+44 1274 270690,Construction Supplies Store,,4 SQUARE
+http://www.flowjamaica.com,,flowjamaica.com,FLOW,SHOP #33 PAVILLION SHOPPING MALL,KINGSTON,,(13 CONSTANT SPRING ROAD),,"If you are looking for digital cable television, digital landline or blazing speed internet services. Flow offers an advanced broadband network that provides the highest quality digital data, voice and subscription video services to both business and residential customers",,4 SQUARE
+http://www.ford-borchardt-stemwede.de,,ford-borchardt-stemwede.de,FORD,DIELINGER STRAßE 1,STEMWEDE,32351,GERMANY,+49 5474 20470,Car Dealership,,4 SQUARE
+http://www.ford-emilfrey-autohauszech.de,,ford-emilfrey-autohauszech.de,FORD,STEINBEISWEG 40,SCHWÄBISCH HALL,74523,GERMANY,+49 791 950020,Car Dealership,,4 SQUARE
+http://www.ford-ernst-und-koenig-radolfzell.de,,ford-ernst-und-koenig-radolfzell.de,FORD,ROBERT-GERWIG-STRAßE 29,RADOLFZELL,78315,GERMANY,+49 7732 953990,Car Dealership,,4 SQUARE
+http://www.ford-feix-bochum.de,,ford-feix-bochum.de,FORD,CASTROPER STRAßE 180 - 188,BOCHUM,44791,GERMANY,+49 234 307080,Car Dealership,,4 SQUARE
+http://www.fortech.ro,,fortech.ro,FORTECH,STRADA NUFĂRULUI 28,ORADEA,410533,ROMANIA,+40 364 715 603,"Fortech is a top Romanian IT outsourcing services provider offering custom software development, quality assurance, technical consultancy and IT support services.",https://facebook.com/fortech.ro,4 SQUARE
+http://www.fortrestaurant.nl,,fortrestaurant.nl,'T FORT,FORTWACHTER 3,VIJFHUIZEN,2141 EE,NETHERLANDS,,Restaurant,https://facebook.com/fortrestaurant,4 SQUARE
+http://www.foto.at,,foto.at,FOTO.AT,POSTFACH 65,HAINBURG AN DER DONAU,2410,AUSTRIA,+43 800 880271,Business and Professional Services,,4 SQUARE
+http://www.fr.wikipedia.org,,fr.wikipedia.org,FITOU,,,11510,FRANCE,,Fitou is a commune in the Aude department in southern France.,https://facebook.com/203639302994471,4 SQUARE
+http://www.frangos.com.au,,frangos.com.au,FRANGO,29-31 LEXINGTON DR,BELLA VISTA,2153,AUSTRALIA,+61 2 9672 6474,Petersham Charcoal Chicken,,4 SQUARE
+http://www.fransabergen.no,,fransabergen.no,FRANSA,ÅSANE SENTER 19,ULSET,5116,NORWAY,+47 55 18 00 89,"Clothing Store,Women's Store",,4 SQUARE
+http://www.fresco-bb.de,,fresco-bb.de,FRESCO,HALLGÄßCHEN 12,BADEN-BADEN,76534,GERMANY,+49 7221 9706101,Construction Supplies Store,,4 SQUARE
+http://www.friendsbariloche.com.ar,,friendsbariloche.com.ar,FRIENDS,ROLANDO 188,SAN CARLOS DE BARILOCHE,8400,(ESQ. MITRE),+54 294 442-3700,Argentinian Restaurant,https://facebook.com/FriendsBariloche,4 SQUARE
+http://www.frimat.fr,,frimat.fr,FRIMAT,23 B BOULEVARD DE L'ARIANE,NICE,06300,FRANCE,+33 4 93 04 81 99,Toute info sur le service d'installation ou de dépannage d'équipement de froid industriel proposé aux usagers du 06 par l'atelier FRIMAT sis à Nice est à voir sur son site web : www.frimat.fr,,4 SQUARE
+http://www.frogles.pl,,frogles.pl,FROGLES,UL. WARSZAWSKA 76 LOK. 66,BIAŁYSTOK,15-085,POLAND,+48 728 292 730,Men's Store,,4 SQUARE
+http://www.frulez.it,,frulez.it,FRULEZ,PIAZZA UMBERTO,BARI,,ITALY,+39 080 523 9827,"Vegan and Vegetarian Restaurant,€€€,€",,4 SQUARE
+http://www.fudzylounge.ru,,fudzylounge.ru,FUDZY,ОСЕННИЙ БУЛЬВАР 12,MOSCOW,196332,RUSSIA,+7 917 557-99-98,"Большое пространство 500м2 разделено на большую зону с комфортными диванами,лаунж зона с мамасанами и 3 вип комнатами с телевизорами по 65 дюймом ,Ps4 и караоке.У нас Вы может",https://instagram.com/fudzylounge,4 SQUARE
+http://www.fundayshop.com,,fundayshop.com,FUNDAY,"МОСКОВСКИЙ ПРОСП., 126",NABEREZHNYE CHELNY,423810,RUSSIA,+7 855 220-45-26,Clothing Store,,4 SQUARE
+http://www.funnyburger.com,,funnyburger.com,FUNNY,PONTONJÄRV. 2,BODEN,961 43,SWEDEN,+46 921 149 20,Retail,,4 SQUARE
+http://www.fusian.com,,fusian.com,FUSIAN,3504 SECOR RD,TOLEDO,43606,UNITED STATES,(419) 720-9500,"FUSIAN is an independent, Ohio-based network of fast casual restaurants. They offer Japanese-inspired bowls and sushi rolls made with simple, healthy, and wholesome ingredients sourced from responsible suppliers and prepared fresh in house on the daily.",https://facebook.com/fusiantoledo,4 SQUARE
+http://www.fusiondfw.com,,fusiondfw.com,FUSION,2205 W BERRY ST,FORT WORTH,76110,(BTWN WAYSIDE & FRAZIER AVE),(817) 921-5500,"Hookah Bar,Smoke Shop",https://facebook.com/392657227571217,4 SQUARE
+http://www.galero.eu,,galero.eu,GALERO,УЛ. ЕКЗАРХ ЙОСИФ 16,PLOVDIV,,BULGARIA,+359 32 625 077,"Furniture and Home Store,Design Studio",https://facebook.com/MebeliGalero,4 SQUARE
+http://www.gamestop.com,,gamestop.com,GAMESTOP,3355 E FAIRVIEW AVE,MERIDIAN,83642,UNITED STATES,(208) 846-9265,"GameStop is the world's largest video game retailer with over 6,100 stores located throughout the United States and 17 countries.",,4 SQUARE
+http://www.gandhi.com.mx,,gandhi.com.mx,GANDHI,AV. HIDALGO 1171,MONTERREY,64000,(E/ MARTÍN DE ZAVALA Y AMÉRICA),,"Bookstore,Coffee Shop",,4 SQUARE
+http://www.gannon.edu,,gannon.edu,WALDRON,,ERIE,16501,UNITED STATES,,College Cafeteria,,4 SQUARE
+http://www.garage-lebon-seat-cherbourg.fr,,garage-lebon-seat-cherbourg.fr,SEAT,ZI DE SAUXMARAIS RUE DES AJONCS,TOURLAVILLE,50110,FRANCE,+33 2 33 23 49 00,Car Dealership,,4 SQUARE
+http://www.gardego.cz,,gardego.cz,GARDEGO,"VELEHRADSKÁ 531, BUCHLOVICE",BUCHLOVICE,687 08,CZECH REPUBLIC,+420 727 815 527,Construction Supplies Store,,4 SQUARE
+http://www.gatomalasana.com,,gatomalasana.com,GATO,"PLAZA DEL DOS DE MAYO, 4",MADRID,28004,SPAIN,,"Bar,€€,€€",https://instagram.com/gatomalasana,4 SQUARE
+http://www.gaysir.no,,gaysir.no,GAYSIR,ØVRE VOLLGATE 7,OSLO,0158,NORWAY,+47 926 88 123,Advertising Agency,,4 SQUARE
+http://www.gefco.co.uk,,gefco.co.uk,GEFCO,BELTON RD,SANDTOFT,DN8 5SX,UNITED KINGDOM,+44 1427 871920,Storage Facility,,4 SQUARE
+http://www.geneat.be,,geneat.be,GEN'EAT',TOLPOORTSTRAAT 31,DEINZE,9800,BELGIUM,,"Juice Bar,Salad Restaurant,Breakfast Spot,€,€€€",https://facebook.com/890045874358358,4 SQUARE
+http://www.gennevilliers.spa.asso.fr,,gennevilliers.spa.asso.fr,S.P.A,,GENEVILLIERS,,FRANCE,+33 1 47 98 57 40,Animal Shelter,,4 SQUARE
+http://www.getgocafe.com,,getgocafe.com,GETGO,1604 N CENTER AVE,SOMERSET,15501,UNITED STATES,(814) 443-3702,"GetGo Cafe + Market is your one-stop shop for incredibly fresh, made-to-order food and beverages. We’ve also got all of the conveniences you need like snacks, gas, the WetGo car wash, surcharge-free ATMs and more",https://facebook.com/GiantEagleGetGoSomerset,4 SQUARE
+http://www.geti.cc,,geti.cc,GETI,44 HOCKLEY ST,BIRMINGHAM,B18 6BH,UNITED KINGDOM,+44 121 507 0994,Jewelry Store,,4 SQUARE
+http://www.ghdhair.com,,ghdhair.com,ZIGGYS,13A GREEN ST,STRATHAVEN,ML10 6LT,UNITED KINGDOM,+44 1357 520616,Hair Salon,,4 SQUARE
+http://www.gidatgestion.es,,gidatgestion.es,GIDAT,"CALLE DEL ESCRITOR BONO Y BARBER, 1",VALENCIA,46025,SPAIN,+34 961 93 21 77,Office,,4 SQUARE
+http://www.gildains.it,,gildains.it,GILDA,VIA REGGIO CAMPI I TRONCO 86,REGGIO CALABRIA,89126,ITALY,+39 0965 332611,Business and Professional Services,,4 SQUARE
+http://www.glans.cz,,glans.cz,GLANS,BLATTNÉHO 2338/5,PRAGUE,158 00,CZECH REPUBLIC,+420 251 613 083,Education,,4 SQUARE
+http://www.glazed2013.co.uk,,glazed2013.co.uk,GLAZED,1 GASTONS RD,CHIPPENHAM,SN14 0ET,UNITED KINGDOM,+44 1249 542132,Arts and Crafts Store,,4 SQUARE
+http://www.glistrr.com,,glistrr.com,GLISTRR,COMMERCIAL MEWS,ANTRIM,BT40 1HJ,UNITED KINGDOM,+44 7595 663266,Repair Service,,4 SQUARE
+http://www.gluglu.ch,,gluglu.ch,GLUGLU,DALMAZIQUAI 11,BERN,3005,SWITZERLAND,,Night Club,,4 SQUARE
+http://www.gogos.kr,,gogos.kr,CAFE GOGOS,분당구 판교역로 145,SEONGNAM-SI,13530,(판교점),+82 31-701-3555,"Café,₩,₩₩₩",,4 SQUARE
+http://www.gooey.mx,,gooey.mx,GOOEY,600 S WINEVILLE AVE,ONTARIO,91761,UNITED STATES,(909) 545-6453,Gooey is a specialist in Graphic Design with an emphasis on Company Branding. We handle anything creative; from logo design to all the way to new product designs.,,4 SQUARE
+http://www.grdf.fr,,grdf.fr,GRDF,31 MAIL PIERRE CHARLOT,BLOIS,41000,FRANCE,+33 2 54 50 27 00,Fuel Station,,4 SQUARE
+http://www.grilld.com.au,,grilld.com.au,GRILL'D,229 CARLISLE ST,BALACLAVA,,AUSTRALIA,+61 3 9527 1411,Burger Joint,https://facebook.com/GrilldBurgers,4 SQUARE
+http://www.gruppocomet.it,,gruppocomet.it,COMET,"VIA FERDINANDO MAGELLANO, 31/35",SAN GIOVANNI IN PERSICETO,40017,ITALY,+39 051 687 0611,Il meglio dell'hi-tech su www.gruppocomet.it,https://facebook.com/comet.it,4 SQUARE
+http://www.gu-japan.com,,gu-japan.com,GU,東滑川町5-1-3,HITACHI-SHI,317-0052,(日立シーマークスクエア),+81 294-87-7661,Clothing Store,,4 SQUARE
+http://www.gulf.nl,,gulf.nl,GULF,WOLFSBERGENWEG 6A,EMMEN,7822 AW,NETHERLANDS,+31 591 615 588,Fuel Station,,4 SQUARE
+http://www.gull.nz,,gull.nz,GULL,,MAHENO,9495,NEW ZEALAND,,Fuel Station,https://facebook.com/GullNZ,4 SQUARE
+http://www.gumbobrooklyn.blogspot.com,,gumbobrooklyn.blogspot.com,GUMBO,493 ATLANTIC AVE,BROOKLYN,11217,(3RD),(718) 855-7808,"From kids’ music classes to handcrafted gifts and clothing, we offer a one-of-a-kind space for families in Brooklyn to learn, grow, and have fun.",,4 SQUARE
+http://www.guvex.cz,,guvex.cz,GUVEX,DUKELSKÝCH HRDINŮ 1011,LANŠKROUN,563 01,CZECH REPUBLIC,+420 465 461 528,Construction Supplies Store,,4 SQUARE
+http://www.guysas.fr,,guysas.fr,GUY,10 BIS RUE DE TRUCHEBANATTE,ARBENT,01100,FRANCE,+33 4 74 77 23 64,Business and Professional Services,,4 SQUARE
+http://www.gyrdis.com,,gyrdis.com,GYRDIS,20 MAIL FOLIOT CURIE,SAINT-OUEN-L'AUMÔNE,95310,FRANCE,+33 1 34 21 85 66,Hotel,,4 SQUARE
+http://www.habitat.fr,,habitat.fr,HABITAT,130 CHEMIN DU PONT BLANC,VEDENE,84270,(CENTRE COMMERCIAL BULD'AIR),+33 4 90 84 23 10,Furniture and Home Store,,4 SQUARE
+http://www.hairityreso.timax.se,,hairityreso.timax.se,HAIR,SANDV. 15,TYRESÖ,135 50,SWEDEN,+46 8 447 71 11,Hair Salon,,4 SQUARE
+http://www.handpicked.kr,,handpicked.kr,NAROO,동작구 상도로 120 9F,,,SANG DO 3 DONG,+82 2-2229-5491,"Korean Restaurant,₩₩,₩₩",,4 SQUARE
+http://www.harueh.com,,harueh.com,HARUEH,11 W 30TH ST,NEW YORK,10001,(BTWN. 5TH AND BROADWAY),(212) 695-1680,Hair Salon,,4 SQUARE
+http://www.hatome-maruko.com,,hatome-maruko.com,HATOME,下丸子3-16-11,ŌTA,146-0092,JAPAN,,"Café,Coffee Shop,¥,¥¥¥",https://facebook.com/212153307486565,4 SQUARE
+http://www.hbcradiomatic.com,,hbcradiomatic.com,HBC,NÄSG. 4,ÅMÅL,662 32,SWEDEN,+46 18 80 19 00,Business and Professional Services,,4 SQUARE
+http://www.hertz.com.br,,hertz.com.br,HERTZ,"TÉRREO, TERMINAL 2",RIO DE JANEIRO,21941-900,(AEROPORTO DO GALEÃO),+55 21 3398-2379,Rental Car Location,,4 SQUARE
+http://www.hertz.gr,,hertz.gr,HERTZ,ΑΕΡΟΔΡΌΜΙΟ ΗΡΑΚΛΕΊΟΥ,NEA ALIKARNASSOS,714 08,GREECE,+30 281 033 0452,Rental Car Location,,4 SQUARE
+http://www.hfh.hu,,hfh.hu,H.F.H. KFT,LÉGSZESZ U. 4,BUDAPEST,1081,HUNGARY,+36 1 324 7502,Tech Startup,,4 SQUARE
+http://www.hhh.be,,hhh.be,G2.16,NAAMSESTEENWEG 355,HEVERLEE,3001,BELGIUM,,College Classroom,https://facebook.com/hhscholen,4 SQUARE
+http://www.hinoko.fr,,hinoko.fr,HINOKO,40 RUE DE BERMERAIN,FAMARS,59300,FRANCE,+33 3 27 41 84 28,Advertising Agency,,4 SQUARE
+http://www.hioscar.com,,hioscar.com,OSCAR,75 VARICK ST,NEW YORK,10013,UNITED STATES,,"Tech Startup,Office",,4 SQUARE
+http://www.hitomi.at,,hitomi.at,HITOMI,MARXERGASSE 20,VIENNA,1030,AUSTRIA,+43 1 7152933,"Asian Restaurant,€,€€€",,4 SQUARE
+http://www.hkab.se,,hkab.se,HKAB,ESKILSTORPSV. 7,BÅSTAD,269 96,SWEDEN,+46 431 700 45,Clothing Store,,4 SQUARE
+http://www.hms-systems.com,,hms-systems.com,SYSTEMS,WARSZAWSKA 91,ŁOMIANKI,05-092,POLAND,+48 22 831 10 42,Education,,4 SQUARE
+http://www.hobos213-hub.com,,hobos213-hub.com,HOBO'S,213 MAIN ST,FORT MILL,29715,UNITED STATES,(803) 548-4626,Burgers. Shakes. Brews. That’s what we’re all about at Hobo’s!,,4 SQUARE
+http://www.horjusdronrijp.nl,,horjusdronrijp.nl,HORJUS,DE ALDE MAR 16,DRONRYP,9035 VP,NETHERLANDS,+31 517 390 425,Business and Professional Services,,4 SQUARE
+http://www.hotellreis.com,,hotellreis.com,KISVE,SKOGSLYCKEV. 14,SVANESUND,472 31,SWEDEN,+46 303 77 00 11,Hotel,,4 SQUARE
+http://www.hotellysice.cz,,hotellysice.cz,HOTEL,"NÁMĚSTÍ OSVOBOZENÍ 145, LYSICE",LYSICE,679 71,CZECH REPUBLIC,+420 725 396 424,Hotel,,4 SQUARE
+http://www.hotelpincio.com,,hotelpincio.com,PINCIO,VIA CAPO LE CASE 50,ROME,00187,ITALY,,Hotel,,4 SQUARE
+http://www.hotzone.com.br,,hotzone.com.br,HOTZONE,PARKSHOPPINGBARIGÜI,CURITIBA,81200-100,"(PISO SUPERIOR, LJ. 272)",+55 41 3317-6301,Arcade,https://facebook.com/HotZoneOficial,4 SQUARE
+http://www.hrslap.hr,,hrslap.hr,SLAP,RUSKAMEN BB,OMIŠ,,CROATIA,+385 21 871 108,Rental Car Location,,4 SQUARE
+http://www.hudy.cz,,hudy.cz,HUDY,HLAVNÍ TŘÍDA 557,OSTRAVA,708 00,CZECH REPUBLIC,,"Outdoor Supply Store,Sporting Goods Retail",https://facebook.com/hudysport,4 SQUARE
+http://www.hunters.com,,hunters.com,HUNTERS,12 SILVER STREET,TROWBRIDGE,BA14 8AA,UNITED KINGDOM,+44 1225 617512,Real Estate Agency,,4 SQUARE
+http://www.hyfitgear.com,,hyfitgear.com,HYFIT,150 MENACHEM BEGIN ROAD,TEL AVIV,6492105,ISRAEL,,Sports and Recreation,https://instagram.com/hyfitgear,4 SQUARE
+http://www.i-home.cz,,i-home.cz,I-HOME,BOHDALICE 86,ADAMOV,,CZECH REPUBLIC,+420 608 477 647,Business and Professional Services,,4 SQUARE
+http://www.i-m.mx,,i-m.mx,AEDP,"RUA MIGUEL RUSSEL, 4",CORROIOS,,PORTUGAL,,Business and Professional Services,,4 SQUARE
+http://www.iceape.nl,,iceape.nl,ICEAPE,CEINTUURBAAN 17/4,AMSTERDAM,1072 ER,NETHERLANDS,+31 6 22956260,Furniture and Home Store,,4 SQUARE
+http://www.icover.ru,,icover.ru,ICOVER.RU,"НОВОСЛОБОДСКАЯ УЛ., 50/1, СТР. 2",MOSCOW,,RUSSIA,+7 499 250-12-40,Electronics Store,,4 SQUARE
+http://www.idhika.com,,idhika.com,IDHIKA,"SRI BALAJI PG, MARUTHI NAGAR, MADIWALA, SRI BALAJI PG, MARUTHI NAGAR, MADIWALA",WEST MIDLANDS,B90 4SB,UNITED KINGDOM,+44 330 456 4566,Business and Professional Services,,4 SQUARE
+http://www.ifra.asso.fr,,ifra.asso.fr,IFRA,66 COURS TOLSTO\U00EF,VILLEURBANNE,69100,FRANCE,+33 4 72 89 20 42,Adult Education,,4 SQUARE
+http://www.iguana-bar.de,,iguana-bar.de,IGUANA,SELIGENSTÄDTER STRAßE 16,SELIGENSTADT,63500,GERMANY,+49 6182 992774,"Bar,Restaurant,€,€€€",,4 SQUARE
+http://www.iih.org.uk,,iih.org.uk,IIH UK,64A BROADSANDS DR,GOSPORT,PO12 2SD,UNITED KINGDOM,+44 7785 799433,Business and Professional Services,,4 SQUARE
+http://www.ilkopia.se,,ilkopia.se,ILKOPIA,STORA NYG. 40,STOCKHOLM,111 27,SWEDEN,+46 8 411 55 36,"Advertising Agency,Print Store",,4 SQUARE
+http://www.im2s.mc,,im2s.mc,IM2S,11 AVENUE D'OSTENDE,MONACO CITY,98000,PRINCIPALITY OF MONACO,+377 99 99 10 00,"Medical Center,Hospital",,4 SQUARE
+http://www.imcsolutions.org,,imcsolutions.org,I M C,"SUSSEX OAK, BLACKHAM",BLACKHAM,TN3 9UA,UNITED KINGDOM,+44 1892 740273,Construction Supplies Store,,4 SQUARE
+http://www.imein.cl,,imein.cl,IMEIN,BERLIOZ 5559,SAN JOAQUÍN,,CHILE,+56 2 2525 3443,Construction Supplies Store,,4 SQUARE
+http://www.in-tea.net,,in-tea.net,IN-TEA,2440 W MAIN ST,LITTLETON,80120,(S. NEVADA),(720) 918-2512,Tea Room,,4 SQUARE
+http://www.inb.com,,inb.com,INB,518 W FRANCIS AVE,SPOKANE,99205,UNITED STATES,(509) 323-1144,Everyone has a story and INB has been fortunate to play a role in shaping the narrative.,https://facebook.com/InlandNWBank,4 SQUARE
+http://www.info.edu.turku.fi,,info.edu.turku.fi,RUOKALA,KLASSIKON KOULU,TURKU,20100,(ESKELINKATU 4),,College Cafeteria,,4 SQUARE
+http://www.ingesa.com.ec,,ingesa.com.ec,INGESA,AV. GENERAL ENRIQUEZ S8-24,QUITO,,(Y FRANCISCO BARBA),+593 2-258-2159,Factory,,4 SQUARE
+http://www.injob.com,,injob.com,IN JOB,"VIA GERMANIA, 1",VERONA,37136,ITALY,+39 045 828 7611,Employment Agency,,4 SQUARE
+http://www.inmedio.ro,,inmedio.ro,INMEDIO,"BD. DECEBAL,",DEVA,,ROMANIA,+40 254 234 082,"ziare, reviste si carti, tabac si accesorii tabac, noutati si produse in trend, e-loading, plata facturi, bilete evenimente",,4 SQUARE
+http://www.inside-urban.com,,inside-urban.com,INSIDE,15 RUE MASSILLON INSIDE,CLERMONT-FERRAND,63000,FRANCE,+33 4 73 91 07 75,"Clothing Store,Women's Store",,4 SQUARE
+http://www.institut-rimel.fr,,institut-rimel.fr,RIMEL,71 GRANDE RUE,PONT-DE-VEYLE,01290,FRANCE,+33 3 85 31 64 76,Health and Beauty Service,,4 SQUARE
+http://www.inteco.be,,inteco.be,INTECO,LISSEWEEGSE STEENWEG 212,WEST FLANDERS,8380,BELGIUM,+32 478 47 73 69,IT Service,,4 SQUARE
+http://www.interra.ru,,interra.ru,"ЦЕНТР ОБСЛУЖИВАНИЯ КЛИЕНТОВ ООО ""ТГ ИНТЕРРА""","УЛ. О. КОШЕВОГО, 15",REVDA,623280,(НА УЛ. М. ГОРЬКОГО),+7 800 300-80-33,Tech Startup,,4 SQUARE
+http://www.inzenyring.eu,,inzenyring.eu,ENYMA,V POLI 852,RTYNĚ V PODKRKONOŠÍ,542 33,CZECH REPUBLIC,+420 606 649 301,Automotive Repair Shop,,4 SQUARE
+http://www.irfx.nl,,irfx.nl,IRFX,V ITTERSUMSTR 46A,ZWOLLE,8012 TL,NETHERLANDS,+31 38 453 7451,"Clothing Store,Jewelry Store",,4 SQUARE
+http://www.iron-in.co.uk,,iron-in.co.uk,IRON-IN,MCCORQUODALE GARDENS,,WA12 0AA,UNITED KINGDOM,+44 7900 603734,Laundry Service,,4 SQUARE
+http://www.isei.com.ua,,isei.com.ua,ISEI,"УЛ. УКРАИНСКАЯ, 32",KRYVYI RIH,,UKRAINE,+380 67 538 4903,Cosmetics Store,,4 SQUARE
+http://www.isicom.se,,isicom.se,ISICOM,BÄCKSTENSG. 9,MÖLNDAL,431 49,SWEDEN,+46 31 28 95 00,Retail,,4 SQUARE
+http://www.ismash.com,,ismash.com,ISMASH,PANCRAS RD,LONDON,N1C 4QL,(UNIT 39),+44 20 3883 7511,"iSmash is the UK’s leading specialist tech repair service. Need a fast screen repair whilst on the move? St.Pancras iSmash is conveniently located for London visitors, workers or commuters looking for a high quality screen repair or battery replacement to be completed in under 30 minutes, by a qu...",https://facebook.com/iSmashStPancras,4 SQUARE
+http://www.iswaymarketing.com,,iswaymarketing.com,ISWAY,1093 WINDHAM PKWY,ROMEOVILLE,60446,UNITED STATES,(312) 823-5154,"iSway provides digital advertising, marketing consulting, and focus groups to clients in Romeoville, IL area.",https://facebook.com/106862257372398,4 SQUARE
+http://www.itadel.dk,,itadel.dk,ITADEL,SKANDERBORGVEJ 190,VIBY J,8260,DENMARK,,Office,,4 SQUARE
+http://www.itmove.no,,itmove.no,ITMOVE,TOMTERVEIEN 5,SKI,1400,NORWAY,+47 64 86 69 59,Education,,4 SQUARE
+http://www.itron.com,,itron.com,ITRON,GENERAL FREIRE 725 LA CISTERNA,LA CISTERNA,,CHILE,+56 2 2328 5000,Construction Supplies Store,,4 SQUARE
+http://www.izone.ua,,izone.ua,IZONE,,,,UKRAINE,,"Event Space,Art Gallery,Coworking Space",,4 SQUARE
+http://www.jambo-berlin.de,,jambo-berlin.de,JAMBO,SELCHOWER STRAßE 35,BERLIN,,GERMANY,,"African Restaurant,€,€€€",,4 SQUARE
+http://www.jarny.com,,jarny.com,JARNY,19 RUE DE NANTES,SAINT-ÉTIENNE-DE-MER-MORTE,44270,FRANCE,+33 2 40 31 13 13,"Farm,Clothing Store,Construction Supplies Store",,4 SQUARE
+http://www.jauss-traiteur.com,,jauss-traiteur.com,JAUSS,5 ROUTE DE BÂLE,SAINTE-CROIX-EN-PLAINE,68127,FRANCE,+33 3 89 22 08 34,"Butcher,Food and Beverage Retail",,4 SQUARE
+http://www.javits.co.uk,,javits.co.uk,JAVITS,39 DRUM ST,EDINBURGH,EH17 8RQ,UNITED KINGDOM,+44 131 664 9191,"Fast Food Restaurant,Indian Restaurant,£,£££",,4 SQUARE
+http://www.jawhar-a.nl,,jawhar-a.nl,JAWHAR-A,MAASTRICHTERWEG 263,VALKENSWAARD,,NETHERLANDS,+31 40 206 8518,Business and Professional Services,,4 SQUARE
+http://www.jbgf.se,,jbgf.se,DAGMAR,PETTERSBERGSV. 12,ÖREBRO,703 69,SWEDEN,,"Financial Service,Legal Service",,4 SQUARE
+http://www.jeco.se,,jeco.se,JECO,VÄSTBERGAV. 24,STOCKHOLM,126 30,SWEDEN,+46 8 545 553 80,Retail,,4 SQUARE
+http://www.jhline.dk,,jhline.dk,JH-LINE,STUBBEVANGEN 32,SVENDBORG,5700,DENMARK,+45 28 83 39 05,Tech Startup,,4 SQUARE
+http://www.jimson.se,,jimson.se,JIMSON,S. LUNDAV. 32,STAFFANSTORP,245 32,SWEDEN,+46 46 25 29 29,Advertising Agency,,4 SQUARE
+http://www.jjill.com,,jjill.com,J.JILL,101 JORDAN CREEK PKWY,WEST DES MOINES,50266,(JORDAN CREEK TOWN CENTER),(515) 457-7474,Women's Store,https://facebook.com/JJillStyle,4 SQUARE
+http://www.jne.co.id,,jne.co.id,JNE,JL. IBU APIPAH,TASIKMALAYA,,INDONESIA,,"Shipping, Freight, and Material Transportation Service",,4 SQUARE
+http://www.joen.io,,joen.io,JOEN.IO,1809 15TH AVE APT 103 # 103,SEATTLE,98122,UNITED STATES,(509) 596-1372,IT Service,,4 SQUARE
+http://www.josef-burger.co.il,,josef-burger.co.il,JOZEF HAMBURGER,אגריפס 123,JERUSALEM,9451317,ISRAEL,+972 73-758-4219,Burger Joint,https://facebook.com/JozefHamburger,4 SQUARE
+http://www.josuran.ch,,josuran.ch,JOSURAN,FARBSTRASSE 8,HORN,9326,SWITZERLAND,+41 71 845 30 15,Hostel,,4 SQUARE
+http://www.jpgolf.com.au,,jpgolf.com.au,JPGOLF,18/20 WANGARA RD,SANDRINGHAM,3191,AUSTRALIA,+61 416 075 985,http://www.jpgolf.com.au/golf-about-jp.html,https://facebook.com/177491605649991,4 SQUARE
+http://www.jrosemaine.com,,jrosemaine.com,J ROSE,2178 POST RD,WELLS,04090,UNITED STATES,(207) 360-0113,"Looking for fashion jewelry and accessories to define your signature style? We gather our carefully curated collection of designer costume jewelry, scarves and fashion handbags from exclusive shows an",https://facebook.com/j.rosemaine,4 SQUARE
+http://www.jtaaccountants.co.uk,,jtaaccountants.co.uk,JTA,22 NUTHALL ROAD,NOTTINGHAM,NG8 5AT,UNITED KINGDOM,+44 115 854 4081,"We have a huge portfolio of ""happy"" client base and as such we provide our services in a number of languages, as well as English",,4 SQUARE
+http://www.jummi.be,,jummi.be,JUMMI,BRUSSELSESTEENWEG 550,OVERIJSE,,BELGIUM,,"Sandwich Spot,€,€€€",,4 SQUARE
+http://www.jupiter-coffee.com,,jupiter-coffee.com,JUPITER,要町1-40,ŌITA,870-0831,(豊後にわさき市場),+81 97-513-7231,Food and Beverage Retail,,4 SQUARE
+http://www.just-in.com,,just-in.com,JUST-IN,76 BOULEVARD GEORGES SEURAT,NEUILLY-SUR-SEINE,92200,FRANCE,+33 1 42 08 07 95,Advertising Agency,,4 SQUARE
+http://www.k-agro.unas.cz,,k-agro.unas.cz,K-AGRO,Č. 80,LUKAVICE,516 03,CZECH REPUBLIC,+420 777 077 928,Construction Supplies Store,,4 SQUARE
+http://www.k10.com,,k10.com,K10,15 QUEEN STREET,LONDON,EC4M 9DW,UNITED KINGDOM,,"Japanese Restaurant,££,££",,4 SQUARE
+http://www.k2e.re,,k2e.re,K2E,1 RUE DES TOURNESOLS VILLELE,SAINT-PAUL,,REUNION,+262 692 74 49 40,Repair Service,,4 SQUARE
+http://www.ka-gra.com.pl,,ka-gra.com.pl,KA-GRA,KORKOWA 47,WARSAW,02-225,POLAND,+48 22 812 40 65,Food and Beverage Retail,,4 SQUARE
+http://www.kain.pl,,kain.pl,KAIN,"BUKOWA 25A, TORUN",TORUŃ,87-100,POLAND,+48 56 650 97 29,Electronics Store,,4 SQUARE
+http://www.kaku37.co.uk,,kaku37.co.uk,KAKU,37 MONCK STREET,LONDON,SW1P 2BL,UNITED KINGDOM,+44 20 7222 2218,"Asian Restaurant,££,££",,4 SQUARE
+http://www.kallars.com,,kallars.com,KALLARS,2-4 NEW KING ST,LONDON,SE8 3HS,UNITED KINGDOM,+44 20 8692 9533,Kallars are an independent property agent that can advise on all aspects of sales & lettings in the South East London area. Offering you a bespoke service & outstanding results,https://facebook.com/KallarsProperty,4 SQUARE
+http://www.kappoeastend.com,,kappoeastend.com,KAPPO,3201 CORRINE DR,ORLANDO,32803,UNITED STATES,,Japanese Restaurant,,4 SQUARE
+http://www.karen.com.pl,,karen.com.pl,KAREN S.A.,AL. GRUNWALDZKA 141,GDAŃSK,80-264,POLAND,+48 58 305 61 48,Electronics Store,,4 SQUARE
+http://www.kazoza.net,,kazoza.net,KAZOZA,THE POINTE,DUBAI,,(THE PALM),+971 4 874 4000,Middle Eastern Restaurant,,4 SQUARE
+http://www.kdw.co.uk,,kdw.co.uk,KDW,40 HIGH ST,HEMEL HEMPSTEAD,HP1 3AE,UNITED KINGDOM,+44 1442 819519,"Financial Service,Legal Service",,4 SQUARE
+http://www.kewa.be,,kewa.be,KEWA,RECHTESTRAAT 64,BERINGEN,3582,BELGIUM,+32 11 43 68 46,Construction Supplies Store,,4 SQUARE
+http://www.kfag.ch,,kfag.ch,K + F AG,MOSERSTRASSE 33,BERN,3006,SWITZERLAND,+41 31 921 84 46,Retail,,4 SQUARE
+http://www.kfartpub.ro,,kfartpub.ro,KF ART,CENTRUL VECHI,TÂRGOVIȘTE,130007,ROMANIA,+40 724 725 609,Pub,https://facebook.com/rebornKFART,4 SQUARE
+http://www.kfc.com,,kfc.com,KFC,419 N CHESTNUT ST,LE ROY,61752,UNITED STATES,(309) 962-7100,Fried Chicken Joint,,4 SQUARE
+http://www.kfcindonesia.com,,kfcindonesia.com,KFC,GRAHA SMKG,JAKARTA,14240,(JL. BULEVAR KELAPA GADING BLOK LB 1 NO. 1-3),+62 21 4530066,"Every day, more than 12 million customers are served at KFC restaurants in 109 countries and territories around the world. KFC operates more than 5,200 restaurants in the United States and more than 15,000 units around the world.",,4 SQUARE
+http://www.kic.com.pl,,kic.com.pl,KIC,ZDUNÓW 18/55,KRAKOW,30-428,POLAND,+48 512 433 446,Construction Supplies Store,,4 SQUARE
+http://www.kik.at,,kik.at,KIK,KALVARIENBERGGASSE 63,ZELTWEG,,AUSTRIA,,Clothing Store,,4 SQUARE
+http://www.kika.ee,,kika.ee,KIKA,VEESAARE TEE 2,PEETRI,75312,ESTONIA,+372 601 3766,Pet Supplies Store,,4 SQUARE
+http://www.kindak.be,,kindak.be,KINDAK,MECHELSESTEENWEG 67,KAMPENHOUT,1910,BELGIUM,+32 16 60 13 41,"Over Kindak Alhoewel Rudi De Vroe over meer dan 30 jaar ervaring beschikt, is ondernemen meer dan dakdekken alleen. Het runnen van een bedrijf is tevens goede relaties met klant en personeel onderhouden. Maar het allerbelangrijkste is uw behoefte kennen en invullen...",,4 SQUARE
+http://www.kingpower.com,,kingpower.com,KING POWER DOWNTOWN COMPLEX,8 RANG NAM RD,RATCHATHEWI,10400,THAILAND,,"Duty-free Store,Shopping Mall",https://instagram.com/kingpowerofficial,4 SQUARE
+http://www.kioskguide-hannover.de,,kioskguide-hannover.de,KIOSK,RAABESTR.,HANOVER,,GERMANY,,Convenience Store,,4 SQUARE
+http://www.kita-ggmbh-koblenz.de,,kita-ggmbh-koblenz.de,KITA,MITTELSTRAßE 74,NEUWIED,56564,GERMANY,+49 2631 9394922,Daycare,,4 SQUARE
+http://www.klipinmarkedsgade18.qsite.dk,,klipinmarkedsgade18.qsite.dk,KLIP IN,MARKEDSGADE 18,LØGUMKLOSTER,6240,DENMARK,+45 74 74 43 33,Hair Salon,,4 SQUARE
+http://www.kmart.co.nz,,kmart.co.nz,KMART,"LEVEL 2, 219 DON MCKINNON DR",NORTH SHORE,0632,(WESTFIELD ALBANY),+64 9 414 0003,Store #: M01,https://facebook.com/KmartNewZealand,4 SQUARE
+http://www.kmcbtp.re,,kmcbtp.re,KMC BTP,3 IMPASSE TAILEE,BRAS-PANON,97412,REUNION,+262 692 99 97 96,Structure,,4 SQUARE
+http://www.kmode.fr,,kmode.fr,KMODE,3 PLACE GEORGES CLEMENCEAU,HYÈRES,83400,FRANCE,+33 4 94 35 28 66,"Clothing Store,Women's Store",,4 SQUARE
+http://www.kochbz.it,,kochbz.it,KOCH,"VIA LUIGI NEGRELLI, 16",BOLZANO,39100,ITALY,+39 0471 202111,"La Koch di Bolzano produce e vende all'ingrosso prodotti alimentari tirolesi e sud tirolesi, prodotti biologici surgelati, specialità dell'Alto Adige e italiane; si propone con una ricca e deliziosa scelta di ottimi strudel, canederli, spätzle, pasta sfoglia, pasta all'uovo, pizze surgelate, tort...",https://facebook.com/kochbolzano,4 SQUARE
+http://www.kokpit.aero,,kokpit.aero,KOKPIT,NY LUFTHAVNSVEJ 24,KOLIND,8560,DENMARK,,Fast Food Restaurant,,4 SQUARE
+http://www.komet-pirmasens.de,,komet-pirmasens.de,KOMET,MOLKENBRUNNER STRAßE 10,PIRMASENS,66954,GERMANY,+49 6331 51320,Print Store,,4 SQUARE
+http://www.kometo.com.ar,,kometo.com.ar,KOMETO,HUMBERTO PRIMO 2357,BUENOS AIRES,C1229AAK,(E/ PICHINCHA Y MATHEU),,Grocery Store,,4 SQUARE
+http://www.kortrijk.be,,kortrijk.be,AJKO,VELDSTRAAT 158,KORTRIJK,8500,BELGIUM,,"Bar,€€,€€",,4 SQUARE
+http://www.kotmel.cz,,kotmel.cz,KOTMEL,DĚLNICKÁ 1431/42,PRAGUE,170 00,CZECH REPUBLIC,+420 266 712 032,Business and Professional Services,,4 SQUARE
+http://www.kr.rapl-applepie.com,,kr.rapl-applepie.com,RAPL,동구 동부로 149,,41229,(신세계백화점대구점),,"Dessert Shop,₩,₩₩₩",https://facebook.com/RAPLapplepiekorea,4 SQUARE
+http://www.ktas.com.au,,ktas.com.au,MYCAR,590 SYDNEY RD,COBURG,3058,(CHAMP ST),,Automotive Repair Shop,,4 SQUARE
+http://www.ktm.com.br,,ktm.com.br,KTM,"AV. DOS BANDEIRANTES, 2040",SÃO PAULO,05650-002,BRAZIL,+55 11 5090-1700,Bicycle Store,,4 SQUARE
+http://www.kuleuven-kulak.be,,kuleuven-kulak.be,E1040,ETIENNE SABBELAAN 53,KORTRIJK,8500,BELGIUM,,College Lab,https://facebook.com/KULeuvenKulak,4 SQUARE
+http://www.kumarmessboston.com,,kumarmessboston.com,KUMAR'S,8110 SHOPS WAY,NORTHBOROUGH,01532,UNITED STATES,(508) 393-3434,"Kumar's brings you the most authentic Indian food served on banana leaf made using home-style recipes from the roots of South Indian villages, in a modern setting. Also known for serving specialty drinks.",https://facebook.com/KumarMessBoston,4 SQUARE
+http://www.kw.hm.com,,kw.hm.com,H&M,SALMIYA-FLAGSHIP,AS SĀLIMĪYAH,,KUWAIT,+965 2208 1114,H & M Hennes & Mauritz AB (publ) was founded in Sweden in1947 and is quoted on Nasdaq Stockholm. H&M’s business idea is to offerfashion and quality at the best price in a sustainable way.,,4 SQUARE
+http://www.kwportugal.pt,,kwportugal.pt,ASK VAZ,"RUA DAMIÃO DE GÓIS, 475, PORTO",PORTO,4423-245,PORTUGAL,+351 913 354 202,Real Estate Agency,,4 SQUARE
+http://www.kyurestaurants.com,,kyurestaurants.com,KYU,GOLDSMITH 66,MIGUEL HIDALGO,11550,(AV. PRESIDENTE MASARYK),+52 55 8848 3496,Restaurant,https://instagram.com/kyumexico,4 SQUARE
+http://www.la-pop.co.uk,,la-pop.co.uk,LA-POP!,38 ISLINGTON ROW,BIRMINGHAM,B15 1LD,UNITED KINGDOM,+44 121 213 7980,"Ice Cream Parlor,Coffee Shop,£,£££",https://facebook.com/lapopedgbaston,4 SQUARE
+http://www.laboratorioorafomarcellocasta.com,,laboratorioorafomarcellocasta.com,L'ORAFO,"VIA DOBERDO', 9",CAGLIARI,09122,ITALY,+39 070 288503,"L'Orafo, il laboratorio di Marcello Casta, apre a Cagliari nel 1985 ed inizia la sua attività in questo settore. Un apprendistato durato cinque anni gli ha consentito di capire i segreti dell'arte orafa, acquisendo tecniche d'ideazione di gioielli creati artigianalmente, per chi apprezza la belle...",,4 SQUARE
+http://www.lakearrowheadresort.com,,lakearrowheadresort.com,BIN 189,27984 CALIFORNIA 189,LAKE ARROWHEAD,92352,UNITED STATES,(909) 337-4189,"The use of local ingredients and expansive windows makes Bin 189 the best place in town to spend time on the lakefront from the expansive deck, adjoining lounge or wine room for private dining. Our menu features comfort foods with sophisticated twists and a list of unique California wines.",,4 SQUARE
+http://www.lazyyellow.com,,lazyyellow.com,STEAK-OUT,10 CLARKSON WILSON CTR,CHESTERFIELD,63017,UNITED STATES,(636) 536-1717,Food Court,,4 SQUARE
+http://www.le démontage et le dessouchage d'Arbres en milieu compliqué.,,le démontage et le dessouchage d'Arbres en milieu compliqué.,LA-HAUT,10 AVENUE DU CHAMP DE MARS,NARBONNE,11100,FRANCE,le soins des arbre d'ornements ainsi que dans l'abattage,"""Là-haut entreprise d'Arboriste-grimpeur spécialisés dans la taille raisonnée",,4 SQUARE
+http://www.lebuzz-group.com,,lebuzz-group.com,FACTORY,11 RUE CLEF,LILLE,59800,FRANCE,+33 9 72 44 00 43,Women's Store,,4 SQUARE
+http://www.lechri.se,,lechri.se,LECHRI,ASPG. 17,MULLSJÖ,565 33,SWEDEN,+46 70 553 64 99,Business and Professional Services,,4 SQUARE
+http://www.leco.fr,,leco.fr,ECO,2 RUE DE LA CHAUDRONNERAIS,FOUGÈRES,35302,FRANCE,+33 2 99 99 59 23,"Financial Service,Legal Service",,4 SQUARE
+http://www.lecot-raedschelders.be,,lecot-raedschelders.be,LECOT,VIERLINDEN 7,HEULE,8501,BELGIUM,+32 56 36 45 11,Hardware Store,https://facebook.com/LecotRaedschelders,4 SQUARE
+http://www.leedam.co.uk,,leedam.co.uk,LEEDAM,26 AGINCOURT SQUARE,MONMOUTH,NP25 3BT,UNITED KINGDOM,+44 1600 715624,Real Estate Agency,,4 SQUARE
+http://www.legios.eu,,legios.eu,LEGIOS,JANA PERNERA 159,ČESKÉ VELENICE,378 10,CZECH REPUBLIC,+420 384 358 811,Factory,,4 SQUARE
+http://www.lekarnicky.dbs-prusinovice.cz,,lekarnicky.dbs-prusinovice.cz,DBS,LESNÍ 133,PRUSINOVICE,768 42,CZECH REPUBLIC,+420 573 386 262,Construction Supplies Store,,4 SQUARE
+http://www.leniweb.nl,,leniweb.nl,LENIWEB,BOTERZWIN 4216,JULIANADORP,,NETHERLANDS,+31 6 34770850,Repair Service,,4 SQUARE
+http://www.lepiot.eu,,lepiot.eu,LE PIOT,CHEM PIOT,FLEURANCE,32500,FRANCE,+33 5 81 67 03 17,"Bed and Breakfast,Vacation Rental",,4 SQUARE
+http://www.lepro.com.pl,,lepro.com.pl,LEPRO,STASZICA 40A,LUBIN,59-300,POLAND,+48 76 743 40 40,Construction Supplies Store,,4 SQUARE
+http://www.lexxbaravins.fr,,lexxbaravins.fr,LE XX,3 RUE DES PLANCHES,STRASBOURG,67000,FRANCE,+33 6 81 54 64 99,"Wine Bar,€€,€€",https://facebook.com/LeXXStrasbourg,4 SQUARE
+http://www.libina.cz,,libina.cz,LIBINA,,LIBINA,788 05,CZECH REPUBLIC,,"Protáhlá obec pod svahy Jeseníků prvně připomínána r. 1348, tradice výroby textilu a drátů. Barokní kostel sv. Jiří z r. 1721, u něj sochy sv. Jana Nepomuckého a Panny Marie z let 1715-1720.",,4 SQUARE
+http://www.lihs.lvm.de,,lihs.lvm.de,LVM,HAUPTSTR.  46,WAHRENHOLZ,29399,GERMANY,+49 5835 9687610,Insurance Agency,,4 SQUARE
+http://www.liikunta.nivala.fi,,liikunta.nivala.fi,UIKKO,KALLIONTIE 59,NIVALA,85500,FINLAND,+358 44 4457420,Swimming Pool,,4 SQUARE
+http://www.liip.ch,,liip.ch,LIIP,RUE ETRAZ 4,LAUSANNE,1003,SWITZERLAND,+41 26 588 03 36,"Tech Startup,IT Service",https://instagram.com/liip_ch,4 SQUARE
+http://www.limmar.pl,,limmar.pl,LIMMAR,UL SŁOMIANA 21/30,KRAKOW,30-316,POLAND,+48 12 266 49 08,Medical Supply Store,,4 SQUARE
+http://www.limoco-industries.be,,limoco-industries.be,LIMOCO,INDUSTRIEWEG NOORD 1141,OPGLABBEEK,3660,BELGIUM,+32 89 85 55 21,Factory,,4 SQUARE
+http://www.lincare.com,,lincare.com,LINCARE,2110 INDEPENDENCE SQUARE,WEST PLAINS,65775,UNITED STATES,(417) 255-8478,"Lincare is a leading supplier of respiratory-therapy products and services for patients in the home. You can learn more about our extensive suite of products and services by visiting Lincare.com. Everywhere we operate, Lincare is working to be a partner in patient care by providing high-quality s...",,4 SQUARE
+http://www.lindtusa.com,,lindtusa.com,LINDT,9822 DESTINY USA DR,SYRACUSE,13204,UNITED STATES,(315) 423-9474,"The Lindt Chocolate Shop in Syracuse, NY offers the metro Syracuse area delicious chocolate treats made by master chocolatiers. Shop our large selection of chocolate gifts & Lindor chocolate truffles.",,4 SQUARE
+http://www.livelab.co.uk,,livelab.co.uk,LIVELAB,"AMERICA LODGE, MANTON RD",LEICESTERSHIRE,LE15 8DF,UNITED KINGDOM,+44 1572 756543,Business and Professional Services,,4 SQUARE
+http://www.llakecharles.com,,llakecharles.com,SOMAR,777 AVE LAUBERGE,LAKE CHARLES,70601,UNITED STATES,(337) 395-7777,"Southern Market (or SoMar  for short) is a charming shop offering a bold assortment of gifts, décor, accessories and specialty food items . Partnering with Tabasco® of Avery Island, SoMar features the brand’s many unique products, cookware and gifts...",,4 SQUARE
+http://www.lmcurbs.com,,lmcurbs.com,LMCURBS,827 FISHER RD,LONGVIEW,75604,UNITED STATES,(800) 284-1412,"Over the course of thirty plus years in the metal building industry, LMCurbs has experienced tremendous growth by staying committed to offering products and services targeted specifically for customers who require innovative solutions delivered with the highest quality possible in order to fulfil...",https://facebook.com/LMCurbs,4 SQUARE
+http://www.local.shaws.com,,local.shaws.com,SHAW'S,127 MARION RD,WAREHAM,02571,UNITED STATES,(508) 295-7813,"Visit your neighborhood Shaw's located at 127 Marion Rd, Wareham, MA, for a convenient and friendly grocery experience! From our wide selection of groceries, bakery, deli and fresh produce, we've got you covered!...",https://facebook.com/ShawsWarehamMA,4 SQUARE
+http://www.locations.frischs.com,,locations.frischs.com,FRISCH'S,2192 WINEMILLER LN,BATAVIA,45103,UNITED STATES,(513) 735-7100,"Hometown restaurant favorite with casual dine-in, carry out and drive-thru service. Fresh, cooked-to-order menu includes the famous Big Boy Sandwich, hand-breaded onion rings, family dinners, extensive breakfast bar, homemade soups, desserts and breakfast, lunch and dinner served all day...",https://facebook.com/FrischsBigBoy.Batavia.188,4 SQUARE
+http://www.locations.wendys.com,,locations.wendys.com,WENDY’S,1904 WESTON RD,WESTON,33326,(N CORPORATE LAKES BLVD),(954) 389-2255,"Just as we are committed to serving the best quality food every single day, we are committed to serving you during this time. Whether it’s via dine-in, the drive-thru or delivery where available, we remain focused on having your back.",https://facebook.com/Wendys1904WestonRd,4 SQUARE
+http://www.logisticabologna.it,,logisticabologna.it,MY LOG,"BLOCCO, 4/4",BENTIVOGLIO,40010,ITALY,+39 051 039 6060,"My Log si occupa di logistica industriale e magazzinaggio conto terzi. Da anni sul mercato, si affida a professionisti del settore e fornisce serietà e competenza in sotto ogni aspetto. per ulteriori info visitate il nostro sito.",https://facebook.com/267576677125419,4 SQUARE
+http://www.logo-uk.co.uk,,logo-uk.co.uk,LOGO-UK,77 NOKES CT,CRAWLEY,RH10 1AN,UNITED KINGDOM,+44 845 260 1693,Business and Professional Services,,4 SQUARE
+http://www.lokma.com.tr,,lokma.com.tr,LOKMA,YAHYA KEMAL CAD. NO: 18 RUMELIHISARI,ISTANBUL,34470,TURKEY,+90 212 265 71 71,"Breakfast Spot,Café,₺₺₺,₺",https://facebook.com/132358886838111,4 SQUARE
+http://www.lommatzsch.de,,lommatzsch.de,ARCHIV,AM MARKT 6,LOMMATZSCH,01623,GERMANY,+49 35241 82446,Business and Professional Services,,4 SQUARE
+http://www.lpspa.it,,lpspa.it,L.P. SPA,VIA CAMPO DEI FIORI 28,VENEGONO SUPERIORE,21040,ITALY,+39 0331 827911,Construction Supplies Store,,4 SQUARE
+http://www.ltbrussia.ru,,ltbrussia.ru,LTB,ТРЦ «ГАЛЕРЕЯ»,SAINT PETERSBURG,191040,"(ЛИГОВСКИЙ ПРОСП., З0А)",,"Clothing Store,Children's Clothing Store",,4 SQUARE
+http://www.lucasgent.be,,lucasgent.be,210H,OUDE HOUTLEI 44,GHENT,9000,BELGIUM,,College Classroom,https://facebook.com/kunsthumaniora.sintlucas,4 SQUARE
+http://www.lugar.cl,,lugar.cl,LUGAR,AVENIDA POCURO 2170 DEPTO. 43,PROVIDENCIA,,CHILE,+56 9 8515 1688,Business and Professional Services,,4 SQUARE
+http://www.luna-laudenbach.de,,luna-laudenbach.de,LUNA,HAUPTSTRAßE 76,LAUDENBACH,69514,GERMANY,+49 6201 7837158,Retail,,4 SQUARE
+http://www.lush.co.kr,,lush.co.kr,LUSH,명동8가길 5,SEOUL,04536,(명동역점),+82 2-753-6003,Cosmetics Store,,4 SQUARE
+http://www.lutile03.com,,lutile03.com,L'UTILE,5 RUE LAVOISIER,CUSSET,03300,FRANCE,+33 4 70 96 10 46,"Advertising Agency,Print Store",,4 SQUARE
+http://www.lyc-breteuil-montigny.ac-versailles.fr,,lyc-breteuil-montigny.ac-versailles.fr,CDI,LYCÉE POLYVALENT EMILIE DE BRETEUIL,MONTIGNY-LE-BRETONNEUX,78180,(3 RUE DU CANAL),+33 1 30 57 11 33,College Bookstore,,4 SQUARE
+http://www.lycka.crayonsite.net,,lycka.crayonsite.net,LYCKA.,西京区山田車塚町14-10,KYOTO,615-8238,JAPAN,+81 75-205-3416,"Café,¥,¥¥¥",https://facebook.com/941166632648242,4 SQUARE
+http://www.m-lc.nl,,m-lc.nl,MLC,STORKSTRAAT,LEUSDEN,,NETHERLANDS,,Office,,4 SQUARE
+http://www.m-pirates.jp,,m-pirates.jp,愛媛マンダリンパイレーツ球団事務所 (愛媛県民球団株式会社),東石井6-12-36,MATSUYAMA,790-0932,JAPAN,,Office,,4 SQUARE
+http://www.m.haribo.com,,m.haribo.com,HARİBO,YEŞILIRMAK MAH. VALI ZEKAI GÜMÜŞDIŞ BLV. NO:3,TOKAT,60100,TURKEY,+90 554 299 50 00,Chocolate Store,,4 SQUARE
+http://www.m2.hm.com,,m2.hm.com,H&M,GONOE-1-1 OGAWAMACHI,,869-0606,JAPAN,+81 120-866-201,Fashion and quality at the best price in a sustainable way.,,4 SQUARE
+http://www.ma-priere.com,,ma-priere.com,MAPRIERE,西久保2-1-11,MUSASHINO,,JAPAN,+81 422-55-0505,"Pastry Shop,Chocolate Store",,4 SQUARE
+http://www.macif.fr,,macif.fr,MACIF,28 RUE GERMAIN CHARIER,LUNEVILLE,54300,FRANCE,+33 9 69 39 49 49,"Groupe d'assurance aux valeurs mutualistes, la Macif accompagne et protège les particuliers à chaque étape de leur vie en assurance de dommages, santé/prévoyance, banque et assurance-vie",,4 SQUARE
+http://www.magracollection.pl,,magracollection.pl,MAGRO,ZIELONA 5,KOŁO,62-600,POLAND,+48 63 262 48 44,Clothing Store,,4 SQUARE
+http://www.mairie-lognes.fr,,mairie-lognes.fr,LOGNES,,,77185,FRANCE,,City,,4 SQUARE
+http://www.majka.com.pl,,majka.com.pl,MAJKA,POD SKARPĄ 11 (FORDON),BYDGOSZCZ,92-200,POLAND,+48 71 781 71 78,Automotive Repair Shop,,4 SQUARE
+http://www.makart.com,,makart.com,MAKART,MALMÖ SKÅNE 208 65,MALMÖ,208 65,SWEDEN,+46 20 86 67 66,Arts and Entertainment,,4 SQUARE
+http://www.makeitnew.d.vriskosites.gr,,makeitnew.d.vriskosites.gr,MAKE IT NEW ΑΦΟΊ ΦΏΤΟΓΛΟΥ ΦΑΝΟΒΑΦΕΊΟ ΑΥΤΟΚΙΝΉΤΩΝ,ΑΓ.ΝΙΚΟΛΑΟΥ 88 ΚΑΙ ΑΩΟΥ,ATTICA,131 23,GREECE,+30 21 0502 2791,Automotive Repair Shop,,4 SQUARE
+http://www.marcos.com.br,,marcos.com.br,MARCOS,"AV. D, 105",GOIÂNIA,74150-040,BRAZIL,+55 62 3239-5300,"Uma origem modesta, mas carregando sempre muita disposição para crescer. Empregando atualmente 500 pessoas, a empresa tem uma estrutura funcional bem ágil, com cada loja assumindo sua independência administrativa",,4 SQUARE
+http://www.markethalls.co.uk,,markethalls.co.uk,YATAI,9 HOLLES ST,LONDON,W1G 0BN,(MARKET HALL),,"Japanese Restaurant,££,££",https://facebook.com/102892477817504,4 SQUARE
+http://www.markveienlegesenter.no,,markveienlegesenter.no,H ASKE,SCHLEPPEGRELLS GATE 2C,OSLO,0556,NORWAY,,Medical Center,,4 SQUARE
+http://www.martrim.co.uk,,martrim.co.uk,MARTRIM,MILLBUCK WAY,SANDBACH,CW11 3HT,UNITED KINGDOM,+44 1270 767771,Automotive Repair Shop,,4 SQUARE
+http://www.maryne.com,,maryne.com,MARYNE,49 RUE PETION,PARIS,75011,FRANCE,+33 1 48 05 63 03,Print Store,,4 SQUARE
+http://www.mashiro.fi,,mashiro.fi,MASHIRO,MÄKELÄNKATU 22,HELSINKI,00510,(SUVANNONTIE),+358 40 6616864,Japanese Food with a Twist by Heart,https://facebook.com/mashirovallila,4 SQUARE
+http://www.masterd.pt,,masterd.pt,MASTER.D,"RUA CIDADE DE HALLE, LOTE 7/9 CAVE DTA.",COIMBRA,3000-107,(MONTE FORMOSO),+351 239 491 293,Education,,4 SQUARE
+http://www.matchfashion.no,,matchfashion.no,MATCH,LANGSÆVEIEN 5,ARENDAL,4846,NORWAY,+47 37 03 21 55,Clothing Store,,4 SQUARE
+http://www.matech.nl,,matech.nl,KATECH,WATERBEEMD 11,HELMOND,5705 DN,NETHERLANDS,+31 492 599 260,Retail,,4 SQUARE
+http://www.matos.gr,,matos.gr,MATOS,ΝΑΟΎΣΗΣ 37,PERISTERI,121 37,GREECE,+30 21 0575 2515,Language School,,4 SQUARE
+http://www.maxipesca.be,,maxipesca.be,BUZZZ,1/17 AVENUE ANTOON VAN OSS,BRUSSELS,1120,BELGIUM,+32 2 263 19 46,Food and Beverage Retail,,4 SQUARE
+http://www.maxxwinke.nl,,maxxwinke.nl,MAXX,RAADHUISSTRAAT 37,DRUTEN,6651 DZ,NETHERLANDS,,Discount Store,https://facebook.com/maxxdruten,4 SQUARE
+http://www.mazda-autohaus-daehn-prenzlau.de,,mazda-autohaus-daehn-prenzlau.de,MAZDA,AM UMSPANNWERK 6,PRENZLAU,17291,GERMANY,+49 3984 85930,Car Dealership,,4 SQUARE
+http://www.mazda-autohaus-mintel-wolgast.de,,mazda-autohaus-mintel-wolgast.de,MAZDA,WEDELER STRAßE 3,WOLGAST,17438,GERMANY,+49 3836 205983,Car Dealership,,4 SQUARE
+http://www.mazoshamburgers.com,,mazoshamburgers.com,MAZOS,3146 S 27TH ST,MILWAUKEE,53215,(BTWN OKLAHOMA AVE & EUCLID AVE),(414) 671-2118,"Burger Joint,American Restaurant",,4 SQUARE
+http://www.mbfin.cz,,mbfin.cz,MB FIN,BOLESLAVSKÁ 880,KOSMONOSY,293 06,CZECH REPUBLIC,+420 326 724 661,"Financial Service,Legal Service",,4 SQUARE
+http://www.mch-group.com,,mch-group.com,HALLE 1,MESSEPLATZ,BASEL,4058,(RIEHENRING),,Der 2013 fertig gestellte dreigeschossige Hallenkomplex mit der City Lounge ist das neue Kernstück der Messe Basel. Bis Früh- jahr 2013 wurde der Neubau der Basler Architekten Herzog& de Meuron als Erweiterung der bereits 1999 eröffneten Halle 1 fertiggestellt.,https://facebook.com/messebasel,4 SQUARE
+http://www.mcstar.club,,mcstar.club,MCSTAR,ALTENDORFER STR. 237-245,ESSEN,45143,(CITY-CENTER ALTENDORF),+49 201 52092819,Arts and Entertainment,https://facebook.com/mcstar.club,4 SQUARE
+http://www.mctlaw.com,,mctlaw.com,MCTLAW,"1605 MAIN STREET, SUITE 710",SARASOTA,34236,UNITED STATES,(888) 952-5242,We focus our entire legal practice on making a difference in our clients lives by getting them the financial help they need and deserve.,,4 SQUARE
+http://www.mdctv.com,,mdctv.com,MDCTV,"C/ GRAN VÍA 27,1º DERECHA",MADRID,28013,SPAIN,+34 914 51 46 70,"MDCTV.com es una televisión pionera en internet. Una ambiciosa apuesta audiovisual, con más de cinco años de trayectoria de éxito, que aúna televisión a la carta con una dilatada oferta de información, formación y cultura.",https://facebook.com/MDCTVcom,4 SQUARE
+http://www.med-1.com,,med-1.com,MED-1,,,,ISRAEL,,Office,,4 SQUARE
+http://www.medbiz.pl,,medbiz.pl,MEDBIZ,NARAMOWICKA 47,POZNAŃ,61-622,POLAND,+48 531 402 463,Medical Center,,4 SQUARE
+http://www.medicum.pl,,medicum.pl,APTEKA,MICKIEWICZA 28,LUBLIN,20-371,POLAND,+48 81 744 55 16,Drugstore,,4 SQUARE
+http://www.meeet.de,,meeet.de,MEEET,KONSTANZER STRAßE 15A,BERLIN,10707,GERMANY,+49 30 91566605,Business Center,,4 SQUARE
+http://www.mehd.com.be,,mehd.com.be,MEHD,,LAGOA SANTA,33400-000,BRAZIL,,"Gift Store,Miscellaneous Store,Souvenir Store",https://instagram.com/mehd_decor,4 SQUARE
+http://www.melsc.co.jp,,melsc.co.jp,三菱電機システムサービス 飯田サービスステーション,上郷別府3367-1,IIDA-SHI,395-0003,JAPAN,+81 265-52-5396,Electronics Store,,4 SQUARE
+http://www.menanyc.com,,menanyc.com,MENA,28 CORTLANDT ALLEY,NEW YORK,10013,(BTW WHITE & WALKER),,Restaurant,https://instagram.com/menarestaurantnyc,4 SQUARE
+http://www.metrestaurace.com,,metrestaurace.com,MET,NÁM. PŘEMYSLA OTAKARA II. 58/16,ČESKÉ BUDĚJOVICE,370 01,CZECH REPUBLIC,+420 774 776 999,"Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant",https://facebook.com/318727041882455,4 SQUARE
+http://www.metro.at,,metro.at,METRO,JEDLETZBERGERSTRAßE 22,VIENNA,1110,AUSTRIA,+43 1 69080690,"Department Store,Supermarket",,4 SQUARE
+http://www.mfa.gov.sg,,mfa.gov.sg,シンガポール共和国大使館商務部 (シンガポール国際企業庁),赤坂1-12-32,MINATO,107-6013,(アーク森ビル13階),+81 3-5574-7477,Embassy or Consulate,,4 SQUARE
+http://www.mh-deco.fr,,mh-deco.fr,MH DECO,40 RUE MARIE LOUISE,MARSEILLE,13008,FRANCE,+33 6 17 62 70 64,Construction Supplies Store,,4 SQUARE
+http://www.mh1studio.co.uk,,mh1studio.co.uk,M H 1,56 AVE RD,BEXLEYHEATH,DA7 4EG,UNITED KINGDOM,+44 20 3754 3836,Hair Salon,,4 SQUARE
+http://www.midas.be,,midas.be,MAROLA,STATIONSSTRAAT 176,LOMMEL,3920,BELGIUM,+32 11 54 11 85,Parking,,4 SQUARE
+http://www.midasportugal.com,,midasportugal.com,MIDAS,"C. C. NORTESHOPPING, LJ 0.714",MATOSINHOS,4460-841,"(R. SARA AFONSO, 105-117)",+351 22 951 2735,Automotive Repair Shop,,4 SQUARE
+http://www.milmar.cz,,milmar.cz,MILMAR,KRIZANOVICE 254,,685 01,CZECH REPUBLIC,+420 517 379 445,Business and Professional Services,,4 SQUARE
+http://www.milox.se,,milox.se,MILOX,CARL WESTMANS VÄG 17,SALTSJÖBADEN,133 35,SWEDEN,+46 8 747 84 15,Business Service,,4 SQUARE
+http://www.minikoparkiradom.pl,,minikoparkiradom.pl,VEGAS,UL. WAWRZYSZÓW 33,,26-625,POLAND,+48 507 114 080,Automotive Repair Shop,,4 SQUARE
+http://www.mips.be,,mips.be,MIPS,SLUISWEG 2 BUS 5,GHENT,9000,BELGIUM,+32 9 220 23 21,Office,,4 SQUARE
+http://www.mirano.be,,mirano.be,MIRANO,LEUVENSESTEENWEG 38 CHAUSSÉE DE LOUVAIN,SAINT-JOSSE-TEN-NOODE,1210,BELGIUM,,"Night Club,Event Space,Cultural Center",https://facebook.com/miranobrussels,4 SQUARE
+http://www.mirpolwolow.com.pl,,mirpolwolow.com.pl,MIR-POL,REJA 1,WOŁÓW,56-100,POLAND,+48 71 389 56 06,Construction Supplies Store,,4 SQUARE
+http://www.misco.se,,misco.se,MISCO,O. HAMNEN 1,LIDKÖPING,531 40,SWEDEN,+46 510 48 50 00,Repair Service,,4 SQUARE
+http://www.misjef.com.au,,misjef.com.au,MISJEF,18 WELLS ST,FRANKSTON,3199,AUSTRALIA,+61 466 300 129,Lingerie Store,,4 SQUARE
+http://www.mixxo.com,,mixxo.com,MIXXO,강북구 도봉로 52,SEOUL,01215,(미아Y스퀘어점),+82 2-6312-6211,Women's Store,https://facebook.com/MIXXO.KR,4 SQUARE
+http://www.miyagi-restaurant.de,,miyagi-restaurant.de,MIYAGI,SANDKAULE 3,BONN,53111,GERMANY,+49 228 9663128,"Japanese Restaurant,€€,€€",,4 SQUARE
+http://www.mizzup.com,,mizzup.com,MIZZUP,10 CORNICHE DE NEUBURG,SÈTE,34200,FRANCE,+33 6 99 50 14 41,Créer une application pour les commerçants OU Acheter local..,,4 SQUARE
+http://www.mmtools.fi,,mmtools.fi,MM-TOOLS,KAUSTINTIE 1,KAUSTINEN,69600,FINLAND,+358 20 7120190,"Työkaluja ja -vaatteita Kaustiselta. MM-Tools Oy kuuluu Isojoen Konehallin omistaman IKH-työkalut- ja IKH-varaosat-ketjujen kauppiasverkostoon, joiden tuotteet ovat tunnetusti laadukkaita ja edullisia...",https://facebook.com/mmtools.fi,4 SQUARE
+http://www.mobidig.cz,,mobidig.cz,MOBIDIG,TOVÁRNÍ 718/13,BRNO,643 00,CZECH REPUBLIC,+420 545 219 420,Construction Supplies Store,,4 SQUARE
+http://www.moglianesimask.it,,moglianesimask.it,MO.MASK,"VIA A. CIARROCCHI, 25/A",CIVITANOVA ALTA,62012,ITALY,+39 0733 892366,Dal 2001 la MO. MASK di Moglianesi Alessandro realizza esclusivamente mascherine per la verniciatura in bicolore di suole per calzatura in PU  TR  TPU  PVC  GOMMA  EVA e materiali affini.,,4 SQUARE
+http://www.mokayagr.com,,mokayagr.com,MOKAYA,638 WEALTHY ST SE,GRAND RAPIDS,49503,(JAMES),(616) 551-1925,Dessert Shop,https://instagram.com/mokayagr,4 SQUARE
+http://www.molokocafe.ru,,molokocafe.ru,MOLOKO,"АЛЕКСЕЕВСКАЯ УЛ., 15",NIZHNY NOVGOROD,603005,(ОКТЯБРЬСКАЯ УЛ.),+7 831 419-34-62,"Café,₽,₽₽₽",,4 SQUARE
+http://www.montpellier-shopping.fr,,montpellier-shopping.fr,LE 18,460 AVENUE DE L'AUBE ROUGE,CASTELNAU-LE-LEZ,34170,FRANCE,+33 4 67 63 11 14,"Clothing Store,Women's Store",,4 SQUARE
+http://www.mooyantwerp.be,,mooyantwerp.be,MOOY,LOMBARDENVEST 19,ANTWERP,2000,BELGIUM,+32 3 422 65 29,"Coffee Shop,€,€€€",https://instagram.com/mooy.antwerp,4 SQUARE
+http://www.mps.ac.th,,mps.ac.th,MAHAPRUTARAM GIRLS' SCHOOL,519 MAHA PHRUETTHARAM RD,BANG RAK,10500,THAILAND,+66 2 236 5758,High School,https://facebook.com/MPSchool519,4 SQUARE
+http://www.mrzky.cz,,mrzky.cz,MRZKY,,MRZKY,282 01,CZECH REPUBLIC,,Village,,4 SQUARE
+http://www.msdiva.co.uk,,msdiva.co.uk,MS DIVA,77 HIGH ST,POTTERS BAR,EN6 5AS,UNITED KINGDOM,+44 1707 642123,Hair Salon,,4 SQUARE
+http://www.mudo.com.tr,,mudo.com.tr,MUDO,"YENI SAKARYA CADDESI NO:244  ADA CENTER ALIŞVERIŞ MERKEZI  NO: Z27,Z28, Z28 B",ADAPAZARI,,(SAKARYA),+90 212 456 07 94,MUDO Mağazacılık A.Ş.,https://facebook.com/mudo,4 SQUARE
+http://www.muguet.com.mx,,muguet.com.mx,MUGUET,RECREO 112,MEXICO CITY,03100,(PARROQUIA),,"Bakery,Coffee Shop",,4 SQUARE
+http://www.mundos.us,,mundos.us,MUNDOS,901 N MILPAS ST,SANTA BARBARA,93103,(CANON PERDIDO),(805) 562-1999,Latin American Restaurant,https://facebook.com/mundossb,4 SQUARE
+http://www.musik.i.angelholm.just.nu,,musik.i.angelholm.just.nu,MUSIK,ÄLVSDALSG. 30,ÄNGELHOLM,262 73,SWEDEN,+46 431 45 39 88,Arts and Entertainment,,4 SQUARE
+http://www.mustbemorumbi.com.br,,mustbemorumbi.com.br,MUST BE,"AV DR. GUILHERME DUMONT VILARES, 431",SÃO PAULO,,BRAZIL,+55 11 3892-8380,Convenience Store,,4 SQUARE
+http://www.mvandijk.nl,,mvandijk.nl,VAN DIJK,STADSHAVEN 24,HEUSDEN GEM HEUSDEN,5256 BA,NETHERLANDS,+31 416 661 175,Restaurant,,4 SQUARE
+http://www.mygymretford.co.uk,,mygymretford.co.uk,MY GYM,6-8 BRIDGEGATE,RETFORD,DN22 6AE,UNITED KINGDOM,+44 1777 948132,Gym and Studio,,4 SQUARE
+http://www.mylan.fr,,mylan.fr,MYLAN,117 ALLÉE DES PARCS,SAINT-PRIEST,69800,FRANCE,+33 4 37 25 75 00,"Medical Center,Drugstore",,4 SQUARE
+http://www.mylocalis.com,,mylocalis.com,LOCALIS,4045 SPENCER STREET SUITE 403,LAS VEGAS,89119,UNITED STATES,(800) 456-7009,"Local Search Advertising is about connecting with your customers and giving them a clear route to your business and its services. With search advertising, yo...",,4 SQUARE
+http://www.mynexxis.com,,mynexxis.com,NEXXIS,48 S SERVICE RD STE 203S,MELVILLE,11747,UNITED STATES,(631) 247-0770,"Nexxis specializes in Voice and Data solutions, and helps companies find more efficient ways to meet their communications needs. Our objective is to be a trusted resource that you consider an asset to your business...",https://facebook.com/HVoIP,4 SQUARE
+http://www.nanka-iitoco.com,,nanka-iitoco.com,IITOCO,西荻南2-27-8,SUGINAMI,167-0053,JAPAN,+81 3-3331-1165,"Sake Bar,¥¥,¥¥",,4 SQUARE
+http://www.napizza.de,,napizza.de,NAPIZZA,,FÜRTH,,GERMANY,,"Pizzeria,Italian Restaurant,€,€€€",,4 SQUARE
+http://www.napolitano.do,,napolitano.do,MINT,AV. GEORGE WASHINGTON,SANTO DOMINGO,10208,(NUMERO),(809) 687-1131,Night Club,https://facebook.com/mintnapolitano,4 SQUARE
+http://www.naushi.com.ua,,naushi.com.ua,NAUSHI,"ВУЛ. ГРИГОРІЯ СКОВОРОДИ, 7",KYIV,02000,UKRAINE,,Ramen Restaurant,https://facebook.com/naushi.kyiv,4 SQUARE
+http://www.nautur.com,,nautur.com,NAUTUR,"R. PRAIA DA SAÚDE, 15E",SETÚBAL,2900-572,PORTUGAL,+351 265 532 914,Boat or Ferry,,4 SQUARE
+http://www.navisushi.od.ua,,navisushi.od.ua,NAVI,УЛ. БУНИНА 28,ODESA,,UKRAINE,,Sushi Restaurant,https://instagram.com/navisushi,4 SQUARE
+http://www.nawate.biz,,nawate.biz,NAWATE,奉還町4-7-15,KITA,700-0026,JAPAN,,Shopping Mall,,4 SQUARE
+http://www.ndc-uk.com,,ndc-uk.com,NDC UK,NDC NORTH WEST STRETFORD MOTORWAY ESTATE,MANCHESTER,M32 0ZH,UNITED KINGDOM,+44 161 865 6026,Business and Professional Services,,4 SQUARE
+http://www.ndtshop.ndtmed.de,,ndtshop.ndtmed.de,NDTMED,KARL-THEODOR-STRAßE 9,ALZEY,55232,GERMANY,+49 6735 9407808,Medical Center,,4 SQUARE
+http://www.nedco.ca,,nedco.ca,NEDCO,299 EVANS AVENUE,ETOBICOKE,M8Z 1K2,CANADA,(416) 252-5638,Hardware Store,https://instagram.com/nedco_ca,4 SQUARE
+http://www.neroclub.by,,neroclub.by,NERO,"СОВЕТСКАЯ УЛ., 82",BARANOVICHI,,(КОМСОМОЛЬСКАЯ УЛ.),+375 29 543-34-33,"Night Club,Italian Restaurant",,4 SQUARE
+http://www.neuma.pl,,neuma.pl,NEUMA,4 DYWIZJI WOJSKA POLSKIEGO 22 LOK. 7,GOŚCINO,78-120,POLAND,+48 609 581 682,Advertising Agency,,4 SQUARE
+http://www.nevskimtl.com,,nevskimtl.com,NEVSKI,75 RUE QUEEN,MONTREAL,H3C 2N6,CANADA,(514) 397-0743,"Russian Restaurant,Caucasian Restaurant,Ukrainian Restaurant",https://facebook.com/nevski.mtl,4 SQUARE
+http://www.nextech-grottaglie.it,,nextech-grottaglie.it,NEXTECH,"VIA MADONNA DI POMPEI, 19",GROTTAGLIE,74023,ITALY,+39 340 165 8824,"Nextech si trova a Grottaglie (TA) in via Madonna Di Pompei. Da oltre 5 anni è il punto di riferimento per chiunque voglia acquistare un nuovo smartphone o un nuovo pc... Effettua anche riparazioni di ogni genere, recupera smartphone caduti in acqua, offre assistenza tecnica per ogni esigenza.....",https://facebook.com/nextechgrottaglie,4 SQUARE
+http://www.nichq.org,,nichq.org,NICHQ,30 WINTER ST FL 6,BOSTON,02108,UNITED STATES,(617) 391-2700,Office,,4 SQUARE
+http://www.nirez24.pl,,nirez24.pl,NIREZ,UL. PARTYZANTÓW 19,ŚWIDNIK,21-040,POLAND,+48 81 751 31 88,Retail,,4 SQUARE
+http://www.nivelles.maniak.club,,nivelles.maniak.club,MANIAK,AVENUE JEAN MONNET 13,BAULERS,1401,BELGIUM,+32 471 11 86 72,"Climbing Gym,Bar",https://facebook.com/ManiakNivelles,4 SQUARE
+http://www.no45.co.uk,,no45.co.uk,NO 45,45 BRAEMAR RD,BALLATER,AB35 5RQ,UNITED KINGDOM,+44 1339 755420,"Hotel,Vacation Rental",,4 SQUARE
+http://www.noamarmarkets.com,,noamarmarkets.com,NOAMAR,238 DEER PARK AVE,BABYLON,11702,UNITED STATES,(631) 482-1667,Tapas Restaurant,https://instagram.com/noamarmarkets,4 SQUARE
+http://www.noelbar.gr,,noelbar.gr,NOEL,ΚΟΛΟΚΟΤΡΏΝΗ 59Β,ATHENS,105 60,(ΣΤΟΆ ΚΟΥΡΤΆΚΗ),+30 21 1215 9534,"All day, coffee, cocktails, lunch, dinner, pizza, pasta, cold pressed juices, sunday brunch, live music events, available for private events, dining, art shows",https://facebook.com/theholidaybar,4 SQUARE
+http://www.noivas.es,,noivas.es,NOIVAS,"C. MARQUÉS DE VALLADARES, 13",VIGO,36201,SPAIN,+34 886 11 60 18,Bridal Store,,4 SQUARE
+http://www.nooris.dudaone.com,,nooris.dudaone.com,NOORI'S,70 SHIP ST,BRIGHTON,BN1 1AE,UNITED KINGDOM,+44 1273 329405,"Indian Restaurant,£,£££",,4 SQUARE
+http://www.nordea.fi,,nordea.fi,NORDEA,TORIKATU 4,KANKAANPÄÄ,38700,FINLAND,+358 200 3000,Bank,,4 SQUARE
+http://www.norteen.com,,norteen.com,NORTEEN,"BV. ADOLFO RUÍZ CORTINES 1, COSTA VERDE",BOCA DEL RÍO,94294,(CERRADA ÁVILA CAMACHO),+52 229 193 5223,"Mexican Restaurant,BBQ Joint",https://facebook.com/332843740908589,4 SQUARE
+http://www.novgorzdrav.ru,,novgorzdrav.ru,ЦЕНТРАЛЬНАЯ ГОРОДСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА,"ЯКОВЛЕВА УЛ., 18",VELIKY NOVGOROD,,RUSSIA,,Hospital,,4 SQUARE
+http://www.nts.com.py,,nts.com.py,NTS S.A,INGAVI,FERNANDO DE LA MORA,,(YVAPORUNDY),,Office,,4 SQUARE
+http://www.nyc.gov,,nyc.gov,NYCHA,1 FORDHAM PLZ,BRONX,10458,(AT E FORDHAM RD.),(718) 707-7771,The New York City Housing Authority (NYCHA) provides decent and affordable housing in a safe and secure living  environment for low and  moderate- income residents throughout the five boroughs.,https://facebook.com/NYCHA,4 SQUARE
+http://www.oabpe.org.br,,oabpe.org.br,OAB,"AV. EUCLIDES DOURADO, 498",GARANHUNS,55296-500,BRAZIL,+55 87 3761-0898,Office,,4 SQUARE
+http://www.oasis-blinds.co.uk,,oasis-blinds.co.uk,OASIS,103 LOUTH RD,HOLTON LE CLAY,DN36 5AD,UNITED KINGDOM,+44 1472 823584,Hair Salon,,4 SQUARE
+http://www.obecpaseka.cz,,obecpaseka.cz,PASEKA,,PASEKA U ŠTERNBERKA,783 97,CZECH REPUBLIC,+420 585 039 270,Village,,4 SQUARE
+http://www.oculus1.ru,,oculus1.ru,OCULUS,"УЛ. ЗИНЫ ПОРТНОВОЙ, 1/3",SAINT PETERSBURG,,RUSSIA,,Veterinarian,,4 SQUARE
+http://www.odefri.com,,odefri.com,ODEFRI,"AVENIDA RICARDO MELLA, 125",VIGO,36330,SPAIN,+34 986 21 12 67,Construction Supplies Store,,4 SQUARE
+http://www.odisee.be,,odisee.be,N316,HOSPITAALSTRAAT 23,SINT-NIKLAAS,9100,BELGIUM,,College Classroom,https://facebook.com/odiseesintniklaas,4 SQUARE
+http://www.oleari.it,,oleari.it,OLEARI,"VIA EMILIA OVEST, 60",RUBIERA,42048,ITALY,+39 0522 626235,"L'azienda Oleari srl è stata fondata 50 anni fa come falegnameria. Poi, nel corso del tempo, si è specializzata nella produzione di arredi per bar, pizzerie, locali pubblici e nella produzione e commercializzazione di arredi per la casa...",,4 SQUARE
+http://www.olivert.be,,olivert.be,OLI'VERT,RUE RENÉ DELHAIZE 160,CHARLEROI,6043,BELGIUM,+32 71 81 49 98,Garden Center,,4 SQUARE
+http://www.omedi.com.br,,omedi.com.br,OMEDI,"AV. SÃO FRANCISCO, 336",SANTOS,11013-202,BRAZIL,+55 13 3295-0900,Automotive Repair Shop,,4 SQUARE
+http://www.omegabridal.com,,omegabridal.com,OMEGA,68A THE BROADWAY,SOUTHALL,UB1 1QD,UNITED KINGDOM,+44 20 8843 0297,Professional Expert Quality,https://facebook.com/108889269170886,4 SQUARE
+http://www.ometria.com,,ometria.com,OMETRIA,56 SHOREDITCH HIGH ST,LONDON,E1 6JJ,UNITED KINGDOM,,Tech Startup,,4 SQUARE
+http://www.omsa.gob.do,,omsa.gob.do,OMSA,PROLONGACIÓN 27 DE FEBRERO,LAS CAOBAS,,(ENTRADA LAS CAOBAS),(809) 221-6672,Government Building,,4 SQUARE
+http://www.omweb.com,,omweb.com,OMWEB,14 RODNEY RD,LONDON,KT3 5BL,UNITED KINGDOM,+44 7932 011848,Retail,,4 SQUARE
+http://www.onetex.ch,,onetex.ch,ONETEX,THURGAUERSTRASSE 117,GLATTBRUGG,8152,SWITZERLAND,+41 44 810 88 44,Retail,,4 SQUARE
+http://www.onoff.se,,onoff.se,ONOFF,REPSLAGAREG. 12,NORRKÖPING,602 32,SWEDEN,+46 11 13 28 70,Retail,,4 SQUARE
+http://www.opema.com.tr,,opema.com.tr,OPEMA,YEŞILIRMAK MAH. VALI ZEKAI GÜMÜŞDIŞ BLV. NO:3,TOKAT,60100,TURKEY,+90 356 214 36 66,Furniture and Home Store,https://facebook.com/opemamagazacilik,4 SQUARE
+http://www.openinspiredliving.com,,openinspiredliving.com,OPEN,1655 FOLSOM ST,BOULDER,80302,UNITED STATES,(303) 449-1377,"We are a wellness shop located in Downtown Boulder, featuring handcrafted and heartcreated goods and services. Raw Foods | Plant Medicine | Essential Oils",,4 SQUARE
+http://www.order.koobs.cafe,,order.koobs.cafe,KOOBS,,,,KUWAIT,,Coffee Shop,https://instagram.com/koobs.cafe,4 SQUARE
+http://www.orders.humblebh.com,,orders.humblebh.com,HUMBLE,,WEST RIFFA,,BAHRAIN,+973 3805 5588,Bubble Tea Shop,https://instagram.com/humblebahrain,4 SQUARE
+http://www.orfozeymir.com,,orfozeymir.com,ORFOZ,ODTÜ EYMIR GÖLÜ TESISLERI,GÖLBAŞI,,TURKEY,+90 312 491 78 99,"Seafood Restaurant,₺₺,₺₺",,4 SQUARE
+http://www.orval.pai.pt,,orval.pai.pt,ORVAL,RUA ENTREPAREDES 16,PORTO,4000-197,PORTUGAL,+351 22 208 0133,Hair Salon,,4 SQUARE
+http://www.osiva-hb.cz,,osiva-hb.cz,OSIVA,BĚLOHRADSKÁ 3304,HAVLÍČKŮV BROD,580 01,CZECH REPUBLIC,+420 569 421 366,Retail,,4 SQUARE
+http://www.otoro81.com,,otoro81.com,OTORO81,VIA NICOLA NISCO 21,NAPLES,80121,ITALY,+39 081 426570,"Japanese Restaurant,€€€,€",https://facebook.com/otoro81,4 SQUARE
+http://www.oui.sncf,,oui.sncf,OUI.SNCF,LES COLLINES DE L'ARCHE,PUTEAUX,,(CONCORDE B),,Office,,4 SQUARE
+http://www.outlets.onehanesplace.com,,outlets.onehanesplace.com,HANES,2200 TANGER BLVD STE 109,GONZALES,70737,UNITED STATES,(225) 647-4044,"Located in Gonzales at 2200 Tanger Boulevard is full of name brands that include Champion, Maidenform, Hanes, and more, this store is the perfect one-stop shop for up to date styles and the basics. We do FREE bra fits inside the store, and there's always a great deal to take advantage of.",https://facebook.com/2307813435971594,4 SQUARE
+http://www.oven.com.br,,oven.com.br,OVEN,AEROPORTO AFONSO PENA,SÃO JOSÉ DOS PINHAIS,83010-900,(EMBARQUE ÁREA RESTRITA),,Pizzeria,https://facebook.com/ovenpizza,4 SQUARE
+http://www.oz.by,,oz.by,OZ.BY,"ПРОСПЕКТ ДЗЕРЖИНСКОГО, 122",MINSK,220116,BELARUS,+375 29 695-25-25,OZ — это интернет-магазин OZ by и магазины «OZ Книги» по всей Беларуси.,https://facebook.com/www.oz.by,4 SQUARE
+http://www.pacvan.com,,pacvan.com,PAC-VAN,11637 CAMDEN ROAD #0002,JACKSONVILLE,32218,UNITED STATES,(904) 751-3550,Pac-Van leases and sells portable buildings & storage solutions for non-residential use.,https://facebook.com/PacVanInc,4 SQUARE
+http://www.pano.coop,,pano.coop,PANO,BACHSTR. 15,RAVENSBURG,88214,GERMANY,+49 751 3558804,"Coffee Shop,Bakery,Ice Cream Parlor,€,€€€",https://facebook.com/panobrotundkaffee,4 SQUARE
+http://www.paolohospital.com,,paolohospital.com,โรงพยาบาลเปาโลเมโมเรียล รังสิต,11/1 RANGSIT-NAKHON NAYOK RD,THANYABURI,12130,(รังสิต-นครนายก),+66 2 577 8111,Hospital,,4 SQUARE
+http://www.papana.fi,,papana.fi,PAPANA,OPISKELIJANKATU 4 E 273,TAMPERE,33720,FINLAND,+358 44 5535265,Sports and Recreation,,4 SQUARE
+http://www.parisaeroport.fr,,parisaeroport.fr,ORLY 2,AÉROPORT DE PARIS-ORLY (ORY),PARAY-VIEILLE-POSTE,94390,FRANCE,+33 892 56 39 50,Orly 2 (anciennement terminal Ouest) est le secteur 2 de l'aéroport Paris-Orly.,,4 SQUARE
+http://www.parisbusinesscollege.com,,parisbusinesscollege.com,INSEEC,63 BOULEVARD EXELMANS,PARIS,75016,FRANCE,+33 1 42 09 70 61,College and University,,4 SQUARE
+http://www.partyexpress.cl,,partyexpress.cl,PARTY,LOS ANDES 3488,QUINTA NORMAL,,CHILE,+56 2 2774 1070,Clothing Store,,4 SQUARE
+http://www.paters3.com,,paters3.com,PATERS,阿佐谷南1-33-5,SUGINAMI,166-0004,(2F),+81 3-5929-7033,"Café,Coworking Space,¥,¥¥¥",https://facebook.com/PATERS3,4 SQUARE
+http://www.pawilonynowyswiat.pl,,pawilonynowyswiat.pl,CYNAMON,NOWY ŚWIAT 22/28,WARSAW,00-373,POLAND,+48 730 993 985,Pub,https://facebook.com/CynamonPub,4 SQUARE
+http://www.pc-mac.fr,,pc-mac.fr,PCMAC,121 ROUTE DES ROMAINS,STRASBOURG,67200,FRANCE,+33 9 73 65 60 60,Miscellaneous Store,,4 SQUARE
+http://www.pegailcare.co.uk,,pegailcare.co.uk,PEGAIL,43 WREXHAM RD,BASILDON,SS15 6PX,UNITED KINGDOM,+44 1268 931060,"Assisted Living,Medical Center",,4 SQUARE
+http://www.pekingrestaurant.cz,,pekingrestaurant.cz,PEKING,PUJMANOVÉ 10,PRAGUE,140 00,CZECH REPUBLIC,+420 241 730 688,Chinese Restaurant,,4 SQUARE
+http://www.pestuk.com,,pestuk.com,PESTUK,23 LANE END RD,HIGH WYCOMBE,HP12 4XF,UNITED KINGDOM,+44 1494 809500,Pest Control Service,,4 SQUARE
+http://www.petlandbr.com.br,,petlandbr.com.br,PETLAND,"R. ESTADOS UNIDOS, 2055",CURITIBA,82540-030,(R. VICENTE CICCARINO),+55 41 3057-9090,"Pet Supplies Store,Pet Service",https://facebook.com/petlandbrasil,4 SQUARE
+http://www.pewex-supermercati.it,,pewex-supermercati.it,PEWEX,"VIA FABIO MASSIMO, 35",ROME,00192,(VIA DEI GRACCHI),,Supermarket,,4 SQUARE
+http://www.pexcon.se,,pexcon.se,PEXCON,HARA 570,ORRVIKEN,832 94,SWEDEN,+46 70 225 27 12,Business Service,,4 SQUARE
+http://www.pflege-ist.de,,pflege-ist.de,DAHEIM,DAMMSTR. 69,GÜTERSLOH,33332,GERMANY,+49 5241 7094020,Non-Profit Organization,,4 SQUARE
+http://www.picchu.jp,,picchu.jp,PICCHU,中央区南4条西5,SAPPORO,,JAPAN,+81 11-222-6144,"Italian Restaurant,¥¥,¥¥",,4 SQUARE
+http://www.piko.pl,,piko.pl,PIKO,TARGOWA 55,ŁÓDŹ,90-323,POLAND,+48 42 676 70 39,Repair Service,,4 SQUARE
+http://www.pimkie.es,,pimkie.es,PIMKIE,"CALLE GENERAL AGUILERA, 15",CIUDAD REAL,13001,SPAIN,+34 926 27 41 61,Pimkie es una marca de ropa y accesorios para mujer joven y de tendencia. ¡Visita nuestra tienda de CIUDAD REAL y las redes sociales de Pimkie para estar a la última!,https://facebook.com/Pimkie.Espagne,4 SQUARE
+http://www.pitstop.de,,pitstop.de,PITSTOP,AMSTERDAMER STR. 93,COLOGNE,50735,GERMANY,+49 221 7607828,Automotive Repair Shop,https://facebook.com/pitstop.de,4 SQUARE
+http://www.pizzabetyn.eu,,pizzabetyn.eu,RYCHTA,"MIKULČICE 254, MIKULCICE",MIKULČICE,696 19,CZECH REPUBLIC,+420 518 357 215,Restaurant,,4 SQUARE
+http://www.pj.ca,,pj.ca,HTCK,143 CH D'AYER'S CLIFF,SAINTE-CATHERINE-DE-HATLEY,J0B 1W0,CANADA,(819) 838-5021,Convenience Store,https://facebook.com/911296095648609,4 SQUARE
+http://www.pk02.ru,,pk02.ru,ПОЛИТЕХНИЧЕСКИЙ ТЕХНИКУМ №2 (4 ПОДРАЗДЕЛЕНИЕ),"1-Й ПЕР. ТРУЖЕНИКОВ, 12, СТР. 4",MOSCOW,101000,(САВВИНСКАЯ НАБ.),+7 499 248-46-79,Именно здесь можно получить лучшее среднее или начальное профессиональное образование.,,4 SQUARE
+http://www.plazza.cz,,plazza.cz,PLAZZA,STŘÍŽKOVSKÁ,PRAGUE,190 00,(TEPLICKÁ),,Housing Development,,4 SQUARE
+http://www.podologie-gerlingen.de,,podologie-gerlingen.de,TOPNAILS,UNTERE BERGSTRAßE 1,GERLINGEN,70839,GERMANY,+49 7156 4019166,Health and Beauty Service,,4 SQUARE
+http://www.pokito.nyc,,pokito.nyc,POKITO,155 S 4TH ST,BROOKLYN,11211,(BTWN BEDFORD AVE & DRIGGS AVE),(917) 909-1542,"pokito is a cozy, eclectic, artist-run neighborhood bar serving seasonal latin + asian inspired cocktails in the heart of south williamsburg.",https://instagram.com/pokitobrooklyn,4 SQUARE
+http://www.poojasweets.com,,poojasweets.com,POOJA,3 ALBANY ROAD,CARDIFF,CF24 3LH,UNITED KINGDOM,+44 29 2021 4987,"Your one-stop-vegetarian-shop for all your favourite Asian sweet delicacies and hot savory snacks, available to order online or purchase in-store!",https://facebook.com/poojasweetsandsavouries,4 SQUARE
+http://www.portail-ausytec.fr,,portail-ausytec.fr,AUSYTEC,CARA LOT PAO LOT N 2,AJACCIO,20167,FRANCE,+33 4 95 20 60 60,Construction Supplies Store,,4 SQUARE
+http://www.porterscollegestation.com,,porterscollegestation.com,PORTERS,180 CENTURY SQUARE DR STE 120,COLLEGE STATION,77840,UNITED STATES,(979) 977-0700,"Porters Dining + Butcher takes pride in everything we do. In our prime prepared menus, talented and dedicated kitchen driven team, and our excellence in service and staff. We absolutely strive to meet the standards of a vibrant and world-class community. We are proud to be your premier destinatio...",,4 SQUARE
+http://www.potatozermatt.com,,potatozermatt.com,POTATO,BAHNHOFSTRASSE 10,ZERMATT,3920,SWITZERLAND,+41 27 966 51 50,Swiss Restaurant,https://facebook.com/potatozermatt,4 SQUARE
+http://www.pp7.com.br,,pp7.com.br,PP7,"R. TOMÁS DELONEY, 105",SÃO PAULO,04710-040,(R. HENRI DUNAT),+55 11 5105-0707,"Office,Advertising Agency,Structure",,4 SQUARE
+http://www.praxis-holdings.com,,praxis-holdings.com,PRAXIS,THE CHAMBERS,MANCHESTER,M2 7LQ,UNITED KINGDOM,+44 161 839 9454,Real Estate Agency,,4 SQUARE
+http://www.prego.com.br,,prego.com.br,PREGO,SHOPPING ELDORADO,SÃO PAULO,05402-918,"(2º PISO, LOJA 366)",+55 11 3814-3569,Shoe Store,https://facebook.com/oficial.prego,4 SQUARE
+http://www.premacanada.ca,,premacanada.ca,PREMA,10 BOND ST. N,DUNDAS,L9H 3A9,(AT KING ST. W),(800) 268-6311,Office,,4 SQUARE
+http://www.printegrafica.com.br,,printegrafica.com.br,PRINTE,"ESTRADA DO FORTE, 348",RECIFE,50721-110,BRAZIL,+55 81 99700-2282,Print Store,https://instagram.com/printbr,4 SQUARE
+http://www.pro-box.co.uk,,pro-box.co.uk,PRO-BOX,41 BARNSOLE RD,GILLINGHAM,ME7 4DT,UNITED KINGDOM,+44 1634 581888,Sporting Goods Retail,,4 SQUARE
+http://www.procon.sp.gov.br,,procon.sp.gov.br,PROCON,"AV. ENGº JOÃO FONSECA, 410",CARAGUATATUBA,11660-200,BRAZIL,,Government Building,,4 SQUARE
+http://www.progent.com,,progent.com,PROGENT,401 E LAS OLAS BLVD,FORT LAUDERDALE,33301,UNITED STATES,(954) 736-4937,Progent is a Microsoft partner and has a large roster of Cisco-certified CCIE network infrastructure experts. Progent offers affordable online technical support for small and mid-size business networks and specializes in remote troubleshooting and consulting services for Microsoft and Cisco-based...,,4 SQUARE
+http://www.promeis.com,,promeis.com,PROMEIS,57 RUE D'AMSTERDAM,PARIS,75008,FRANCE,+33 1 81 50 45 88,PROMEIS est un cabinet de conseil spécialisé dans la gouvernance agile des Systèmes d'Information. Nous accompagnons nos clients dans leurs projets de transformation et d'optimisation de leur DSI.,,4 SQUARE
+http://www.protonmarkets.gr,,protonmarkets.gr,PROTON,ΛΕΩΦ. ΠΟΣΕΙΔΏΝΟΣ 47,ATTICA,,GREECE,+30 2294 034889,Grocery Store,,4 SQUARE
+http://www.psyclelondon.com,,psyclelondon.com,PSYCLE,17-23 WHITBY STREET,LONDON,E1 6JU,UNITED KINGDOM,+44 20 3150 2958,shoreditch@psyclelondon.com,https://instagram.com/psyclelondon,4 SQUARE
+http://www.puma.com,,puma.com,PUMA,"ПРОСП. МАРШАЛА ЖУКОВА, 2",ODESA,65101,UKRAINE,+380 48 705 7818,Sporting Goods Retail,,4 SQUARE
+http://www.puntogtiendaerotica.com,,puntogtiendaerotica.com,PUNTO G,CALLE 16 13 47 LOCAL 3,ARMENIA,,(16),+5767322179,"Punto G es el lugar en el cual podrás encontrar todo lo que buscas para cumplir tus fantasías, y sueños más profundos mediante los más destacados juguetes eróticos, lencería, disfraces, aceites, lubricantes, retardantes, estimulantes y cientos de cosas más para que tengas una vida sexual placentera.",https://facebook.com/puntogtupuntodeplacer,4 SQUARE
+http://www.puppet.com,,puppet.com,PUPPET,"13TH FLOOR, ALDGATE TOWER, 2 LEMAN STREET",LONDON,E1 8FA,UNITED KINGDOM,,Tech Startup,,4 SQUARE
+http://www.pvdruinerwold.nl,,pvdruinerwold.nl,PVD,DR LARYWG 105,RUINERWOLD,7961 NR,NETHERLANDS,+31 522 481 998,Business and Professional Services,,4 SQUARE
+http://www.pvg.ru,,pvg.ru,PVG,"3-Й РЫБАЦКИЙ ПР., Д.3Е",SAINT PETERSBURG,192177,RUSSIA,+7 812 326-69-99,"Office,Factory",,4 SQUARE
+http://www.q-max.neostrada.pl,,q-max.neostrada.pl,Q-MAX S.C.,TOPOLOWA 4,KOSZALIN,75-669,POLAND,+48 609 307 219,Construction Supplies Store,,4 SQUARE
+http://www.qblock.ru,,qblock.ru,Q-BLOCK,"БОЛЬШОЙ ТИШИНИНСКИЙ, 8СТ2",MOSCOW,123557,RUSSIA,,Hostel,,4 SQUARE
+http://www.qems.cz,,qems.cz,QEMS,KARLOVARSKÁ 4391,CHOMUTOV,430 01,CZECH REPUBLIC,+420 777 627 977,Business Service,,4 SQUARE
+http://www.qm-riedo.ch,,qm-riedo.ch,QM RIEDO,"IM LANGACHER 11, GREIFENSEE",GREIFENSEE,8606,SWITZERLAND,+41 43 819 17 27,Business and Professional Services,,4 SQUARE
+http://www.qtra.co.uk,,qtra.co.uk,QTR A,9 LOWE ST,MACCLESFIELD,SK11 7NJ,UNITED KINGDOM,+44 1625 618999,Business and Professional Services,,4 SQUARE
+http://www.qualidea.fr,,qualidea.fr,3BDA,115 RUE DU POUMET,ARTIX,64170,FRANCE,+33 5 59 00 06 61,Vente Location : Distributeurs de boissons (Boissons chaudes - Boissons froides ) - DistributeursConfiseries - Distributeurs Sandwiches - Distributeursde café ( Machines à café Expresso)...,,4 SQUARE
+http://www.qube-lg.de,,qube-lg.de,QUBE,SCHRÖDERSTR.,LÜNEBURG,21335,GERMANY,,Restaurant,,4 SQUARE
+http://www.quick.fr,,quick.fr,QUICK,1449 AVENUE DE LA RÉSISTANCE,SAINT-PAUL-LÈS-DAX,40990,(AVENUE DE LA RÉSISTANCE),+33 5 58 91 72 61,"Groupe fondé en 1970, Quick s’est imposé comme la principale enseigne d’origine européenne de restauration rapide hamburger.",,4 SQUARE
+http://www.quzine.org,,quzine.org,QUZINE,AŞIK VEYSEL CADDESI,GÜNDOĞAN,48483,(AŞIK VEYSEL CADDESI),+90 545 387 83 85,Kahvaltı Evi&Mangalcı,,4 SQUARE
+http://www.r-o-c.fr,,r-o-c.fr,ROC,1136 RUE GAUTRAY ZI DE LA SAUSSAYE SAINT CYR EN VAL,ORLÉANS,45075,FRANCE,+33 2 38 56 69 70,Construction Supplies Store,,4 SQUARE
+http://www.rakete-kempten.tumblr.com,,rakete-kempten.tumblr.com,RAKETE,RATHAUSPLATZ 2,KEMPTEN (ALLGÄU),87435,GERMANY,,"Bar,€,€€€",https://facebook.com/175687765972388,4 SQUARE
+http://www.ramada-manama-amwaj.com,,ramada-manama-amwaj.com,YA HALA,BLDG 1741 ROAD 5715 BLOCK AMWAJ 257,AMWAJ ISLANDS,01714,TURKEY,+973 1600 0097,"Discover comfortable one, two and three bedroom suites in an exclusive community, and enjoy diverse dining options and leisure facilities.",https://facebook.com/RamadaAmwajBahrain,4 SQUARE
+http://www.rambit.pl,,rambit.pl,RAMBIT,2 SC UL STANISŁAWY WYSOCKIEJ 11,KRAKOW,31-580,POLAND,+48 12 294 28 00,Construction Supplies Store,,4 SQUARE
+http://www.rascalla.com,,rascalla.com,RASCAL,801 S LA BREA AVE,LOS ANGELES,90036,(8TH ST),(323) 933-3229,"Rascal is what every neighborhood needs... a local restaurant that caters to the neighborhood, better know as a neighborhood Hang. Located at the corner of La Brea and Eight in Mid-City, Los Angeles we offer casual American Fare from Chef Andy Lee; steak frites, Rascal burgers, house made gyros, ...",https://facebook.com/Rascallabrea,4 SQUARE
+http://www.ravago.com,,ravago.com,KANTINE,MOERENSTRAAT 85,ARENDONK,2370,(MOERENSTRAAT 85),+32 14 67 25 11,Event Space,,4 SQUARE
+http://www.readymeal.com.sa,,readymeal.com.sa,FRIESER,KHALID BIN ALWALEED STREET,RIYADH,13212,SAUDI ARABIA,,Fast Food Restaurant,https://instagram.com/frieser.sa,4 SQUARE
+http://www.recambiosdecamionvalencia.es,,recambiosdecamionvalencia.es,MCP,AVENIDA REIAL MONESTIR SANTA MARÍA DE POBLET 5,QUART DE POBLET,46930,SPAIN,+34 961 53 34 36,Tienda especializada en el camión: todo tipo de recambios y accesorios para camiones y remolques en Valencia,,4 SQUARE
+http://www.recursoshumanosqueretaro.com,,recursoshumanosqueretaro.com,OIRH,"CALLE FRAY LUIS DE LEON 3049, CENTRO SUR",SANTIAGO DE QUERÉTARO,76090,MEXICO,+52 442 295 0606,"El reclutamiento y selección de personal es fundamental para el correcto funcionamiento de cualquier empresa en todo el mundo, dicho esto, en OIRH nos especializamos y comprometemos con cada uno de nuestros clientes para lograr optimizar los recursos de su empresa.",https://facebook.com/oirhmx,4 SQUARE
+http://www.redur.es,,redur.es,REDUR,"INGENIERO TORRES QUEVEDO POLÍGONO INDUSTRIAL LA TORRECILLA, S/N",CORDOVA,14013,SPAIN,+34 957 20 34 43,Retail,,4 SQUARE
+http://www.refine-labels.com,,refine-labels.com,REFINE,BERGKÄLLAV. 27 A,SOLLENTUNA,192 79,SWEDEN,+46 8 410 240 50,"Advertising Agency,Print Store",,4 SQUARE
+http://www.reiss.com,,reiss.com,REISS,JUBILEE PLACE,CANARY WHARF,,UNITED KINGDOM,,"Born in London in 1971, Reiss has grown to become a modern global fashion brand offering affordable luxury for both men and women.",https://facebook.com/Reiss,4 SQUARE
+http://www.relishthomasville.com,,relishthomasville.com,RELISH,107 S BROAD ST,THOMASVILLE,31792,UNITED STATES,(229) 236-5999,Kitchenware | Grilling | Barware,,4 SQUARE
+http://www.rena-77-snc.business.site,,rena-77-snc.business.site,RENA77,"VOCABOLO RENA, 77",AVIGLIANO UMBRO,05020,ITALY,+39 0744 933464,Rena 77 di D'Ubaldi Mattia e Elia ha sede ad Avigliano Umbro (TR). Rena 77 si occupa della vendita di articoli di ferramenta e materiale edile e siderurgico.,https://facebook.com/rena77snc,4 SQUARE
+http://www.renao-nail.com,,renao-nail.com,RENAO,南区南台3-18-28,SAGAMIHARA-SHI,252-0314,(小田急相模原ビル 301),+81 42-705-9170,Nail Salon,,4 SQUARE
+http://www.renault.saturn2.ru,,renault.saturn2.ru,RENAULT,"ПРОСПЕКТ ПОБЕДЫ, 68Б",,,RUSSIA,+7 351 210-05-10,"Car Dealership,Car Wash and Detail,Automotive Repair Shop",,4 SQUARE
+http://www.reppco.fr,,reppco.fr,REPPCO,10 CHEMIN DE FRÉGENEUIL,SOYAUX,16800,FRANCE,+33 5 45 22 95 68,Business and Professional Services,,4 SQUARE
+http://www.restaurangalmaza.se,,restaurangalmaza.se,ALMAZA,SCHEELEGATAN 3,STOCKHOLM,112 23,SWEDEN,+46 8 510 518 55,Lebanese Restaurant,,4 SQUARE
+http://www.restaurant-juvia.com,,restaurant-juvia.com,JUVIA,105 RUE DU FAUBOURG SAINT-HONORÉ,PARIS,75008,FRANCE,+33 9 66 82 41 08,Salle ouverte sur une terrasse modulable dans un restaurant chic et cosy à la fine cuisine européenne.,https://facebook.com/JuviaRestaurant,4 SQUARE
+http://www.restaurantebaruk.com.br,,restaurantebaruk.com.br,BARUK,"AL. RAJA GABAGLIA,160",SÃO PAULO,04551-090,(R. GOMES DE CARVALHO X AV. DR. CARDOSO DE MELO),+55 11 3045-9999,Middle Eastern Restaurant,,4 SQUARE
+http://www.restoranasdeco.lt,,restoranasdeco.lt,D'ECO,DOMINIKONŲ G. 15,VILNIUS,,LITHUANIA,+370 650 54458,American Restaurant,https://facebook.com/decorestaurant,4 SQUARE
+http://www.restoranbazar.ru,,restoranbazar.ru,BAZAR,ТРЦ «COLUMBUS»,MOSCOW,117519,"(КИРОВОГРАДСКАЯ УЛ., 13А)",+7 495 665-12-63,"Ресторан BAZAR – это место для вдохновенного воркования, оживлённого обмена идеями и историями за вкусным и здоровым завтраком, обедом или ужином",https://facebook.com/restoranbazarmoscow,4 SQUARE
+http://www.rhetor.dk,,rhetor.dk,RHETOR,CARIT ETLARS VEJ 3,,1814,DENMARK,+45 70 27 23 73,Student Center,,4 SQUARE
+http://www.rhpcs.com,,rhpcs.com,RHPC S,43 CAMELOT ST,RUDDINGTON,NG11 6AS,UNITED KINGDOM,+44 7974 145657,Entertainment Service,,4 SQUARE
+http://www.rhrplus.pl,,rhrplus.pl,RHR,MICKIEWICZA 29,KATOWICE,40-085,POLAND,+48 604 766 557,Business Service,,4 SQUARE
+http://www.riai.ch,,riai.ch,RIAI,EMMENTALSTRASSE 14,BURGDORF,3400,SWITZERLAND,+41 34 422 75 35,Business and Professional Services,,4 SQUARE
+http://www.riccione.tv,,riccione.tv,NEO SRL,VIALE GRAN SASSO 14,RICCIONE,47838,ITALY,+39 0541 427150,Advertising Agency,,4 SQUARE
+http://www.ricec.com.sa,,ricec.com.sa,RIYADH INTERNATIONAL CONVENTION & EXHIBITION CENTER (RICEC),KING ABDULLAH RD.,RIYADH,12451,(UTHMAN IBN AFFAN RD.),12006677,"Convention Center,Event Space",,4 SQUARE
+http://www.rieker.com,,rieker.com,RIEKER,"ПР-Т УЛЬЯНОВСКИЙ, Д. 1 (ТЦ ""САМОЛЕТ"", 1 ЭТАЖ)",ULYANOVSK,432072,RUSSIA,,Shoe Store,,4 SQUARE
+http://www.rileys.co.uk,,rileys.co.uk,RILEYS,142 CLARENCE RD,GRAYS,RM17 6RD,UNITED KINGDOM,,"Sports Bar,Pool Hall,£,£££",https://facebook.com/clubrileys,4 SQUARE
+http://www.riozurich.ch,,riozurich.ch,RIO BAR,GESSNERALLEE 17,ZURICH,8001,SWITZERLAND,+41 43 244 09 09,Mittags-Menues http://www.riozurich.ch/mittag.html,,4 SQUARE
+http://www.ripleg.com,,ripleg.com,RIPLEG,"CALLE ESTEVE BOVER, 3",RIPOLL,17500,SPAIN,+34 972 70 28 17,Automotive Repair Shop,,4 SQUARE
+http://www.ritarestaurant.ca,,ritarestaurant.ca,RITA,3681 WELLINGTON,MONTREAL,H4G 1V1,CANADA,(514) 419-1942,"Italian Restaurant,Pizzeria",https://facebook.com/ritarestaurant,4 SQUARE
+http://www.ritaserra.my.canva.site,,ritaserra.my.canva.site,MARINI,RRUGA MUSTAFA MATOHITI 2,SARANDË,,ALBANIA,+355 69 880 5476,Seafood Restaurant,https://facebook.com/105713108432642,4 SQUARE
+http://www.riva.com.pl,,riva.com.pl,RIVA,UL. ŁUKASIŃSKIEGO 1,BIELSKO-BIALA,43-300,POLAND,+48 33 811 04 86,Electronics Store,,4 SQUARE
+http://www.rkdos.nl,,rkdos.nl,RKDOS,HORSTSINGEL 3,KAMPEN,,NETHERLANDS,,Sports and Recreation,,4 SQUARE
+http://www.rlz.be,,rlz.be,RLZ,BAANHOFSTRAAT 14,BILZEN,3740,BELGIUM,+32 498 14 25 14,Sports and Recreation,,4 SQUARE
+http://www.roda-hotels.com,,roda-hotels.com,HIBACHI,RODA AL BUSTAN HOTEL,DUBAI,,(CASABLANCA ST),+971 4 282 0000,Japanese Restaurant,,4 SQUARE
+http://www.rs-detailing.ru,,rs-detailing.ru,RS DETAILING - СТУДИЯ ДЕТЕЙЛИНГА И СТАЙЛИНГА АВТОМОБИЛЕЙ,УЛ. ЛУГОВОЙ ПРОЕЗД 13,MOSCOW,109382,RUSSIA,+7 499 390-23-71,"Полировка, Креамические покрытия, Химчистка, Винил, Тонировка, Ремонт стекол, ремонт вмятин без покраски (PDR)",https://facebook.com/detailingrs,4 SQUARE
+http://www.rys.se,,rys.se,RYS,VERKSTADSG. 20,KARLSTAD,652 19,SWEDEN,+46 54 21 28 31,Business and Professional Services,,4 SQUARE
+http://www.s278032129.onlinehome.fr,,s278032129.onlinehome.fr,KYOKAI,59 AVENUE MARCEL CERDAN,VILLEURBANNE,69100,FRANCE,+33 6 15 34 66 57,Gym and Studio,,4 SQUARE
+http://www.sabam.be,,sabam.be,SABAM,AARLENSTRAAT 75-77 RUE D'ARLON,BRUSSELS,1000,BELGIUM,+32 2 286 82 11,Office,https://facebook.com/SABAMofficial,4 SQUARE
+http://www.saco-ksa.com,,saco-ksa.com,SACO,ASSINAH 1 RD.,AL JUBAYL INDUSTRIAL CITY,35812,SAUDI ARABIA,+966 9200 01530,"Hardware Store,Furniture and Home Store",,4 SQUARE
+http://www.salomon.cz,,salomon.cz,SALOMON,ROZTYLSKÁ 2321/19,PRAGUE,148 00,CZECH REPUBLIC,+420 272 075 405,Sporting Goods Retail,,4 SQUARE
+http://www.salon-p.nl,,salon-p.nl,SALON-P,ALBERTINE AGNESSTRAAT 49,DORDRECHT,3314LB,NETHERLANDS,+31 6 47950432,Op zoek naar een kapper in Dordrecht? Kom langs bij Salon-P!,,4 SQUARE
+http://www.salongrybergs.se,,salongrybergs.se,RYBERGS,GRÖNEGATAN 2,LUND,222 24,SWEDEN,+46 46 211 07 12,"På Rybergs står vi för kvalitet, nytänkande och har alltid kunden i centrum. Hos oss får du alltid råd om frisyrval och färg.Vi ligger mitt i centrala Lund och är en av salongerna som har hängt med längst i branschen.",https://facebook.com/133661976677567,4 SQUARE
+http://www.salonseurakunta.fi,,salonseurakunta.fi,NAARILA,NAARILANTIE 369,SALO,25160,FINLAND,,"Event Space,Summer Camp",,4 SQUARE
+http://www.salonyukon.sk,,salonyukon.sk,YUKON,KPT. JÁNA RAŠU 14/A,BRATISLAVA,841 01,SLOVAKIA,+421 903 711 045,"Gastropub,€€€,€",,4 SQUARE
+http://www.samob.com,,samob.com,SAMO B,RUE DU MOULIN 284,LIÈGE,4020,BELGIUM,+32 4 365 83 83,"Financial Service,Legal Service",,4 SQUARE
+http://www.samratsw17.co.uk,,samratsw17.co.uk,SHARON,311-313 MITCHAM RD,MERTON,SW17 9JQ,UNITED KINGDOM,,Grocery Store,,4 SQUARE
+http://www.sanitval.fr,,sanitval.fr,SANITVAL,1176 AVENUE SAINT-MARTIN,MOUGINS,06250,FRANCE,+33 4 93 75 59 40,"Depuis 40 ans, nous installons, entretenons et dépannons des climatisations et des chauffages gaz, fioul, bois ou énergie solaire",,4 SQUARE
+http://www.santeriabelfast.com,,santeriabelfast.com,SANTERIA,19 FOUNTAIN STREET,BELFAST,BT1 5EA,UNITED KINGDOM,,"Coffee, cocktails & everything in between",https://facebook.com/SanteriaBelfast,4 SQUARE
+http://www.sapic.fr,,sapic.fr,S.A.P.I.C,144 AVENUE ROGER SALENGRO,CHAMPIGNY-SUR-MARNE,94500,FRANCE,+33 1 47 06 58 33,Drugstore,,4 SQUARE
+http://www.sarl-idea.fr,,sarl-idea.fr,I.D.E.A,5 RUE LOUIS RENAULT,AUXERRE,89000,FRANCE,+33 3 86 52 52 47,Nous sommes vos spécialistes dans le domaine de la cuisine et salle de bains. Nous vous proposons l'aménagement de votre cuisine et salle de bains clés en main.Nous coordonnons l'ensemble des travaux : de la réalisation de l'électricité jusqu'à la plomberie.Forts de notre expérience dans notre do...,,4 SQUARE
+http://www.sats.fi,,sats.fi,ELIXIA,PIISPANSILTA 11 T 48,ESPOO,02230,(ISO OMENA),+358 10 3099300,Gym and Studio,,4 SQUARE
+http://www.savemart.com,,savemart.com,LUCKY,5510 MONTEREY HWY,SAN JOSE,95138,UNITED STATES,(408) 972-0681,Save Mart is a family owned and operated full service grocery store chain. We take care to help you provide your family the freshest foods at affordable prices.,https://facebook.com/SaveMartSupermarkets,4 SQUARE
+http://www.saxess.se,,saxess.se,SAXESS,N. ESPLANADEN 18 B,ÄLMHULT,343 30,SWEDEN,+46 476 157 77,Hair Salon,,4 SQUARE
+http://www.scancotec.com,,scancotec.com,SCANCO,"2 KM AL NORTE DEL CRUCE DE MULTIPLAZA, OFIBODEGAS ESCAZÚ.",ESCAZÚ,747-6150,(GUACHIPELÍN),+506 2215 3555,"Office,Coworking Space",,4 SQUARE
+http://www.scauto.fr,,scauto.fr,SCAUTO,16 BOULEVARD SADI CARNOT,BAYEUX,14400,FRANCE,+33 2 31 51 18 51,"Automotive Repair Shop,Car Dealership",,4 SQUARE
+http://www.schuh-hess-auerbach.de,,schuh-hess-auerbach.de,HESS,PFARRSTRAßE 26,AUERBACH,91275,GERMANY,+49 9643 1458,Shoe Store,,4 SQUARE
+http://www.sdu.edu.kz,,sdu.edu.kz,SULEYMAN DEMIREL UNIVERSITY (SDU),"УЛ. АБЫЛАЙ ХАНА, 1/1",КАСКЕЛЕН,040900,(КАРАСАЙСКИЙ Р-Н),+7 727 307 9565,University,https://facebook.com/sdukz,4 SQUARE
+http://www.seasonskld.ru,,seasonskld.ru,SEASONS,"ПРОСП. МИРА, 74",KALININGRAD,236000,RUSSIA,+7 911 459-04-40,"Gastropub,₽₽₽,₽",https://instagram.com/seasons.kld,4 SQUARE
+http://www.secorra.co.uk,,secorra.co.uk,SECORRA,4 FITZHARDINGE ST,LONDON,W1H 6EG,UNITED KINGDOM,+44 800 211 8031,Business and Professional Services,,4 SQUARE
+http://www.sectionclo.com,,sectionclo.com,SECTION,"ENSIGN BUSINESS CENTRE, WESTWOOD WAY",WARWICKSHIRE,CV4 8JA,UNITED KINGDOM,+44 800 634 9193,Men's Store,,4 SQUARE
+http://www.semsi.fr,,semsi.fr,SEMSI,146 BOULEVARD HAUSSMANN,PARIS,75008,FRANCE,+33 1 45 62 01 95,Medical Center,,4 SQUARE
+http://www.senq.com.my,,senq.com.my,SENQ,WISMA SENTOSA,KUCHING,93250,"(LEVEL 2, SUBLOT 22, BLOCK 233)",+60 12-658 9525,"Electronics Store,Furniture and Home Store",https://facebook.com/senQDigitalStation,4 SQUARE
+http://www.sensoclub.pl,,sensoclub.pl,SENSO,NIEPODLEGŁOŚCI 22,SZCZECIN,,POLAND,+48 600 751 752,"Night Club,Cocktail Bar,Lounge",,4 SQUARE
+http://www.serways.de,,serways.de,TABILO,BAB38,KIRCHWORBIS,37339,GERMANY,+49 36074 208320,Restaurant,,4 SQUARE
+http://www.serwislaptopow.w8w.pl,,serwislaptopow.w8w.pl,ELKON,PRAWNICZA 69,WARSAW,02-495,POLAND,+48 602 358 326,Electronics Store,,4 SQUARE
+http://www.seur.com,,seur.com,SEUR,"RAMBLA DE CAPUCHINOS, 1",MOTRIL,18600,SPAIN,+34 902 10 10 10,"Financial Service,Legal Service",,4 SQUARE
+http://www.sexyshopcobra.com,,sexyshopcobra.com,COBRA,VIA BARLETTA 23,ROME,00192,ITALY,,Fashion Accessories Store,,4 SQUARE
+http://www.shabufusion.it,,shabufusion.it,SHABU,VIALE GIACOMO MATTEOTTI 24,CUSANO MILANINO,20095,ITALY,+39 02 8450 2343,"Sushi Restaurant,€€€,€",https://facebook.com/shabucusano,4 SQUARE
+http://www.shalyapin-school.ru,,shalyapin-school.ru,ДЕТСКАЯ МУЗЫКАЛЬНАЯ ШКОЛА ИМ. Ф.И. ШАЛЯПИНА,"СОЛНЦЕВСКИЙ ПРОСП., 9",MOSCOW,119620,RUSSIA,+7 495 435-91-52,Music School,,4 SQUARE
+http://www.sheratonphiladelphiadowntown.com,,sheratonphiladelphiadowntown.com,LOCAL.,201 N 17TH ST,PHILADELPHIA,19103,UNITED STATES,(215) 448-2000,"Hotel Bar,Restaurant,Café",,4 SQUARE
+http://www.sherriclark.skincaretherapy.net,,sherriclark.skincaretherapy.net,SCSC,600 E CARMEL DR STE 246,CARMEL,46032,(EAST CARMEL DRIVE & KEYSTONE PARKWAY),(317) 362-1449,"Every treatment is customized to your skin type and condition.  Your skin is analyzed every visit and treated accordingly. Whether for total relaxation or working on special needs, every visit will be customized to your needs and liking.",https://facebook.com/SCSCofCarmel,4 SQUARE
+http://www.shijiazhuang.hilton.com,,shijiazhuang.hilton.com,HILTON SHIJIAZHUANG,"5 DONG DAJIE, CHANG'AN DISTRICT",SHIJIAZHUANG,50011,(ZHONGSHAN ROAD),+86 311 6796 6666,Check-in for a back of house look at the world's most famous hotel brand.,https://facebook.com/HiltonBonn,4 SQUARE
+http://www.showmeyourshoes.de,,showmeyourshoes.de,SMYS,WALTHERSTR. 34,MUNICH,80337,GERMANY,+49 89 55297292,Shoe Store,,4 SQUARE
+http://www.siamogroup.co.uk,,siamogroup.co.uk,SIAMO,P1.8-9 PARKLANDS,HEYWOOD DISTRIBUTION PARK,OL10 2TT,UNITED KINGDOM,+44 1706 368952,Employment Agency,,4 SQUARE
+http://www.sicurtsrl.it,,sicurtsrl.it,SICURT,"VIA PIRATO LOMBARDO QUARTARELLA, 23",MODICA,97015,ITALY,+39 0932 851084,"La Sicurt offre una vasta gamma di sistemi anticaduta e dispositivi di ancoraggio es. Linea Vita, Parapetti, Scala a Gabbia, adatti ad ogni copertura ed esigenza, avvalendosi del proprio personale formato e specializzato nel settore...",,4 SQUARE
+http://www.silverline.ir,,silverline.ir,مرکز علمی زبان انگلیسی راه نقره ای _ SILVER LINE ENGLISH LANGUAGE CENTER,شمس آباد چهارراه نعیم,TEHRAN,,IRAN,,College Academic Building,,4 SQUARE
+http://www.sinc.cz,,sinc.cz,SINC,T. G. MASARYKA 2065/26,SVITAVY,568 02,CZECH REPUBLIC,+420 775 124 685,Construction Supplies Store,,4 SQUARE
+http://www.sintcalasanzinstituut.be,,sintcalasanzinstituut.be,A11,NONNENSTRAAT 21,NIJLEN,2560,BELGIUM,,College Classroom,https://facebook.com/calasanz.secundair,4 SQUARE
+http://www.sintlievens.eu,,sintlievens.eu,B48,KASTEELPLEINSTRAAT 31,ANTWERP,2000,BELGIUM,,College Classroom,,4 SQUARE
+http://www.siroestintori.com,,siroestintori.com,SIRO,"VIA IRNO, 100",FAIANO,84098,ITALY,+39 089 384035,Antincendio Siro si propone come partner ideale per le aziende per la risoluzione di qualunque problematica relativa a strumenti e sistemi antincendio. La qualità dei servizi è garantita da una competenza ed esperienza acquisita in molti anni di attività garantendo sempre un servizio a regola d'a...,,4 SQUARE
+http://www.sita.co.uk,,sita.co.uk,SITA,"COLUMBA, ORION AVE",GREAT BLAKENHAM,IP6 0LW,UNITED KINGDOM,+44 1473 836946,Recycling Facility,,4 SQUARE
+http://www.site-etis.com,,site-etis.com,ETIS,240 AVENUE DE TOURAIL COUSTELLET,OPPÈDE,84580,FRANCE,+33 4 32 52 11 25,Repair Service,,4 SQUARE
+http://www.sixpmthailand.com,,sixpmthailand.com,SIX P.M.,SIAM CENTER,PATHUM WAN,10330,THAILAND,,Clothing Store,https://facebook.com/sixpmthailand,4 SQUARE
+http://www.skibi.cz,,skibi.cz,SKIBI,MYSLÍKOVA 171/31,PRAGUE,110 00,(SPÁLENÁ),+420 222 367 714,Children's Clothing Store,https://facebook.com/skibi.cz,4 SQUARE
+http://www.skinnbonestattoo.be,,skinnbonestattoo.be,SERVAN,PASTOOR DERGENTLAAN 71,AARSCHOT,3200,BELGIUM,,Tattoo Parlor,,4 SQUARE
+http://www.skol.be,,skol.be,SKOL,KERKSTRAAT 1,GIJZENZELE,,BELGIUM,,"Bistro,Bar",https://facebook.com/1176082672506024,4 SQUARE
+http://www.skylt-reklam.se,,skylt-reklam.se,INTIGO,CEMENTV. 8,JORDBRO,136 50,SWEDEN,+46 73 501 70 94,Advertising Agency,,4 SQUARE
+http://www.sns.nl,,sns.nl,SNS,DYKHUIZEN 28,RUINERWOLD,7961 AK,NETHERLANDS,+31 522 481 234,Bank,,4 SQUARE
+http://www.sobio.fr,,sobio.fr,SO.BIO,1 CHEMIN DES SILOS,TOULOUSE,31100,FRANCE,+33 5 34 51 01 01,"Deli,Food and Beverage Retail,€,€€€",,4 SQUARE
+http://www.societe-asen.fr,,societe-asen.fr,ASEN,464 RUE DE LA CORNAILLÈRE,SAINT-JEAN-LE-BLANC,45650,FRANCE,+33 6 52 85 80 12,Construction Supplies Store,,4 SQUARE
+http://www.sodabarandbistro.co.uk,,sodabarandbistro.co.uk,SODA,"CAMBRIDGE INNOVATION PARK, BLENHEIM HOUSE",CAMBRIDGE,CB25 9QE,"(DENNY END ROAD, WATERBEACH)",+44 1223 944076,"Wine Bar,Bistro,Deli,££,££",https://instagram.com/sodabarandbistro,4 SQUARE
+http://www.sodamag.ru,,sodamag.ru,SODA,ТРК «КОНТИНЕНТ»,SAINT PETERSBURG,196158,"(УЛ. ЛЕНСОВЕТА, 97)",+7 812 677-51-63,Бренд одежды и сеть мультибрендовых магазинов. С 1996 года на fashion-рынке. Одежда SODA представлена в 21 городе России и активно продвигается в Европе.,https://facebook.com/sodamagfashion,4 SQUARE
+http://www.soi.pt,,soi.pt,SOI,"RUA DA MOEDA, 1C",LISBON,1200,PORTUGAL,+351 912 895 391,"Asian Restaurant,€€,€€",https://facebook.com/SOIasianstreetfood,4 SQUARE
+http://www.solana.se,,solana.se,SOLANA,S. ALLÉN 21,MOTALA,591 37,SWEDEN,+46 141 23 72 00,Tanning Salon,,4 SQUARE
+http://www.soniahy.com,,soniahy.com,ГОТЕЛЬНО-ВІДПОЧИНКОВИЙ КОМПЛЕКС «СОНЯХИ»,"ВУЛ. СВІТЛА, 2",ЛАПАЇВКА,,UKRAINE,+380 322 698 882,"Hotel,Spa,Eastern European Restaurant",,4 SQUARE
+http://www.soph.net,,soph.net,SOPH.,神宮前6-20-10,SHIBUYA,150-0002,(MIYASHITA PARK NORTH 2F),+81 3-6427-9799,Men's Store,,4 SQUARE
+http://www.soundcloud.com,,soundcloud.com,WALK,"48, PLACE SAINT-LAMBERT",LIÈGE,,BELGIUM,+32 476 81 38 72,Club House,,4 SQUARE
+http://www.spadbarnsmassage.org,,spadbarnsmassage.org,TACTUS,TIMOTEJV. 27,STENUNGSUND,444 42,SWEDEN,+46 303 654 36,Massage Clinic,,4 SQUARE
+http://www.spb.sa.ru,,spb.sa.ru,SA.RU,"ОКТЯБРЬСКАЯ НАБ., 104",SAINT PETERSBURG,,RUSSIA,+7 812 449-77-29,Automotive Repair Shop,,4 SQUARE
+http://www.speedway.com,,speedway.com,SPEEDWAY,5140 NC 89 HWY E,WALNUT COVE,27052,UNITED STATES,(336) 591-4392,"Fuel Station,Convenience Store",,4 SQUARE
+http://www.spicethainyc.com,,spicethainyc.com,SPICE,39 E 13TH ST,NEW YORK,10003,(BTWN UNIVERSITY PL & BROADWAY),(212) 982-3758,Thai Restaurant,https://facebook.com/SpiceUnionSquare,4 SQUARE
+http://www.sportovnipohary.cz,,sportovnipohary.cz,SABE,VÁCLAVA TALICHA 12,ČESKÉ BUDĚJOVICE,370 05,CZECH REPUBLIC,+420 385 310 091,Retail,,4 SQUARE
+http://www.springfrance.com,,springfrance.com,SPRING,43-47 AVENUE DE LA GRANDE ARMÉE,PARIS,75016,FRANCE,+33 1 44 84 66 80,Employment Agency,,4 SQUARE
+http://www.stan.be,,stan.be,TG STAN,HESSENPLEIN 2,ANTWERP PROVINCE,2000,BELGIUM,+32 3 227 13 81,Non-Profit Organization,,4 SQUARE
+http://www.stangroundmotorservices.co.uk,,stangroundmotorservices.co.uk,S M S,"IMPERIAL WAY, EAGLE BUSINESS PARK",PETERBOROUGH,PE7 3GP,UNITED KINGDOM,+44 1733 241776,Automotive Repair Shop,,4 SQUARE
+http://www.staples.nl,,staples.nl,STAPLES,DOPPERLAAN 18,DRACHTEN,9207 HC,NETHERLANDS,+31 512 542 121,Office Supply Store,https://facebook.com/Staplesnederland,4 SQUARE
+http://www.stegnanoclegi.pl,,stegnanoclegi.pl,POKOJE,MORSKA 20,,82-103,POLAND,+48 501 726 451,Travel and Transportation,,4 SQUARE
+http://www.stevia.net,,stevia.net,STEVIA,GOTTSKÄRSV. 19,ONSALA,439 31,SWEDEN,+46 31 360 90 91,Food and Beverage Retail,,4 SQUARE
+http://www.stiba.se,,stiba.se,STIBA,LILLA BROG. 31,BORÅS,503 35,SWEDEN,+46 33 23 33 90,Construction Supplies Store,,4 SQUARE
+http://www.stichtingrooz.nl,,stichtingrooz.nl,KO&ZO B.V.,EIKENLAAN 6,EDE,6711 MB,NETHERLANDS,,Medical Center,,4 SQUARE
+http://www.stihl.rs,,stihl.rs,STIHL,BEOGRADSKA 19,,,SERBIA,+381 36 332231,Hardware Store,https://facebook.com/StihlSrbija,4 SQUARE
+http://www.stitch-houthalen.be,,stitch-houthalen.be,STITCH,SIJSJESSTRAAT 13,OPGLABBEEK,3660,BELGIUM,,Hobby Store,https://facebook.com/stitch.houthalen,4 SQUARE
+http://www.stival.be,,stival.be,STIVAL,WESTVAARTDIJK 322,GRIMBERGEN,1851,BELGIUM,+32 2 270 05 78,Food and Beverage Retail,,4 SQUARE
+http://www.storelocator.vertu.com,,storelocator.vertu.com,VERTU,18 RUE ROYALE,PARIS,75008,FRANCE,+33 1 42 52 22 43,Miscellaneous Store,,4 SQUARE
+http://www.stores.savers.com.au,,stores.savers.com.au,SAVERS,330 SYDNEY RD,BRUNSWICK,3056,AUSTRALIA,+61 3 9381 2393,"Savers Thrift Store in Brunswick, AU-VIC is the place to find great deals on the things that you need. We're located at 330 Sydney Road.",https://facebook.com/saversaustralia,4 SQUARE
+http://www.stratco.com.au,,stratco.com.au,STRATCO,17 BONIFACE STREET,,4108,AUSTRALIA,+61 1300 165 165,"Stratco is one of the largest producers and marketers of quality building and home improvement products in Australia. With over 70 years of experience in the building and home renovation markets, Stratco values the importance of high standards of craftsmanship, inventive design and customer servi...",,4 SQUARE
+http://www.subwayargentina.com,,subwayargentina.com,SUBWAY,AV. MAIPÚ 2672,VICENTE LÓPEZ,,ARGENTINA,-,"SUBWAY® es la cadena de comida rápida más grande del mundo con más de 38,000 locales en 99 países.",https://facebook.com/Subway.ar,4 SQUARE
+http://www.sudakaonline.com,,sudakaonline.com,SUDAKA,104 ORCHARD ST,ELIZABETH,07208,(CHERRY ST.),(908) 558-0268,Sudaka represents latin american culture united by the exceptional tradition of peruvian cuisine and it's artistic heritage.,https://facebook.com/SudakaNJ,4 SQUARE
+http://www.sumosushi.md,,sumosushi.md,SUMO,"STR. PUȘKIN, 15",CHIȘINĂU,2012,MOLDOVA,+373 680 05 800,Sushi Restaurant,https://facebook.com/106335524916576,4 SQUARE
+http://www.surbus.com,,surbus.com,SURBUS,"FRENICHE, S/N",ALMERÍA,04009,SPAIN,+34 950 62 47 35,Bus Station,,4 SQUARE
+http://www.sving.cz,,sving.cz,SVING,PRŮMYSLOVÁ 1523,PRAGUE,198 00,CZECH REPUBLIC,+420 272 090 822,Miscellaneous Store,,4 SQUARE
+http://www.swimmingpool.nu,,swimmingpool.nu,RODORG,SICKLA INDUSTRIV. 7,NACKA,131 54,SWEDEN,+46 8 747 21 11,Construction Supplies Store,,4 SQUARE
+http://www.swissotel.com,,swissotel.com,DURBARI,"CITY CENTRE NEW TOWN, ACTION AREA 2D, PLOT NO. 11/5,  NEW TOWN, RAJARHAT",KOLKATA,700157,UNITED STATES,00913366266666,"The Indian specialty restaurant offers a comfortable seating capacity, the restaurant is a delightful venue for all who enjoy Indian traditional fare with a twist, outside of their own kitchens. The menu offered is a culinary journey from succulent kebabs to rich curries and fragrant “dum biryanis”.",https://facebook.com/swissotelhotelsresorts,4 SQUARE
+http://www.syrris.com,,syrris.com,SYRRIS,27-29 JARMAN WAY,ROYSTON,SG8 5HW,UNITED KINGDOM,+44 1763 242555,Business and Professional Services,,4 SQUARE
+http://www.t-bone.org.br,,t-bone.org.br,T-BONE,"CLN 312 BL. B, LJ. 27",BRASÍLIA,70765-520,BRAZIL,+55 61 3274-1665,"Butcher,BBQ Joint",,4 SQUARE
+http://www.tablavillage.com,,tablavillage.com,BSM 10,120 BOULEVARD DE CRETEIL,SAINT-MAUR-DES-FOSSÉS,94100,FRANCE,+33 1 48 83 30 01,"Fast Food Restaurant,€,€€€",,4 SQUARE
+http://www.tagliotrajes.com.ar,,tagliotrajes.com.ar,TAGLIO,GRAL. JUAN ÁLVAREZ DE ARENALES 462,MORÓN,B1708HCJ,(E/ DOMINGO FRENCH Y GRAL. LUIS MARÍA CAMPOS),+54 11 4483-3916,Tailor,https://facebook.com/trajestaglio,4 SQUARE
+http://www.taihei-bmw.co.jp,,taihei-bmw.co.jp,太平オート株式会社 豊橋支店/BPS 豊橋/豊橋サービスセンター,下地町橋口44-3,TOYOHASHI,440-0086,JAPAN,+81 532-52-2141,BMW on foursquare.,https://facebook.com/SteveThomasBMW1,4 SQUARE
+http://www.take7.co.uk,,take7.co.uk,TAKE 7,"3 HADLEY PARADE, HIGH ST",BARNET,EN5 5SX,UNITED KINGDOM,+44 20 8441 8332,Dry Cleaner,,4 SQUARE
+http://www.tandirimbiss.de,,tandirimbiss.de,TANDIR,SÜDSTR. 24,BRAUNSCHWEIG,38100,(ALTE KNOCHENHAUERSTR.),+49 531 16567,"Middle Eastern Restaurant,€€,€€",,4 SQUARE
+http://www.tao-bin.com,,tao-bin.com,TAO BIN,IT SQUARE,LAK SI,10210,(G FL),,"Coffee Shop,Tea Room,฿,฿฿฿",,4 SQUARE
+http://www.taps25.com,,taps25.com,TAPS 25,414 E MICHIGAN AVE,LANSING,48933,(BTW S CEDAR AND MUSEUM DR),(517) 913-0103,"Taps 25 is a cozy little beer bar with, you guessed it, 25 (well 26, but who’s counting?) tap handles. We have a nice, healthy mix of tasty imports like Newcastle, Bass and Guinness (hmmm, Black and Tan), Domestics (Leinenkugel has some nice beers) and of course, craft beers.",,4 SQUARE
+http://www.taqi.com.br,,taqi.com.br,TAQI,"AV. PARAGUASSÚ, 3150",CAPÃO DA CANOA,95555-000,BRAZIL,+55 51 3665-1465,"Furniture and Home Store,Electronics Store",,4 SQUARE
+http://www.tavernetta-azara.de,,tavernetta-azara.de,AZARA,WESTFÄLISCHE STR. 51,BERLIN,10711,GERMANY,+49 30 89043786,"Italian Restaurant,€€,€€",,4 SQUARE
+http://www.teboil.fi,,teboil.fi,TEBOIL,LASITEHTAANTIE 5,HUMPPILA,31640,FINLAND,,Fuel Station,,4 SQUARE
+http://www.tecnicaforestal.com,,tecnicaforestal.com,ARTELAN,"CALLE JUAN JOSÉ CONDE PELAYO, 9",PORTUGALETE,48920,SPAIN,+34 944 83 13 05,Education,,4 SQUARE
+http://www.tedoc.ch,,tedoc.ch,TEDOC,UNIONSTRASSE 17,GOLDACH,9403,SWITZERLAND,+41 71 840 08 60,Retail,,4 SQUARE
+http://www.tekuwa.de,,tekuwa.de,TEKUWA,FINSTERBACHSTRAßE 13,WEHR,79664,GERMANY,+49 7762 52120,Business and Professional Services,,4 SQUARE
+http://www.telesa.org,,telesa.org,TELESA,"CALLE NIETO BONAL, 29",SALAMANCA,37007,SPAIN,+34 923 12 55 00,"Una empresa con más de 30 años de experiencia en el sector de las telecomunicaciones, encontrarás en nosotros, a tu socio tecnológico perfecto para el desarrollo de tu empresa. Vivimos en la era de las telecomunicaciones y estar conectado es vital para estar informado.",,4 SQUARE
+http://www.telserco.com,,telserco.com,TSC,2 WILLIPIE ST,WAPAKONETA,45895,(AUGLAIZE ST.),(419) 739-2200,"Since the late 19th century, TSC (Telephone Service Company) in Wapakoneta, OH, has been the region’s leader in telecommunication services. From crystal-clear telephone connections to high-speed internet access, they have ways to keep you connected at affordable rates...",https://facebook.com/Telserco,4 SQUARE
+http://www.ten23.ca,,ten23.ca,TEN23,3100 STEELES AVE. E,MARKHAM,L3R 8T3,(AT WOODBINE AVE.),(905) 479-6488,Karaoke Bar,,4 SQUARE
+http://www.terragr.com,,terragr.com,TERRA,1429 LAKE DR SE,GRAND RAPIDS,49506,(GENESEE),(616) 301-0998,New American Restaurant,,4 SQUARE
+http://www.tesco.net,,tesco.net,LAYERS,8 POOLE RD,UPTON,BH16 5JA,UNITED KINGDOM,+44 1202 632908,Hair Salon,,4 SQUARE
+http://www.tetoteriablak.hu,,tetoteriablak.hu,KENDEL,ERZSÉBET ÚT 34-36,SZÉKESFEHÉRVÁR,8000,HUNGARY,+36 22 340 285,Construction Supplies Store,,4 SQUARE
+http://www.teva.ru,,teva.ru,TEVA,БЦ «WALL STREET»,MOSCOW,115093,"(ВАЛОВАЯ УЛ., 35)",+7 495 644-22-34,Office,,4 SQUARE
+http://www.texto-france.com,,texto-france.com,TEXTO,6210 AVENUE DE SAINT-EXUPÉRY,MANDELIEU-LA-NAPOULE,06210,FRANCE,+33 4 93 48 92 19,Shoe Store,,4 SQUARE
+http://www.thalesgroup.com,,thalesgroup.com,THALES,"2 MEADOW VIEW, DRAKES DR",LONG CRENDON,HP18 9EQ,UNITED KINGDOM,+44 1844 201800,Retail,,4 SQUARE
+http://www.the101hotels.com,,the101hotels.com,THE 1O1,JL. PANGERAN MANGKUBUMI 103,YOGYAKARTA,55232,(JL MANGKUBUMI),+62 274 2920101,"Hotel,Resort,Hotel Pool",https://facebook.com/the1O1yogtugu,4 SQUARE
+http://www.theaitex.com,,theaitex.com,A-ITEX,146 EASTER BANKTON,LIVINGSTON,EH54 9BH,UNITED KINGDOM,+44 7792 961946,Repair Service,,4 SQUARE
+http://www.theben.de,,theben.de,THEBEN,HOHENBERGSTRAßE 32,HAIGERLOCH,72401,GERMANY,+49 7474 6920,Business and Professional Services,,4 SQUARE
+http://www.theberrycompany.com,,theberrycompany.com,VIVIAL,5401 VETERANS MEMORIAL PKWY STE 200,SAINT PETERS,63376,UNITED STATES,(636) 939-1500,"Vivial is a full service marketing and advertising solution for small and medium-sized businesses. We offer a complete marketing and advertising solution, ranging from cutting-edge online marketing, including website design, search engine optimization (SEO) for your website, to traditional print ...",https://facebook.com/VIVIAL,4 SQUARE
+http://www.theblocla.com,,theblocla.com,THE BLOC,700 WEST 7TH STREET,LOS ANGELES,90017,UNITED STATES,(213) 454-4926,Reinvention. Discovery. Human Connection. Where you discovered DTLA.,,4 SQUARE
+http://www.thehublondon.co.uk,,thehublondon.co.uk,HUB,4-5 WARNER YARD,LONDON,EC1R 5EY,UNITED KINGDOM,+44 20 7837 4423,"Advertising Agency,Print Store",,4 SQUARE
+http://www.thema.sk,,thema.sk,THEMA,ŠAFÁRIKOVO NÁMESTIE 7,BRATISLAVA,811 02,SLOVAKIA,,Modern European Restaurant,https://facebook.com/978405462301385,4 SQUARE
+http://www.thesmallbusinessaccountants.co.uk,,thesmallbusinessaccountants.co.uk,VELDOR,23 CHAMBERS GROVE,WELWYN GARDEN CITY,AL7 4FG,UNITED KINGDOM,+44 1707 552023,"Financial Service,Legal Service",,4 SQUARE
+http://www.thespark.nyc,,thespark.nyc,SPARK,36 W 90TH ST APT B,NEW YORK,10024,UNITED STATES,(917) 817-7142,"Since 2015, we've been proud to offer our meditation, yoga, and art classes to New York's young ones!",,4 SQUARE
+http://www.thomarllc.com,,thomarllc.com,THOMAR,2828 FALLON DR,SHERMAN,75090,UNITED STATES,(903) 892-8983,Construction Supplies Store,,4 SQUARE
+http://www.thonburi.com,,thonburi.com,MERCEDES BENZ THONBURI PANICH,1024 RAMA IV RD,SATHON,10120,THAILAND,+66 2 286 7356,"Car Dealership,Automotive Repair Shop",https://facebook.com/BenzThonburiGroup,4 SQUARE
+http://www.tibal.org.uk,,tibal.org.uk,TIBAL,"CROSSHILL CENTRE, MAIN ST",FIFE,KY5 8BJ,UNITED KINGDOM,+44 1592 861719,Business and Professional Services,,4 SQUARE
+http://www.tiffin.com,,tiffin.com,TIFFIN,710 W GIRARD AVE,PHILADELPHIA,19123,(BTWN N 7TH & N MARSHALL ST),(215) 922-1297,"Tiffin.com is a web based service that aims to provide fresh, healthy and nutritious Indian and Asian food delivery to the location of your choice. The service has been modeled after the famous meal delivery service of Mumbai, India.",,4 SQUARE
+http://www.tigros.it,,tigros.it,TIGROS,VIA CATTANEO 8,SARONNO,21047,ITALY,+39 02 960 5293,Supermarket,https://instagram.com/tigros_official,4 SQUARE
+http://www.time4web.no,,time4web.no,NORFAK,BINDINGSVEIEN 106,SIGGERUD,1404,NORWAY,+47 952 67 112,Repair Service,,4 SQUARE
+http://www.tischa.be,,tischa.be,TISCHA,GROTE MARKT 42,WEVELGEM,8560,BELGIUM,+32 56 41 25 25,Women's Store,https://facebook.com/tischawomanconcept,4 SQUARE
+http://www.tishasfinedining.com,,tishasfinedining.com,TISHA'S,714 BOARDWALK,CAPE MAY,08204,UNITED STATES,(609) 884-9119,Seafood Restaurant,,4 SQUARE
+http://www.tiyo.in,,tiyo.in,TIYO,"140/2A, NETAJI SUBHASH CHANDRA BOSE RD",KOLKATA,700040,INDIA,+91 33 4063 1327,Tiyo is Asia's only 100% Verified Digital Healthcare Platform for Patients and Doctors. Find the best doctors for your health needs.,https://facebook.com/tiyoapp,4 SQUARE
+http://www.tluck.jp,,tluck.jp,T:LUCK,北沢2-30-10,TOKYO,,JAPAN,+81 3-5738-8459,Hair Salon,,4 SQUARE
+http://www.toastkitchenbakery.com,,toastkitchenbakery.com,TOAST,1769 NEWPORT BLVD,COSTA MESA,92627,UNITED STATES,(949) 873-5057,Bakery,https://facebook.com/toastamesa,4 SQUARE
+http://www.tohostudio.jp,,tohostudio.jp,12ST,成城1-4-1,TOKYO,157-0066,(東宝スタジオ),+81 3-3749-2121,Film Studio,,4 SQUARE
+http://www.tokyocentral.com,,tokyocentral.com,GINDACO,1740 W ARTESIA BLVD,GARDENA,90248,UNITED STATES,(310) 768-8256,"Snack Place,Japanese Restaurant",,4 SQUARE
+http://www.tonaso.cz,,tonaso.cz,ESON,U TONASA 172/2,ÚSTÍ NAD LABEM,403 31,CZECH REPUBLIC,+420 475 245 205,Business and Professional Services,,4 SQUARE
+http://www.topfloor.to,,topfloor.to,ILOFT,PERSILSTRAAT 51/1,HERENT,3020,BELGIUM,+32 16 31 75 31,Business and Professional Services,,4 SQUARE
+http://www.torosrestaurant.com,,torosrestaurant.com,TOROS,489 HAZEL ST,CLIFTON,07011,UNITED STATES,(973) 772-8032,"Middle Eastern Restaurant,Mediterranean Restaurant",,4 SQUARE
+http://www.toupi.fr,,toupi.fr,TOUPI,12 BOULEVARD DE MAGENTA,PARIS,75010,FRANCE,+33 7 81 82 45 62,Business and Professional Services,,4 SQUARE
+http://www.toyotainnova.com.mx,,toyotainnova.com.mx,TOYOTA,"PABLO A. GONZALEZ 408, COL. SAN JERÓNIMO",MONTERREY,,MEXICO,,Toyota Innova es una empresa orgullosamente regiomontana fusionada por Grupo Cleber y Toyota Tsusho America Inc.,,4 SQUARE
+http://www.toys4usa.com,,toys4usa.com,TOYS4U,4510 13TH AVE,BROOKLYN,11219,UNITED STATES,(718) 435-8697,Toy Store,,4 SQUARE
+http://www.tppr.co.uk,,tppr.co.uk,TPPR,"PANTILES CHAMBERS, 85, HIGH ST",TUNBRIDGE WELLS,TN1 1XP,UNITED KINGDOM,+44 1892 535130,Advertising Agency,,4 SQUARE
+http://www.tr-ag.hr,,tr-ag.hr,TR-AG,MIROSLAVA KRLEŽE 37,LUDBREG,42230,CROATIA,,"Financial Service,Legal Service",,4 SQUARE
+http://www.trendx.io,,trendx.io,TRENDX,8524 MASON ANDREW WAY,CHARLOTTE,28216,UNITED STATES,(704) 244-0773,"Financial Service,Legal Service",,4 SQUARE
+http://www.tricot.cl,,tricot.cl,TRICOT,CONDELL 1421,VALPARAÍSO,,CHILE,,Clothing Store,,4 SQUARE
+http://www.trimixstore.com,,trimixstore.com,TRIMIX,435 VALLEY BROOK AVE,LYNDHURST,07071,UNITED STATES,(973) 830-6591,Ice Cream Parlor,https://facebook.com/trimixstore,4 SQUARE
+http://www.trinity-wellbeing.co.uk,,trinity-wellbeing.co.uk,TRINITY,3-5 EARLS AVE,FOLKESTONE,CT20 2HR,UNITED KINGDOM,+44 1303 255301,Alternative Medicine Clinic,,4 SQUARE
+http://www.troica.si,,troica.si,TROICA,KRANJČEVA ULICA 61,LENDAVA,9220,SLOVENIA,+386 2 577 64 81,Restaurant,,4 SQUARE
+http://www.tru.kitchen,,tru.kitchen,TRU,KOPLI 25,TALLINN,10412,(RISTIKU),+372 5599 2121,"Vegan and Vegetarian Restaurant,€€,€€",https://instagram.com/trukitchentallinn,4 SQUARE
+http://www.trycktema.se,,trycktema.se,SIGNIC,STATIONSG. 15,GANTOFTA,253 73,SWEDEN,+46 42 400 20 21,"Advertising Agency,Print Store",,4 SQUARE
+http://www.tsoukalis.gr,,tsoukalis.gr,ΓΕΩΡΓΙΟΣ ΤΣΟΥΚΑΛΗΣ - ΙΔΙΩΤΙΚΟΣ ΕΡΕΥΝΗΤΗΣ - ΑΘΗΝΑ,ΠΑΝΕΠΙΣΤΗΜΊΟΥ 58,ATTICA,106 78,GREECE,+30 21 0384 6747,Business and Professional Services,,4 SQUARE
+http://www.tsymco.com,,tsymco.com,TSYMCO,"BUSINESS & INNOVATION CENTRE, WEARFIELD, SUNDERLAND ENTERPRISE PARK",SUNDERLAND,SR5 2TA,UNITED KINGDOM,+44 191 516 6792,Business and Professional Services,,4 SQUARE
+http://www.turstatrader.com,,turstatrader.com,E D S,129 STUDLAND RD,LONDON,W7 3QY,UNITED KINGDOM,+44 7957 357325,Construction Supplies Store,,4 SQUARE
+http://www.tutis3.com,,tutis3.com,TUTIS3,33 CLEVELAND ST,NORTH YORKSHIRE,TS6 0LT,UNITED KINGDOM,+44 7775 827566,Repair Service,,4 SQUARE
+http://www.ubx.uk.com,,ubx.uk.com,U B X,"POYLE TRADING ESTATE, POYLE RD",COLNBROOK,SL3 0AA,UNITED KINGDOM,+44 1753 762860,Retail,,4 SQUARE
+http://www.uimm-rd.fr,,uimm-rd.fr,UIMM,26 RUE ALFRED KASTLER,MONT-SAINT-AIGNAN,76130,FRANCE,+33 2 32 19 55 00,Business and Professional Services,,4 SQUARE
+http://www.uitechonline.com,,uitechonline.com,UITECH,2205 NW EMBERS TER,CAPE CORAL,33993,UNITED STATES,(239) 676-3916,"We're well versed in a variety of operating systems, IT Support and Network consulting. We work with almost any technology that a small company would find. We use this experience to help clients with small or medium projects...",https://facebook.com/UiTechonline,4 SQUARE
+http://www.ulb.be,,ulb.be,S.UB.4.136,,BRUSSELS,1050,BELGIUM,,College Auditorium,https://instagram.com/insta_ulb,4 SQUARE
+http://www.umpaweb.com,,umpaweb.com,UMPAWEB,"C/O KEARNEY & CO ,UNIT 2,",CHRISTCHURCH,8013,"(42 CHESTER ST WEST,)",+64 3 669 0618,"Umpaweb is a website development company, based in Christchurch, New Zealand. It Offers very affordable websites for different types of businesses and for personal use too.",,4 SQUARE
+http://www.unwinedva.com,,unwinedva.com,UNWINED,1600A BELLE VIEW BLVD.,ALEXANDRIA,22307,(BELLE VIEW SHOPPING CENTER),(571) 384-6880,Wine Store,https://facebook.com/UnwinedAVA,4 SQUARE
+http://www.urbike.de,,urbike.de,URBIKE,FELDSTR 37,HAMBURG,20357,GERMANY,+49 40 55895433,Bicycle Store,,4 SQUARE
+http://www.urvika.com,,urvika.com,URVIKA,26 AVENUE RENÉ CASSIN,LYON,69009,FRANCE,+33 4 78 38 65 70,Cabinet de recrutement/conseils,,4 SQUARE
+http://www.ustamp.hu,,ustamp.hu,USTAMP,,,,HUNGARY,,Tech Startup,,4 SQUARE
+http://www.valemo.fr,,valemo.fr,VALEMO,213 COURS VICTOR HUGO,BÈGLES,33130,FRANCE,+33 5 56 49 42 65,Business and Professional Services,,4 SQUARE
+http://www.veams.nl,,veams.nl,VEAMS,VISSERSTRAAT 36,GRONINGEN,9717GS,NETHERLANDS,+31 50 851 5320,"Veams is een namenwinkel, specialist op het gebied van naamgeving en slogans.",,4 SQUARE
+http://www.vegasoft.com.mx,,vegasoft.com.mx,MIGUEL,"CTO. CIRUJANOS 23 A, CD. SATELITE",CUAUTITLÁN IZCALLI,53100,MEXICO,+52 55 5374 7000,Electronics Store,,4 SQUARE
+http://www.velit.fr,,velit.fr,VELIT,252 RUE DE L'ERIER,LA MOTTE-SERVOLEX,73290,FRANCE,+33 6 67 75 70 75,Construction Supplies Store,,4 SQUARE
+http://www.venca.es,,venca.es,VENCA,"RONDA DE LA UNIVERSITAT, 17",BARCELONA,08017,(ESQUINA C. BALMES),,Más guapa | Mejor precio. Moda Mujer de la talla 34 a la 54.,,4 SQUARE
+http://www.vence.fr,,vence.fr,VENCE,,,06140,FRANCE,+33 4 93 58 41 00,City,,4 SQUARE
+http://www.verest.com,,verest.com,VEREST,BJÖRSEBO 205,TORSÅS,385 93,SWEDEN,+46 486 415 20,Business and Professional Services,,4 SQUARE
+http://www.vertou.fr,,vertou.fr,VERTOU,,,44120,FRANCE,,City,,4 SQUARE
+http://www.vesta-cheminees.be,,vesta-cheminees.be,VESTA,PLACE DU LIEUTENANT CALLEMEYN 7/17,ARLON,6700,BELGIUM,+32 63 22 28 75,Construction Supplies Store,,4 SQUARE
+http://www.viajaramyanmar.com,,viajaramyanmar.com,CASA,CARRER DE PROVENÇA 427,BARCELONA,08025,SPAIN,+34 629 29 47 42,Tourist Information and Service,,4 SQUARE
+http://www.vidanex.com,,vidanex.com,VIDANEX,25098 OLYMPIA AVE UNIT 400,PUNTA GORDA,33950,UNITED STATES,(941) 217-7992,"For safe, effective medical weight loss that’s supported by research, VidaNex in Punta Gorda, Florida, is the place to go. Board-certified bariatric and family physician Jorge Cabrera, MD, PhD, MsCI, has extensive experience guiding overweight adults and athletes toward their ideal bodies...",,4 SQUARE
+http://www.videomed.cl,,videomed.cl,VIDEOMED,PROF ALBERTO ZAÑARTU 1060,INDEPENDENCIA,,CHILE,+56 2 2978 6005,Education,,4 SQUARE
+http://www.viehotelbangkok.com,,viehotelbangkok.com,LA VIE,VIE HOTEL BANGKOK,RATCHATHEWI,10400,(11TH FL),+66 2 309 3939,"French Restaurant,฿฿฿,฿",,4 SQUARE
+http://www.vijssutra.com,,vijssutra.com,SUTRA,"UNIT S13, #6-1701 DOUGLAS ST.",VICTORIA,V8W 0C1,CANADA,(778) 747-0174,Indian Restaurant,,4 SQUARE
+http://www.vikingtakeaway.co.uk,,vikingtakeaway.co.uk,VIKING,45 LEEMING ST.,MANSFIELD,NG18 1NB,UNITED KINGDOM,+44 1623 626100,"Pizzeria,£,£££",,4 SQUARE
+http://www.vin-to.be,,vin-to.be,VINTO,HOOGSTRAAT 7,KRUISHOUTEM,9770,BELGIUM,+32 9 222 95 35,"Belgian Restaurant,Lounge",https://facebook.com/restaurant.Vinto,4 SQUARE
+http://www.vin121.dk,,vin121.dk,VIN121,PETER BANGS VEJ 121,FREDERIKSBERG,2000,DENMARK,+45 21 81 12 26,Wine Store,https://facebook.com/v121.dk,4 SQUARE
+http://www.vina.ch,,vina.ch,VINA,,,,SWITZERLAND,+41 44 919 80 90,Wine Store,,4 SQUARE
+http://www.vivaneo.dk,,vivaneo.dk,VIVANEO,STORE KONGENSGADE 40H,COPENHAGEN,1264,DENMARK,+45 50 60 07 66,BLIV ÆGDONOR - Bliv ægdonor og hjælp kvinder og par med at få opfyldt drømmen om barn. VivaNeo har klinikker både i København og Aarhus og vi glæder os til at høre fra dig,,4 SQUARE
+http://www.vloors.de,,vloors.de,VLOORS,HOHENSTAUFENRING 43-45,COLOGNE,50674,GERMANY,+49 221 82829275,Carpet Store,https://facebook.com/vloors.de,4 SQUARE
+http://www.voestalpine.at,,voestalpine.at,BG 75,VOESTALPINE,LINZ,4020,(VOESTALPINE-STR. 3),,Office,,4 SQUARE
+http://www.vogels.com,,vogels.com,VOGEL'S,HONDSRUGLAAN 93,EINDHOVEN,5628,NETHERLANDS,,Office,,4 SQUARE
+http://www.volcanic.co.uk,,volcanic.co.uk,VOLCANIC,"DALE HOUSE, TIVIOT DALE",STOCKPORT,SK1 1TB,UNITED KINGDOM,+44 161 413 6424,Tech Startup,,4 SQUARE
+http://www.volke.de,,volke.de,VOLKE,DAIMLERSTR. 35,WOLFSBURG,38446,GERMANY,+49 5361 5030,Office,,4 SQUARE
+http://www.volupe.com,,volupe.com,VOLUPE,KOBBEGÅRDSV. 7,ASKIM,436 34,SWEDEN,,Retail,,4 SQUARE
+http://www.vpm.com.ar,,vpm.com.ar,VPM,SUIPACHA 745 4º PISO,BUENOS AIRES,C1008AAO,(E/ VIAMONTE Y AV. CÓRDOBA),+54 11 5238-0555,Advertising Agency,,4 SQUARE
+http://www.vysperkujse.cz,,vysperkujse.cz,SIRAPY,RÝMAŘOVSKÁ 361,PRAGUE,199 00,CZECH REPUBLIC,+420 210 326 777,Tech Startup,,4 SQUARE
+http://www.wabar.co.kr,,wabar.co.kr,WABAR,마포구 양화로 156,SEOUL,,"(홍대역점, LG팰리스타워 1F)",+82 2-6354-0606,"Brewery,Pub,Bar,₩₩,₩₩",,4 SQUARE
+http://www.walwo.pl,,walwo.pl,WALWO,KOŚCIUSZKI 7,BRZEZINY,95-060,POLAND,+48 46 874 22 02,Used Car Dealership,,4 SQUARE
+http://www.watosons.com.hk,,watosons.com.hk,WATSONS,"G/F, ALHAMBRA BUILDING",HONG KONG,,HONG KONG,+852 2656 3528,"Pharmacy,Cosmetics Store,Supplement Store",https://facebook.com/watsonshongkong,4 SQUARE
+http://www.waxandgo.ru,,waxandgo.ru,WAX&GO,"РУБЛЕВСКОЕ ШОССЕ, 42 К1",MOSCOW,121609,RUSSIA,,Health and Beauty Service,https://instagram.com/waxandgo,4 SQUARE
+http://www.waxtie.com,,waxtie.com,WAXTIE,25 CHURCHVILLE,MICKLEFIELD,LS25 4AP,UNITED KINGDOM,+44 845 241 3211,IT Service,,4 SQUARE
+http://www.weles-luzny.pl,,weles-luzny.pl,"""WELES""",UL. NARUTOWICZA 5/7,PODDĘBICE,99-200,POLAND,+48 43 678 37 84,Construction Supplies Store,,4 SQUARE
+http://www.weloveparmo.co.uk,,weloveparmo.co.uk,PARMO,886 ECCLESALL RD,SHEFFIELD,S11 8TP,UNITED KINGDOM,+44 114 266 4440,Restaurant,,4 SQUARE
+http://www.what-shop.com,,what-shop.com,WHAT?,"74, RUE DU MARCHE AU CHARBON",BRUSSELS,1000,BELGIUM,+32 2 513 83 00,Clothing Store,,4 SQUARE
+http://www.whynotbar.ru,,whynotbar.ru,WHY NOT?,"ПРОСП. БОГОЛЮБОВА, 5",DUBNA,141980,RUSSIA,+7 496 212-15-98,"Steakhouse,Bar,₽₽₽₽",,4 SQUARE
+http://www.wifiz.fr,,wifiz.fr,WIFIZ,12 BOULEVARD EXELMANS,PARIS,75016,FRANCE,+33 1 77 62 41 43,Advertising Agency,,4 SQUARE
+http://www.winnerinterpack.com,,winnerinterpack.com,บริษัท วินเนอร์ อินเตอร์ แพค จำกัด,21/8 หมู่2 ต.ท่าเสา,KRATHUM BAEN,74110,(เลียบคลองน้อย),+66 34 879 139,Factory,,4 SQUARE
+http://www.wirexapp.com,,wirexapp.com,WIREX,"ВУЛ. ВЕЛИКА ЖИТОМИРСЬКА, 20",KYIV,01001,UKRAINE,,Tech Startup,,4 SQUARE
+http://www.wlbz2.com,,wlbz2.com,WLBZ,329 MOUNT HOPE AVE,BANGOR,04401,(AT HOWARD ST),(207) 942-4821,TV Station,,4 SQUARE
+http://www.wmbyg.dk,,wmbyg.dk,WM-BYG,KALBYRISVEJ 93,NÆSTVED,4700,DENMARK,+45 20 72 14 14,Construction Supplies Store,,4 SQUARE
+http://www.wugii.dk,,wugii.dk,WUGII,NORDKROGEN 2,SILKEBORG,8600,DENMARK,+45 26 81 70 28,Business Service,,4 SQUARE
+http://www.wwwsmb-motocom.jimdosite.com,,wwwsmb-motocom.jimdosite.com,SMB,349 RUE DES FRÈRES THIBAULT,DAMMARIE-LES-LYS,77190,FRANCE,+33 1 60 99 08 72,Concessionnaire officiel Suzuki - Vente et réparation de motos toutes marques : Suzuki - Yamaha - Kawasaki - Honda - Ducati - BMW - Piaggio - Aprila - Triumph - KTM - Harley Davidson - Vente d'accessoires - Equipement pilote - Service Atelier,,4 SQUARE
+http://www.xhauri.co.uk,,xhauri.co.uk,XHAURI,176 HOE ST,LONDON,E17 4QH,UNITED KINGDOM,+44 20 8509 1941,"Coffee Shop,Restaurant,£,£££",,4 SQUARE
+http://www.xiriux.net,,xiriux.net,XIRIUX,CRRA. 7BIS # 123-52,USAQUEN,,COLOMBIA,,Soluciones Integrales en Telecomunicaciones,,4 SQUARE
+http://www.xn--hlsa-loa.se,,xn--hlsa-loa.se,LASA,SANDELSG. 9,STOCKHOLM,115 34,SWEDEN,+46 8 728 23 00,Repair Service,,4 SQUARE
+http://www.xwerks.com,,xwerks.com,XWERKS,11161 E STATE ROAD 70 STE 110-128,LAKEWOOD RANCH,34202,UNITED STATES,(888) 892-3931,Elite Nutrition for Elite Athletes.,,4 SQUARE
+http://www.xylemwatersolutions.com,,xylemwatersolutions.com,XYLEM,BOSTÄLLSVÄGEN 4,ÖREBRO,702 27,SWEDEN,+46 10 603 50 00,"Med 12 500 engagerade medarbetare i mer än 150 länder har vi resurserna som krävs för att hitta innovativa lösningar för världens vattenförsörjning. En grundläggande del av vårt arbete är att utveckla nya tekniker som förbättrar vårt sätt att använda, förvara och återanvända vatten...",,4 SQUARE
+http://www.yard.co.uk,,yard.co.uk,YARD,171 BRIDPORT RD,DORSET,DT1 3AH,UNITED KINGDOM,+44 1305 757337,Boutique,,4 SQUARE
+http://www.yoggi.com.br,,yoggi.com.br,YOGGI,SHOPPING GRANJA VIANNA,COTIA,06709-015,"(LIFESTYLE, LOJA 403A)",+55 11 4613-6769,Ice Cream Parlor,,4 SQUARE
+http://www.yolli.com,,yolli.com,YOLLI,ARKWRIGHT CT,STAINING,FY4 5DR,UNITED KINGDOM,+44 1253 882961,Retail,,4 SQUARE
+http://www.york.ac.uk,,york.ac.uk,EDGE,WENTWORTH COLLEGE,YORK,YO10 5DD,(UNIVERSITY OF YORK),,Take yourself to the Edge... you won’t be disappointed! Relax in the spacious and sophisticated café lounge over a cappuccino or drink.,https://facebook.com/universityofyork,4 SQUARE
+http://www.youniqueproducts.com,,youniqueproducts.com,GEMMA'S,206 NEWCHURCH RD,BACUP,OL13 0TS,UNITED KINGDOM,+44 1706 878200,Hair Salon,,4 SQUARE
+http://www.yuesunrestaurant.com,,yuesunrestaurant.com,YUE-SUN,357 GEORGETOWN SQ,WOOD DALE,60191,(AT RT. 19),(630) 595-2288,"From our hibachi fire show to our rotating sushi bar, Yue-Sun brings the excitement of Japanese cuisine to Illinois. Our specially trained chefs will dazzle and delight the entire family as your meal is tossed about and served to perfection.",https://facebook.com/1898719100450508,4 SQUARE
+http://www.yuipdx.com,,yuipdx.com,YUI,5519 NE 30TH AVE,PORTLAND,97211,(KILLINGSWORTH),,Thai Restaurant,,4 SQUARE
+http://www.zacalife.com,,zacalife.com,ZACA,191 UNIVERSITY BLVD,DENVER,80206,UNITED STATES,(413) 262-4503,Bar,,4 SQUARE
+http://www.zaik.uni-koeln.de,,zaik.uni-koeln.de,ZAIK,WEYERTAL 80,COLOGNE,50931,(UNIVERSITÄT ZU KÖLN),,College Math Building,,4 SQUARE
+http://www.zamor.de,,zamor.de,ZAMOR,KRUMENAUERSTRAßE 44,INGOLSTADT,85049,GERMANY,+49 841 46101,Social Club,,4 SQUARE
+http://www.zazen-shiatsu-levaudreuil.fr,,zazen-shiatsu-levaudreuil.fr,ZAZEN,24 RUE DU GÉNÉRAL DE GAULLE,LE VAUDREUIL,27100,FRANCE,+33 6 80 83 54 48,"Faites une pause au rythme accéléré de votre quotidien et venez profitez d'une séance de massage.Formée à la médecine traditionnelle chinoise, je vous propose des séances de Shiatsu (pressions par les pouces sur les points d'acupuncture), massage chinois à 2 ou 4 mains (doux et vitalisant)",,4 SQUARE
+http://www.zazzou.be,,zazzou.be,ZAZZOU,POPULIERENHOF 42,GAVERE,,BELGIUM,+32 499 29 44 49,Event Service,,4 SQUARE
+http://www.zeeraealing.co.uk,,zeeraealing.co.uk,ZEERA,"10 QUEENS PARADE, EALING",LONDON,W5 3HU,"(STATION ROAD, EALING)",+44 20 8997 0210,"Indian Restaurant,£,£££",,4 SQUARE
+http://www.zegosprl.be,,zegosprl.be,ZEGO,QUAI DE MARIMONT 12,BRUSSELS (MOLENBEEK-SAINT-JEAN),1080,BELGIUM,+32 475 62 70 49,Business and Professional Services,,4 SQUARE
+http://www.zenpark.com,,zenpark.com,ZENPARK,108 QUAI DE BRAZZA,BORDEAUX,33100,FRANCE,+33 1 85 39 09 09,Parking,,4 SQUARE
+http://www.zentraterapia.com,,zentraterapia.com,ZENTRA,CALLE PÉREZ ZAMORA 11,PUERTO DE LA CRUZ,38400,SPAIN,+34 922 38 42 13,"Zentra es un espacio dedicado a las Terapias, el Masaje y la Acupuntura. Tratamos de encontrar el origen de la causa que está causando los síntomas en nuestro organimo.",,4 SQUARE
+http://www.zeusfit.it,,zeusfit.it,ZEUS,STRADA PROVINCIALE MUGNANO-MELITO 118,MUGNANO DI NAPOLI,80018,ITALY,+39 331 223 2807,Gym and Studio,,4 SQUARE
+http://www.zilvermeer.be,,zilvermeer.be,KW 5,ZILVERMEERLAAN,MOL,2400,BELGIUM,,Campground,,4 SQUARE
+http://www.znalac.hr,,znalac.hr,ZNALAC,"ZAGREB, SISAČKA CESTA II. ODVOJAK 64",ZAGREB,10000,CROATIA,,Non-Profit Organization,,4 SQUARE
+http://www.zpizza.com,,zpizza.com,ZPIZZA,32371 GOLDEN LANTERN,LAGUNA NIGUEL,92677,UNITED STATES,(949) 481-3948,Pizza for a healthier lifestyle!,,4 SQUARE
+http://www.zuaya.co.uk,,zuaya.co.uk,ZUAYA,35B HIGH ST,LONDON,W8 5EA,UNITED KINGDOM,+44 20 7938 3533,"Latin American Restaurant,££,££",https://facebook.com/179132839594578,4 SQUARE

@@ -1,0 +1,15 @@
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\bin\Debug\net6.0\coreConsoleApplication.exe
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\bin\Debug\net6.0\coreConsoleApplication.deps.json
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\bin\Debug\net6.0\coreConsoleApplication.runtimeconfig.json
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\bin\Debug\net6.0\coreConsoleApplication.dll
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\bin\Debug\net6.0\coreConsoleApplication.pdb
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\obj\Debug\net6.0\coreConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\obj\Debug\net6.0\coreConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\obj\Debug\net6.0\coreConsoleApplication.AssemblyInfo.cs
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\obj\Debug\net6.0\coreConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\obj\Debug\net6.0\coreConsoleApplication.dll
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\obj\Debug\net6.0\ref\coreConsoleApplication.dll
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\obj\Debug\net6.0\coreConsoleApplication.pdb
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\obj\Debug\net6.0\coreConsoleApplication.genruntimeconfig.cache
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\obj\Debug\net6.0\coreConsoleApplication.sourcelink.json
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleApplication\obj\Debug\net6.0\refint\coreConsoleApplication.dll

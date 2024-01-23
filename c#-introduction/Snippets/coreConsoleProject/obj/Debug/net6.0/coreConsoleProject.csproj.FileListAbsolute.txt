@@ -1,0 +1,15 @@
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\bin\Debug\net6.0\coreConsoleProject.exe
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\bin\Debug\net6.0\coreConsoleProject.deps.json
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\bin\Debug\net6.0\coreConsoleProject.runtimeconfig.json
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\bin\Debug\net6.0\coreConsoleProject.dll
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\bin\Debug\net6.0\ref\coreConsoleProject.dll
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\bin\Debug\net6.0\coreConsoleProject.pdb
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\obj\Debug\net6.0\coreConsoleProject.csproj.AssemblyReference.cache
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\obj\Debug\net6.0\coreConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\obj\Debug\net6.0\coreConsoleProject.AssemblyInfoInputs.cache
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\obj\Debug\net6.0\coreConsoleProject.AssemblyInfo.cs
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\obj\Debug\net6.0\coreConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\obj\Debug\net6.0\coreConsoleProject.dll
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\obj\Debug\net6.0\ref\coreConsoleProject.dll
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\obj\Debug\net6.0\coreConsoleProject.pdb
+C:\Users\csfwn\git-projects\Projects\c#-introduction\Snippets\coreConsoleProject\obj\Debug\net6.0\coreConsoleProject.genruntimeconfig.cache
