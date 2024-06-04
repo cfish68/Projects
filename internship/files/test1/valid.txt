@@ -1,0 +1,12 @@
+URL,phone,address,contact
+http://www.2013ving.tumblr.com,True,True,False
+http://www.4-gott.se,True,True,True
+http://www.5m.cz,False,True,True
+http://www.755700.ru,True,False,True
+http://www.7nn.tv,False,False,True
+http://www.a-wines.com,False,True,True
+http://www.abenaab.se,True,True,False
+http://www.abidis-depannage.com,False,False,True
+http://www.abrigo.com,False,True,False
+http://www.absd.fr,True,True,True
+http://www.adalid.fr,False,False,True

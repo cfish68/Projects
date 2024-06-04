@@ -1,0 +1,4 @@
+URL,date,typeError
+http://www.1000it.biz,2024-01-29 13:31:38.462039,Connection Error
+http://www.1chigo-yaizu.gorp.jp,2024-01-29 13:31:40.753175,Connection Error
+http://www.26930fraserhighway.midasvancouver.com,2024-01-29 13:32:04.189185,Connection Error

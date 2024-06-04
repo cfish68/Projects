@@ -10,7 +10,7 @@ file_list = os.listdir(path)
 header = ['URL']
 
 #structure to add all the websites row by row for the puropse of csv format
-data = [[]]
+data = []
 
 for file_name in file_list:
     file_path = os.path.join(path, file_name)

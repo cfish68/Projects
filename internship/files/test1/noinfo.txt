@@ -1,0 +1,7 @@
+URL,date
+http://www.260berry.com,2024-01-29 13:31:42.722117
+http://www.5-wits.com,2024-01-29 13:32:12.424276
+http://www.7eleven.co.kr,2024-01-29 13:32:17.615617
+http://www.a2pt.co.uk,2024-01-29 13:32:26.282964
+http://www.aas.se,2024-01-29 13:32:26.453486
+http://www.acscourier.net,2024-01-29 13:33:04.492425
